@@ -1,0 +1,2 @@
+This repositpry is an outcome of the Measuring the Earth project at the Max Planck Institute for the History of Science (2018-2022). The project aimed to provide an open repository of primary sources for the history of late modern geodetical research. 
+Through a digitization process made possible by a cooperation between the libraries of the MPIWG and the GFZ in Potsdam you can find here conference reports and volumes produced by the International Erdmessung from 1862 to 1912.

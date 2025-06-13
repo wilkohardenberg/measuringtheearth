@@ -1,0 +1,1110 @@
+;;),~~
+
+<.QB
+tJ5
+
+U.S. DEPARTMENT OF COMMERCE
+SINCLAIR WEEKS, SBCIU!TARY
+
+COAST AND GEODETIC SURVEY
+H.
+ARNOLD KARO,
+
+Dimtor
+
+1151(_,;}
+ANNUAL REPORT
+OF THE
+
+DIRECTOR OF THE COAST AND GEODETIC SURVEY
+FOR THE
+
+FISCAL YEAR ENDED JUNE 30, 1957
+
+INCLUDING THE
+
+SESQUICENTENNIAL CELEBRATION
+
+For sale by the U.S. Dcpartm~t of Commerce, Washington 25, D. C.
+
+Price 40 cents
+
+National Oceanic and Atmospheric Adm.inistration Annual Report of the Director of the Coast and Geodetic Survey
+
+ERRATA NOTICE
+One or more conditions of the original document may affect the quality of the image, such as: Discolored pages Faded or light ink Binding intrudes into the text This has been a co-operative project between the NOAA Central Library and the Climate Database Modernization Program, National Climate Data Center (NCDC). To view the original document, please contact the NOAA Central Library in Silver Spring, MD at (301) 713-2607 x124 or Library.Reference@noaa.gov.
+
+HOV Services Imaging Contractor 12200 Kiln Court Beltsville, MD 20704-1387 October 1, 2008
+
+Sesquicentennial Banquet, Washington, D. C., February 5, 1957 .
+
+CONTENTS
+Sesquicentennial of the Coast and Geodetic Survey
+Page
+
+Introduction............................................................................... Preparatory Activities................................................................. Commemorative Events............................................................... Official Banquet....................................................................... Postage Stamp Ceremony .. .. .. ·.. ·.. .. .. ·.. .. .. .. ·.. .. ·.. .. .. .. .. .. .. .. .. .. .. .. .. . Open Houses and Field Demonstration......................................... Special Awards Programs......................................................... Publications Issued..................................................................... Papers Presented........................................................................ The Future................................................................................ Appendix...................................................................................
+
+1 2 4 4 5 5 7 7 8 8 8
+
+International Geophysical Year Coast Survey Participation........................................................... The Year's Activities by Functions Surveys of Coastal Waters .......................................................... . Atlantic and Gulf Coasts ......................................................... .. Pacific Coast, Alaska, and Hawaiian Islands ................................ . District Offices ...................................................................... . Photogrammetric Surveys ...... , ................ , ................................... . Tide and Current Surveys ........................................................... . Tidal Surveys ................................... , .................................... . Current Surveys ............. , ....................................................... . Predictions ............................................................................ . Related Oceanographic Work .................................................... . Geomagnetic Surveys ................................................................. . Seismology ............................................................................... . Geodetic Control Surveys .................................................. : ......... . Field Work ............................................................................ . Office Work ........................................................................... . Nautical and Aeronautical Charts ................................................. . Nautical Charts ...................................................................... . Aeronautical Charts ................................................................ . Chart Reproduction ................................................................. . Chart Distribution .................................................................. . Improvements in Instruments, Equipment, and Techniques ................ . National and International Cooperation .......................................... . National Agencies ...................... , ....... , .................................... . International Technical Cooperation Program .............................. . Other International Cooperation ............................................... .. Administration ................ ; ......................................................... . Personnel. ............................................................................. . Finances .·.................·.............·...................·...................·...... Management Improvement ........................................................ . Administrative Changes ........................................................... . Publications and Information........................................................ . Types of Publications Issued..................................................... . Papers Published ..................................................................... . Papers Presented .................................................................... . Requests for Technical Information .......................................... .. Other In for ma ti on Available to the Public ................................... .. Visitors to Bureau ............-...................................................... .
+(III)
+
+17
+
+19 19 21
+22
+
+24
+27 27
+
+28 28 28
+30 31
+
+32
+33
+
+40 42 43 44 46 46 49
+52 52 56
+
+57 58 58 60
+61 61
+
+62 62
+65
+
+66 68
+
+68 69
+
+Sesquicentennial of the Coast and Geodetic Survey
+INTRODUCTION
+FISCAL YEAR 1957 brought to a close the first 150 years of Coast Survey service to the Nation-a milestone in the life of any undertaking. This sesquicentennial of service has been appropriately commemorated throughout the calendar year, and this portion of the Annual Report is devoted to recording the various ways in which it was observed both within and without the bureau. The commemoration of the lSOth anniversary of the inception of the Coast Survey is a memorial to the statesmanship of the early leaders of the Nation who wisely considered the surveying and charting of our coasts and harbors as essential functions of government. It is no less a tribute to the early leaders of the Survey who laid a scientific foundation that has stood well the test of time. Work in those days was truly a pioneering effort, but the gigantic task was approached with a dedication and singleness of purpose that has been an inspiration to those who followed. In recognition of the historic event, President Eisenhower honored the bureau with the following proclamation, setting aside the month of February 1957 as "Coast and Geodetic Survey Month":
+PRESIDENTIAL PROCLAMATION OF JANUARY 10, 1957
+WHEREAS, by an act of Congress approved February 101 1807 (2 Stat. 413), President Thomas Jefferson was authorized and requested to cause a survey to be taken of the coasts of the United States and to take such further action as he deemed proper for completing an accurate chart of every part of these coasts; and WHEREAS the. observance of the 150th anniversary of the Coast and Geodetic Survey, which traces its origins to the above-mentioned act, will honor the services of the officers and employees of the Coast and Geodetic Survey who have maintained so zealously the reputation of our Nation in the development of mathematical and physical sciences related to higher surveying and cartography; and WHEREAS the Coast and Geodetic Survey, in surveying uncharted coastal waters and in mapping virgin regions of our country and its territories and possessions, has been safeguarding life and commerce for a century and a half; and · WHEREAS the devotion, industry, efficiency, and enterprise of Coast and Geodetic Survey personnel throughout the years have set an enviable record of public service: NOW, THEREFORE, 1, DWIGHT D. EISENHOWER, PresidentoftheUnited States of America, do hereby proclaim the month of February 1957 as Coast and Geodetic Survey Month; .and I call upon my fellow citizens to salute the
+
+1
+
+Coast and Geodetic Survey during that month with ceremonies designed to give appropriate recognition to one of our oldest and most respected Federal agencies on the occasion of its sesquicentennial anniversary. IN WITNESS WHEREOF, I have hereunto set my hal}d and caused the Seal of the United States of America to be affixed. DONE at the City of Washington this tenth day of January in the year of our (SE AL) Lord nineteen hundred and fifty-seven, and of the Independence of the United States of America the one hundred and eighty-first. DWIGHT D. EISENHOWER
+By the President:
+
+JOHN FOSTER DULLES,
+
+Secretary of State.
+
+PREPARATORY ACTIVITIES
+A sesquicentennial celebration was first proposed in 1954 by the then Director, Rear Admiral Studds, and was approved by the Department. Exploratory discussions as to its nature and scope were held with the Office of Public Information shortly thereafter. In September 1955, Admiral Karo appointed a steering committee consisting of Capt. E. B. Roberts, chairman; A. A. Stanley, executive secretary; and Comdr. C. A. Schanck, Comdr. E. H. Sheridan, and John D. Kay, members. This committee had the responsibility of planning and directing the manifold activities that were contemplated during the entire sesquicentennial. The theme of the celebration was to be "150 Years of Service," and all efforts were directed to conveying this message to the scientific and lay public through the various communication mediums available. Through the Office of Public Information, press releases were prepared and given wide coverage. These stressed the history, activities, and highlights of 150 years of service and formed the bases for editorials in many newspapers and for feature articles and general news items. A number of magazines and technical journals published editorials and unsigned articles on the bureau prepared by their own staffs. Among these were U. S. News and World Report, Marine News, Steelways, The Science Teacher, and Navat Aviation News. In its February 1957 issue, the National· Geographic Magazine published a 20-page, illustrated article on" Charting Our Sea and Air Lanes," by Stuart E. Jones, a staff writer, based on an on-the-ground visit to a number of the bureau field parties. The magazine Holiday honored the bureau with its annual travel award. The citation read: " ... for a century and a half of charting the territorial waters of the United States, and especially for keeping small-boat owners informed about navigational hazards." Additional news coverage was obtained through specific articles preparoo by bureau personnel for publication in scientific and technical journals. A list of these follows:
+2
+
+PAPERS PREPARED FOR PUBLICATION
+One Hundred and Fifty Years of Accuracy, H. Arnold Karo, Public Works, January 1957. One Hundred and Fifty Years of Service, H. Arnold Karo, The Retired Officer, January-February 1957. United States Coast and Geodetic Survey, 1807-1957, Gilbert T. Rude, The Retired Officer, January-February 1957. Sesquicentennial of Coastal Charting, Albert A. Stanley, The Military Engineer, January-February 1957. Modern Nautical Charts, Wallace A. Bruder, Marine News, February 1957. Tide Predicting Machine, Kenneth G. Crosby, Marine News, February 1957. Coast and Geodetic Survey, Elliott B. Roberts, U. S, Naval Institute Proceedings, February 1957. Development and Use of Photogrammetry in the Coast and Geodetic Survey, H. Arnold Karo, Photogrammetric Engineering, April 1957. The Nautical Chart-Basic Aid to Navigation, John A. McCormick, Proceedings of the Merchant Marine Council, April 1957. Nautical Charting (1807-1957), Aaron L. Shalowitz, The Scientific Monthly, June 1957. Our Last Frontier, Gilbert T. Rude, The Geographical Review, July 1957. Coast and Geodetic Survey Field Demonstration of Surveying and Mapping Operations, Ernest J. Parkin, Surveying and Mapping, July-September 1957, 150 Years of Nautical Charting Progress, Aaron L. Shalowitz, Surveying and Mapping, July-September 1957. Alexander Dallas Bache-Pioneer American Scientist, Aaron L. Shalowitz, Journal of the Washington Academy of Sciences, August 1957. Geodesy--Foundation for National Mapping, Aaron L. Shalowitz, The Military Engineer, September-October 195 7. Precise Determination of Longitude in the United States, Robert W. Knox, The Geographical Review, October 1957. Evolution of Coastal Charting for Maritime Commerce, H. Arnold Karo, Sperryscope, Fourth Quarter 1957.
+
+To stimulate interest in the celebration and to provide publication and other material, three contests were held in advance of the Sesquicentennial which were open to all bureau personnel, active and retired. These included a photographic contest, a design for a commemorative stamp, and an essay contest. Three monetary prizes were offered in each category as well as a number of "honorable mention" awards. Chairmen of judges were selected from the bureau, with two members from other Federal or commercial agencies. The photographic contest was productive of 118 entries and furnished a variety of new photographic subjects. Winners of the contest were Lt. (j.g.) H. A. Garcia, first prize; W. C. Bugbee, second prize; and B. Hale, third prize. Six other entries received honorable mention. The judges were John D. Kay, chairman; G.D. Hampshire, National Geographic Society; and J. L. Albright, U.S. Air Force. In the postage stamp contest, 38 entries were received. Of these, first prize was awarded to H. E. MacEwen, second prize to W. F. Rexrode, and third prize to (Miss) S. Duerksen. Five other de3
+
+signs received honorable mention. Judges were Capt. E. R. McCarthy, chairman; R. E. Fellers, Division of Philately, Poat Office Dept.; and D. R. McLeod, Bureau of Engraving and Printing. In the essay contest awards were of two kinds: two prizes for essays of 2000 words or more and one prize for essays of less than 2000 words. Thirty-three entries were received. For the longer essays, first prize was awarded to Rear Adm. E. A. Deily (Ret.) for the article "The Coast and Geodetic Survey in the Philippine Islands," and second prize to A. L. Shalowitz for the article "A Century and a Half of Scientific Nautical Charting." The third prize was awarded to A. L. Shalowitz for the article "National Geodesy-Its Contributions to Mapping and Engineering." Five other entries received honorable mention. The judges were Comdr. F. R. Gossett, chairman; H. Scharer, Office of Public Information, Dept. of Commerce; and Dr. H. Birnbaum, National Bureau of Standards. Another of the preparatory activities was the striking of a commemorative medal. R. E. Cozzens, a bureaucartographer, drafted the design. The obverse of the medal bears the seal of the Department with the words "Department of Commerce-Coast and Geodetic Survey." The reverse has the wording " 150 Years of Service" at the center with "1807-1957" and "Sesquicentennial" near the rim. Five hundred bronze and silver plated medals were struck, most of which were purchased by bureau personnel. A number of medals were presented by the Director to members of Congress and other officials who had long been associated with its activities, and to the heads of hydrographic offices in member countries of the International Hydrographic Bureau. Planned exhibits were an effective means of placing before the public the history and work of the bureau. Exhibit panels, newly designed, were found to be the most satisfactory method of displaying the activities because they served for more than one exhibit with minimum shipment problems. In general, panels were of two kinds-those for use before professional and semiprofessional groups, and those for use in display windows, banks, libraries, and other public places. Twenty-three of the Department of Commerce Field Offices participated in the exhibit program. Each developed its own approach and obtained the necessary space and gave the needed oversight to transporting and erecting the exhibit. District offices worked in close cooperation with the field offices.
+
+COMMEMORATIVE EVENTS Official Banquet
+The first and principal commemorative event of the Sesquicentennial was theofficialbanquetheld on February 5, 1957, in the Presidential Room of the Statler Hotel at Washington, D. C. Members of the Survey, active and retired, together with officials of the De4
+
+partment of Commerce, of other Federal agencies, and of private industry, made up the 500 guests. The significance of the occasion was accentuated by the presence of the President of the United States and the Minister of Switzerland, bothofwhomaddressed the gathering. Speaking extemporaneously, President Eisenhower paid warm tribute to the long history of the Coast Survey in the service of the nation, and stated that the Survey could be proud that it "has done its duty for 150 years to the United States of America." Others who addressed the gathering were Secretary Weeks and Admiral Karo. The invocation was given byRev. Dr. Elson and the benediction by Rev. Dr. Pritchett. Under Secretary Williams was the toastmaster. Arrangements for the banquet were under the direction of M. Y. Poling, chairman. Assisting him were C. A. Whitten, vice chairman; P.A. Andros, treasurer;and(Mrs.)P.Bellamy, C.H. Davies, G. B. Littlepage, G. P. Meredith, (Miss) B. Morales, F. J. Ortiz, (Mrs.) M. C. Ott, and Comdr. M. E. Wennermark, members.
+
+Postage Stamp Ceremony
+On February 11, 1957, the commemorative stamp was issued by the Seattle, Wash., Post Office. That city was chosen for the ceremon.ial because of the large number of Coast Survey personnel stationed there, and because it has been a base for survey operations for over a century. Admiral Karo, Congressman T. M. Pelly, and A. McG. Goff, Esq., general counsel of the Post Office Department, spoke at a luncheon sponsored by the Seattle Chamber of Commerce in honor of the occasion. The prize-winning design of H. E. MacEwen was followed almost exactly by the Bureau of Engraving and Printing.
+
+Open Houses and Field Demonstration
+Open houses were held during the year at district offices in Boston, New York, Baltimore, Norfolk, Tampa, New Orleans, Kansas City, Fort Worth, San Francisco, Portland, Seattle, and Honolulu. Special exhibit panels and instruments, designed to show the progress of the Survey through the years, were displayed. The following ships of the bureau were open for inspection for 1 and 2-day periods: Hydrographer, Pathfinder, Explorer, Pioneer, Patton, Hodgson, Lester Jones, and Scott. Special celebrations were held at the Norfolk, Baltimore, and New York offices. On May 20, 1957, the bureau was host to the Society of American Military Engineers during its annual meeting in Washington. A field demonstration and exhibit was arranged on The Ellipse adjacent to the Commerce Building. A feature of the demonstration was the erection and dismantling of a 90-foot Bilby triangulation tower. Other simulated field and office activities included baseline measurements by standard and electronic methods and the various 5
+
+Open house exhibit at Baltimore Di s trict Office.
+
+Portion of field demonstration, May 20, 1957, Washington, D. C.
+
+6
+
+operations of chart making. Four large tents housed the special exhibits of instruments and panels showing the bureau's latest surveying and mapping techniques. Continuous showing of motion pictures on bureau operations rounded out the day's activities. Exhibits of a number of engineering agencies were on display simultaneously in the Commerce lobby.
+
+Special A wards Programs
+The closing event of the Se~quicentennial celebration took place on December 13, 1957, in the Commerce auditorium. It was in the nature of a Special Awards Program at which prizes and citations were presented by the Director and chairman of the steering committee to the winners of the special contests and to those who received honorable mention. Sesquicentennial medals were given to the judges in the various contests, and each member of the steering committee received a citation from the Field Association of Commissioned Officers. The ceremony was attended by employees of the Washington office. Previously, on February 25, 1957, aninformalgatheringwas held in the Director's office, at which time M. Y. Poling was given a cash award and citation for services in connection with the Sesquicentennial banquet. A similar award and citation was presented to Dr. A. J. Wraight for his work in preparing the history of the Coast Survey.
+
+PUBLICATIONS ISSUED
+In commemoration of the Sesquicentennial, three publications were issued during the year in which the bureau's service to the nation was stressed. The first was a 28-page brochure entitled, "150 Years of Service, 1807-1957." The activities of the bureau are shown in pictorial form and contrasts the early methods with those in use today. The brochure was designed and prepared by H. E. MacEwen. The second publication was "The Coast and Geodetic Survey 1807-1957--150 Years of History," by Dr. A. J. Wraight and Capt. E. B. Roberts. This 90-page booklet outlines the Survey's history and lists some of its achievements. It highlights the more noteworthy events in the 150 years of service and notes the contributions of those whose abilities and leadership had the greatest impact on the work of the bureau. The third publication was a special number of The Journal (No. 7), issued in October 1957. lncluded in the issue are a facsimile of the Organic Act of February 10, 1807, signed by President Jefferson; a statement by Admiral Karo on "A Sesquicentennial of Public Service"; the first and second prize essays; and an article on the Hydrographic Work of the Coast and Geodetic Survey" with some reflections on the early methods.
+7
+
+PAPERS PRESENTED
+Many papers were presented throughout the country before technical and lay groups by the Director and other bureau officials, emphasizing the history and progress of the Survey, and its service to the Nation's commerce, industry, and defense. These included papers on "Fifteen Decades of Applied Science and Engineering," "Nautical Charts for Safe Navigation," "Baltimore and the Coast and Geodetic Survey," and "150 Years of the Coast and Geodetic Survey." Twenty-five groups were addressed among which were the following: Portland Retired Officers Association, Louisiana Engineering Society, Fort Meyers (Fla.) Power Squadron, Nuwanu (T .H.) Y.M.C.A., Seattle Chamber of Commerce, American Congress on Surveying and Mapping, Eastern Massachusetts Association of Professional Engineers and Land Surveyors, Northeastern University Civil Engineering Society, University of Washington, Societyof American Military Engineers, Puget Sound Historical Society, Washington (D.C.) Chapter of the National Sojourners, and Norfolk Second Presbyterian Church Men's Club.
+
+THE FUTURE
+With the great heritage that has been bequeathed to the bureau, we face the future with assurance. As we enter the 16th decade of service to the Nation, we salute all those who have had a part in its glorious past. Just as each successive decade has seen a broadening of the bureau's operations to meet the needs of a rapidly developing America, so will future operations be moulded to the changing needs of commerce, industry, and the national defense. For the immediate and near future, the plans of the bureau include an acceleration of geodetic work, basically essential in the highway and water resources programs and in land subsidence studies; more intensive hydrographic surveys of our continental shelves to insure the safe maneuverability of nuclear-powered submarines and to meet the more exacting requirements of surface craft; development and utilization of the nuclear magnetometer and other geophysical instruments; expansion of engineeringseismology investigations in the western earthquake regions; development of the aeronautical charting program to keep abreast of the rapid changes in aviation; and circulatory surveys to develop flow patterns in important harbors which are affected by the wastes and pollution caused by the concentration of industry.
+
+APPENDIX
+THE ACT OF FEBRUARY 10, 1807 Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the President of the United States
+
+8
+
+shall be, and he is hereby authorized and requested, to cause to be taken of the coasts of the United States, in which shall be designated the islands and shoals, with the roads or places of anchorage, within twenty. leagues of any part of the shores of the United States; and also the respective courses and distances between the principal capes, or head lands, together with such other matters as he may deem proper for completing an accurate chart of every part of the coasts within the extent aforesaid. Sec. 2. And be it further enacted, That it shall be lawful for the President of the United States to cause such examinations and observations to be made, with respectto St. Georges Bank, and any other bank or shoal and the soundings and c;urrents beyond the distance aforesaid to the Gulf Stream, as may in his opinion be especially subservient to the commercial interests of the United States. Sec. 3. And be it further enacted, That the President of the United States shall be, and he is hereby authorized and requested, for any of the purposes aforesaid, to cause proper and intelligent persons to be employed, and also such of the public vessels in actual service, as he may judge expedient, and to give such instructions for regulating their conduct as to him may appear proper, according to the tenor of this act. Sec. 4. And be it further enacted, That for carrying this act into effect there shall be, and hereby is appropriated, a sum not exceeding fifty thousand dollars, to be paid out of any monies in the treasury, not otherwise appropriated. Approved,February 10, 1807 /S/ THOMAS JEFFERSON
+
+REMARKS OF THE PRESIDENT OF THE UNITED STATES
+This morning, early, someone visited my office with a long memorandum. lt was a suggested speech for me to make to you this evening, and it was filled with facts about the long an:d glorious history of the Coast and Geodetic Survey. Well, the thought crossed my mind: If you don't know more about the history, the traditions, and the operations of the Coast and Geodetic Survey than 1 do, then we have come to a pretty pass. And certainly I saw no reason for taking your time to tell you things that you knew so much better than I did. So, in searching my mind for a thought that I might leave with you tonight, I thought back over the years since 1910 when I took the examinations for West Point. Now I want to talk to you a second about public service. Often in the military services and in the civil services, I have heard people say: "Well, look what I am giving up here. I have been offered thirty-four thousand dollars a year to go with so and so." My reaction has always been one of sadness. I feel that the individual who says that has lost all comprehension of what public service really is, because in the end I am quite certain that no one can have any greater reward in this life than the consciousness, or the belief-the feeling-that the society of which he is a part approves of what he has done. And 1 doubt that they worry too much about the number of dollars that are in your estate. But they do say: "That man did his duty." So I think what 1 am trying to talk about this evening is duty. One of the greatest of all Americans, Robert E. Lee, said, "We would not wish to do less than our duty. We cannot do more." Others have described it as the most sublime word in the English language. So, when a whole group-the Coast and GeodeticSurvey--can look back over 150 years and have this feeling and the conviction "We have done our duty," I submit to you there are no words that anyone can bring to you-the most
+
+9
+
+brilliant adjectives ever invented by man--that can say to you more. We shall feel, as I am sure America feels--and as I know I do-that the Coast and Geodetic Survey has done its duty for 150 years to the United States of America. To my mind, that is far more important than-on the basis of your charts and your surveys--the figure they gave me this morning, which I still remember, that one hundred billion dollars of American freight has come safely into our harbors and along our coasts in a year. That means nothing, compared to the fact that this great body can proudly say "We have done our duty." The Navy has a fine word, a fine way of commending someone who has done something that all of us would think unusual. They merely say "Well done." And in the words of Lee, I don't think--! don't believe--that anyone could wish for more. And so, as I congratulate you on your birthday, and wish you many more happy recurns, I want to say that I salute you as a body that has done its duty to America, and individually as members of a very proud organization. Thank you very much. REMARKS OF THE MINISTER OF SWITZERLAND feel I should begin by thanking you, Mr. Director, for the kind words you My wife and I are both glad to be here. and have said about my country. honored to know that it is because of the role played by one of our compatriots in founding the United States Coast and Geodetic Survey that you have so kindly invited us. Ferdinand Hassler to my mind is typical of the pioneering spirit and the methodical determination which are some of the links and resemblances between Switzerland and the United States. Although the very proficiency which results from these virtues of the human needs leads to slight conflicts between those who practice them, I like to think that they can best develop in the kind of democracy which your country and mine both hold up as their ideals. Or, to put it more simply, if Hassler had not been born in Switzerland, I feel he could have been born in the United States. I am very proud that one of our sons could have played a modest but conspicuous role in the growth of the country which is closest to ours in its ideals and its way of life and which has now become, whether it likes it or not, the guardian of western civilization. While congratulating you upon this important anniversary of achievement, may I express the hope that in the future, as in the past, the aims which both our countries pursue will come to you to be furthered by men like Hassler, whether they come from this great land or from our small one.
+
+REMARKS OF THE SECRETARY OF COMMERCE We are here tonight to join in the observance of the one hundred and fiftieth birthday of one of the oldest technical and scientific bureaus of our Government-the Coast and Geodetic Survey of the Department of Commerce. During the past century and a half, this bureau of applied science has provided indispensable support to the development of seaborne commerce of the United States and the world. The Coast and Geodetic Survey was one of the original agencies designated to comprise the Department of Commerce and Labor when it was created by the Ace of February 4, 1903. On March 4, 1913, these functions underwent a general reorganization, resulting in the creation of the Department of Commerce aud a grouping of the labor functions in the new Department of Labor. The Survey was among the agencies that remained with the Department of Commerce.
+
+10
+
+Thia bureau is one of the truly career organizations of our Government. Since its inception on February 10, 1807, the Survey has had only fifteen superintendents or directors. Beginning with the eminent Swiss engineer and scientist, Ferdinand Rudolph Hassler, the bureau has been headed by a long line of distinguished career men. Prof. Alexander Ballas Bache, the second superintendent of the Survey, inherited through his grandmother Sally Franklin, only daughter of Benjamin Franklin, not only his distinguished ancestor's taste for scientific pursuits but also much of his tact and skill as a diplomat. Bache was succeeded as head of the Coast Survey by Prof. Benjamin Peirce, world renowned mathematician and astronomer, who spent most of his life at Harvard, where he was professor of mathematics, astronomy, and natural philosophy. Although the superintendents during the first one hundred years of the history of the bureau were civilian, the officers manning the survey ships until the turn of the century and chiefs of field parties until 1860 were Army and Navy officers on special detail. Army officers serving with the Coast Survey were recalled for military duty during the Civil War and were not reassigned to Survey work after the war. Naval officers cominuoo to be detailed to the Survey until the Spanish American War when they were recalled for naval duty and were not reassigned. From that time until World War l, in 1917, the Survey officer personnel were civilian. In 1917, the officer corps was created as a separate and distinct commissioned service, becoming one of the seven commissi011ed services of the Nation. The Army, Navy, Air Force, Marine Corps, and Coast Guard are well known; less well-known perhaps are the commissioned corps in the Public Health Service and the Coast and Geodetic Survey. The commissioned service of the Coast Survey offers unique opportunities of serving the Nation with dignity and honor in performing highly important tasks vital to the public welfare. The civil service branch of the Survey also provides exceptional opportunities for service. The enthusiasm with which men of the Survey have applied themselves to scientific and technical accomplishments is intensely appealing to the imagination. They go about their assigned duties with courage, understanding, and humility. These great services are rendered the Nation without thought of gaining social advantage, monetary enricnment, or personal distinction. The Survey is an example of devoted men making diligent application of their intellect, energy, and time, regardleBs of all human circumstances. They demonstrate the best in human conduct and realization of spiritual values, although surveying and eng>neering are not in themselves spectacular. It iB an arduous task to climb ·a mountain peak with a pack of instrum'.;!nts upon your back, and being bitten by a swarm of mosquitoes in Alaska is not an experience that one would relish--but the work goes on neverthelet>s. The artist is rewarded by the finished product of his painting. The musician develops his talents and applies himself with concentrated effort, with the greatest reward being in self-satisfaction. The bu8inessman judges his succeBs by the profit which he can make. He must be sent>itive to the profit motive or he would not be in busine88 very long. This is not true, however, of the unselfish and inspired public servant8 whom we are honoring tonight. They are more like the great artit>t or the mut>ician, in that their sense of values and pride of achievement are their own to judge. Personal gratification in accomplishment and uncompromiBing adherence to sound scientific principles is undoubtedly the ultimate in t>uccest>. Among the fine contributions of the Survey arc some curious ones. We often hear about the experiences of the artist, Jamet> McNeill Whit>tler, who was launched on his career as a result of his drafting experience in the Coast Survey. We owe much to Philip Kcy,whowaB a t>on of Francis Scott Key, fo1 the record of Whistler's deeds while in the Survey. Philip Key wat> a fcllowdraftsman of Whistler and reported that the gn.·nt artist made more t>ketchcs than drawings. Years after Whistler had become world famout>, Mr. Key
+
+11
+
+made the remark that if he had collected the sketches that Whistler threw upon the floor when he was a draftsman, he could have realized a fortune from them. I should like to mention some of the practical contributions made by the Coast and Geodetic Survey. Take for instance the standards of measurement. We are all familiar with the work of the National Bureau of Standards in unifying and standardizing with great precision our units of weights and measures. The primary measurements of vertical and horizontal distances in the United States, a basic function of the Survey, is equally important to the economy and welfare of the Nation. Without these accurate, precision surveys of our national domain, utter chaos would exist in defining land ownership whether in great cities or rural areas. Almost any time that you walk along the streets of a great city you see giant steel framework of some large building under construction. After the building is completed you may enter it, take an elevator and ride in comfort and safety to dizzy heights. You are safe; the building is safe because of its steel framework. In like manner, the framework of control surveys throughout the Nation provides for a definite national need. The problem of standardizing measurements was recognized from the very beginning by the founders of the Survey, and, in fact, weights and measures was a division of the bureau until 1901 when that part of the work was separated from the parent organization and established as a separate agency-the National Bureau of Standards. In the early days of the Republic, transportation was confined mainly to water routes serving the coastal areas. Commerce, the foundation upon which the progress and development of the Nation has always rested, is greatly dependent upon transportation. Effective distribution of raw materials and manufactured goods is the very foundation of our commercial growth and prosperity. Maritime commerce was severely hampered at the beginning of the 19th century by lack of surveys and charts of the coastal areas of the new Republic. Ships by the hundreds were wrecked annually along our coasts. As a result of the heavy losses at sea, insurance rates were all but prohibitive. At that time only localized and limited investigations had been made, such as the survey of the coast of New Orleans in 1805 incidental to the Louisiana Purchase, and the survey of a portion of the North Carolina coast in 1806. No effort had been made tocoordinatetheland or water surveys or to investigate offshore waters. Charts existing at the time consisted chiefly of those produced by the British Admiralty of colonial America for use during the American Revolution. Even at that early period, foreign commerce and coastwise traffic were substantial. Heavily laden cargo vessels and passenger ships, with their precious burdens, were entering and leaving American ports for all parts of the world. This was the national picture when the Coast Survey was created in 1807. From that humble beginning we have today the magnificent series of nautical charts covering our coastal waters. Americans and citizens of all countries, in daytime or nighttime, can now turn with complete confidence to these charts. Without hesitation they stake their enterprises and their lives upon the accuracy of information which they show. Without them our ports would be as effectively closed to shipping as if blockaded by the combined navies of the world. Decade after decade, the work of the bureau has increased in scope and importance as the Nation's territory expanded. With the acquisition of Alaska from Russia in 1867, the Survey began immediately the surveying and charting of the newly acquired territory. Magnetic data provided by the Survey contribute directly to safe navigation by water and by air and also furnishes information useful in solving problems incidental to radio communication. Ships upon the sea and the planes flying around the globe use magnetic data of the Survey. When the
+
+12
+
+Federal Government began to take an active interest in the economic and social aspects of the earthquake problem, the Survey was assigned the task of carrying out the program. Earthquakes cannot be prevented, but various precautions can be taken to alleviate maximum detrimental effects from severe shocks. The tide and current work of the bureau serves many important purposes. At this moment, those fortunate enough to be relaxing on the sunny beaches of Florida are benefited by having advance knowledge of the i'ise and fall of the tide. Wrecks of vessels in our offshore waters are located and their positions accurately marked on charts. Coastal survey data are essential in planning harbor and water-front improvements and in locating manufacturing plants. The United States has long been the world's largest producer of petroleum and the leading consumer of gasoline and other products obtained from oil. Oil companies are constantly searching for new petroleum reserves, using geophysical methods which require data on the force and direction of gravityanother service available to an important segment of our economy. Always in step with national progress, new applications are found for the unique services of the Coast and Geodetic Survey, The continental shelf area, the vast submerged lands extending seaward more than 100 miles in some places, is a storehouse of untapped natural resources. The area must be surveyed and charted before full realization can be made of this unexplored domain. This is one of the principal unfinished tasks offering a future challenge to the bureau. ln the immediate future, a resurvey will be undertaken of Georges Bank. This famous shoal area is one of the most important economic assets of the New England commercial fishing industry. The forthcoming- new survey will thoroughly investigate changes occurring in the ocean bottom in the Georges Bank area since it was last surveyed about 25 years ago. Following the completion of this work, we are now contemplating a partial resurvey of the Nantucket area where the next Texas Tower is to be operated. The Nantucket area was last surveyed in detail during 1940 by a ship commanded by the present Director of the Coast and Geodetic Survey, Admiral Karo. We extend our hearty congratulations to the loyal and efficient members of the Survey upon z:eaching this notable landmark in an illustrious history of selfless achievement. Your future is one of continued service to your fellowmen through intelligent and devoted application of your vital and unique talents. REMARKS OF THE DIRECTOR OF THE COAST AND GEODETIC SURVEY It is a distinct honor and a pleasure for me to officially welcome you tonight on behalf of the Coast and Geodetic Survey, and to express our appreciation for your participation in this event. And it is a special privilege to greet so many of our retired employees who have found it possible to be with us tonight. For tonight's celebration marks a very important birthday in the history of our bureau. These festivities mark the formal opening of our Sesquicentennial Year, in which we celebrate the completion of 150 years of service to the Nation. I am especially pleased that our great President has seen fit to honor us two-fold on this occasion. First, by proclaiming February 1957 as Coast and Geodetic Survey month; and second, and most important of all, by his personal tribute here this evening. We are extremely appreciative of this recognition of the value of our service. As the present Director of the Coast and Geodetic Survey, I feel quite
+
+13
+
+humble as I greet you this evening, for I am aware of the many who have gone before me-the eminent engineers, the scientists, and tile nost of dedicated workers who collectively have made this event possible. I salute them allpast and present. The history of a Federal bureau is markedall too rarely by occasions such as this. Usually we are looked upon as something cold, something impersonal, and almost indestructible. James Byrnes is reported to have once said, "The nearest thing to immortality in this life is a Federal agency." However, I like to think that the Coast and Geodetic Survey has more than justified its existence through its years of service to the public; and I hope that in the process, it has also merited some small measure of immortality. If I were to assign one single reason for our continued growth and progress in the fields of applied science, I. should name that reason or attribute-dedicated service. For the Coast Survey has been truly blessed-since its beginning in the early days of the Republic-with a spirit of dedicated service. When President Thomas Jefferson selected the first head of our bureau, he chose Ferdinand Rudolph Hassler, astronomer, mathematician, and a recent immigrant from Switzerland. Hassler must have had a vision of the future growth of our country, for he insisted at the outset, upon an accuracy and precision which meet the exacting scientific standards of the present day I Most of you know the names of other past "greats" of the Coast Survey such as Alexander Dallas Bache, Benjamin Peirce, George Davidson, John Hayford, Charles Schott, Rollin Harris, E. Lester Jones, Raymond Patton, and William Bowie, to mention just a few, who along with countless others, labored With skill and devotion to forward the work of our service. We salute those who have gone before us. As the inscription on the Archives Building so aptly puts it, "The Heritage of the Past is the Seed that Brings Forth the Harvest of the Future." We in the Coast and Geodetic Survey are truly proud of our heritage. And being proud of this priceless heritage. we are determined that the Coast and Geodetic Survey shall continue praiseworthy service to commerce, to industry, and in defense of the Nation. Again a sincere and friendly welcome to each and everyone of you on this historic occasion. I am sure this evening will be a memorable one to all of us; one from which we will derive additional inspiration for the work that lies ahead.
+
+·····
+Thank you, Mr. President. We in the Coast and Geodetic Survey and our guests are deeply appreciative that you would take time from your busy schedule to honor us by your presence this evening. You have made us very happy indeed with your kind and generous remarks. You may rest assured that we in the Coast and Geodetic Survey will do our utmost to merit your continued confidence and the confidence of the Nation. Thank you so very much for honoring us tonight.
+
+·····
+This has been a most pleasant evening and one which we shall cherish always. In bringing this notable occasion to a close, I voice the heartfelt thanks of the members of the Coast and Geodetic Survey to the President, to the Minister of Switzerland, to the Secretary of Commerce, to our wonderful toastmaster, and to the ladies and the gentlemen who have helped to make this banquet such a success. The many expressions of confidence and goodwill are as rich wine to our souls. They cannot but help to spur us on to greater service to the Nationto meet the challenge of the future. The spirit of adventure, the lure of the unknown, the thirst for knowledge, and the satisfaction of a job well done, will continue to lead us on. I hope that the next century and a half will be as fruitful as the last century and a half.
+
+14
+
+Will you all please rise as Dr. Pritchett delivers the benediction after which we shall stand dismissed.
+
+EDITORIALS FROM SELECTED NEWSPAPERS
+January 10, 1957.-0ne of the lesser known government bureaus, but certainly not the least in accomplishment, is observing the 150th anniversary of its founding this year. The bureau is the U. S. Coast and Geodetic Survey, which was established on Feb. 10, 1807, during the administration of President Thomas Jefferson as the first technical group within the government and whose mission today is the official basic surveying of the coastal waters and the land areas of the U.S. and its possessions. The U. S. Coast and Geodetic Survey is one of the government's "silent services," yet millions of people depend on its services which include aeronautical and marine charts for fliers and sailors, tide tables for bathers, studies in magnetism, seismology and other fields, and the laying out of starting points for surveyors. It checks the earth's movement on its axis by shooting the stars; it issues warnings when tidal waves from marine earthquakes may be expected; its surveys allow no error greater. than the thickness of a paper match for a distance of 10 miles; its measurement fixings are basic to international boundaries and the next-door neighbor's hedge. The artist, James McNeill Whistler, once worked for it and was fired for doodling and dawdling on the job; Major Isaac Stevens, one of its employees, later became Governor of WashinKton Territorv; Lt. Ambrose P. Hill became a Confederate general; and the North Pole discoverer, Adm. Robert Peary, was a Coast Survey seaman before he entered the Naval Academy. Its personnel number over 2,000 at the present time and its record of accomplishmenti> includes the charting of more than 100,000 linear miles of coastline and the surveying of water areas covering more than 2,500,000 square miles. Beyond this the Survey has made a network of basic surveys showing latitude, longitude, and heights above sea level for the whole continental United States and its possessions, and has erected more than 500,000 markers. In celebrating its 150 years of service, the Coast and Geodetic Survey has reason to be proud of its service to the Nation. The New York Times, January 13, 1957.-There are always some public agencies that carry on their work without the fanfare of frequent headlines. They are usually "noncontroversial." The men in those services just go on doing the job, and we profit from their devotion and fidelity. A conspicuous example is the United States Coast and Geodetic Survey, which is about to celebrate its 150th birthday. This was actually the first technical bureau to be established by the Government of the United States. It was set up by Thomas Jefferson in 1807 and has been in operation since that time. Its functions have been expanded and its work increased. It remains what it was a century and a half ago-a public service in the field of science whose daily and faithful achievement is its primary reward. This service has had few glamorous chapters. Most of its history has been simply hard day-to-day work. But all over the world men have relied upon its findings. It has charted oµr waters and our boundaries. It has marked channels and lighthouses, told of dangerous reefs and shoals. It has also made its mark inshore by establishing thousands of designated points of measurement. Curiously, the Coast and GeodeticSurveyhasalsoa unique political history. It was the first service to be set up in complete joint operation between the United States and the Philippines, long before the latter became independent. It was a successful pioneer in this field, not merely in charting the Philippine The Los Angeles Times,
+
+15
+
+coastal waters-- a monumental job-- but in showing how different peoples could work together in full harmony. The Coast and Geodetic Survey is a great American institution. We have reason to be proud of it. The men who work in it have reason to be proud of their record of accomplishment. We wish them a happy birthday and hope for many happy returns not only for their sake but for ours. The Washington, D. C., Sunday Star, February 10, 1957.-· lt was just 150 years ago today tha·t President Jefferson signed a bill which created one of the Nation's pioneer technical agencies , now known as the Coast and Geodetic Survey. During the intervening century and a half this agency has rendered invaluable services not only to mariners and other users of coastal charts but to virtually every citizen. For it is a little known fact that the boundaries which divide the country's political subdivisions and the fen<'.es which separate private properties have been laid out, in effect, by the Survey. It placed the "bench marks" which surveyors today follow as a guide in listing metes and bounds of cities, subdivisions, and homes. Using aerial photography techniques, the agency has mapped all of the United States-and its authoritative handiwork is of great importance to industry, governmental bodies, and citizens generally. The Coast and Geodetic Survey richly deserves the tributes which have come to it from many public and private sources in connection with its sesquicentennial observance.
+
+Portion of display in Commerce Building.
+
+16
+
+International Geophysical Year
+A HIGHLIGHT of the bureau's activity during the year was the preparation for the International Geophysical Year (IGY), which covers the period from July 1, 1957, to December 31, 1958. The IGY is engaging the efforts of more than 60 countries for the study of geophysical phenomena, especially those transient effects of the atmosphere which can be understood only through intensive, worldwide, coordinated observation. Fundamental new knowledge of the earth and man's environment is certain to result, with probable results of great significance to humanity. In the United States, numerous academic and Government institutions are participating on the basis of their facilities and professional capacity, working under grants from funds appropriated to the National Science Foundation.
+
+COAST SURVEY PARTICIPATION
+The bureau is contributing to its fullest extent i,n the conduct of this greatest peacetime mobilization of scientific effort on a worldwide, coordinated basis. Several of its technical specialists have been appointed members or consultants on technical panels for geomagnetism, seismology, gravity, longitude and latitude, and oceanography. Capt. E. B. Roberts, chief, geophysics division, is a member of the U.S. National Committee for the IGY, a committee of the National Research Council which has developed the entire United States program. Observational work in the foregoing fields, as well as the maintenance of a Western Hemisphere Archive Center for IGY world data in geomagnetism, seismology, and gravity, have been assigned to the bureau. Specific activities during the year included the following: in geomagnetism, special observatories with standard facilities have been established at Healy and Big Delta, Alaska; on the islands of Guam and Koror in the Western Pacific; and at 3 bases in Antarctica-Little America, Marie Byrd Base, and Wilkes Base. At all of these stations, as well as at most of the bureau's permanent magnetic observatories, the standard recordings will be supplemented throughout the IGY by high-reaolution records obtained with instruments of new and improved design. Other special equipment include a differential magnetograph, developed in the bureau for recording space gradients of the magnetic field at College, Alaska; a chain of unattended recording stations across northern Alaska, and another in the Western United States; installations of similar type on a drifting station on the ice in the Beaufort Sea, at 3 equatorial stations on Pacific islands, and at 2 stations in
+17
+
+Antarctica; and a number of visible recording magnetographs to be operated in conjunction with ionospheric sounding equipment at various stations. At the end of the year all these facilities were in operation with minor exceptions. The major purpose of these installations is to study the transient fluctuations of geomagnetism associated with solar radiation, auroras, radio propagation effects, cosmic rays, and meteorological phenomena. In seismology, instruments have been installed for earthquake and microseismic studies in the Antarctic, Western Pacific Ocean, and Arctic areas, Seismographs were installed at the South Pole and Marie Byrd stations, and excellent results are being received. Frequent radio reports provide data for earthquakes below latitude 40°s. that were previously difficult, if not impossible, to locate. In the Pacific, stations used a year agoat Truk and Guam were re established and a new one established at Koror. Reports from these stations add materially to the number of earthquakes that may be located in the western Pacific earthquake belt. Preparations are complete for erecting a station with three sensitive seismographs at Thule, Greenland, which will further delineate the Atlantic ridge and the earthquake belt across Iceland, Jan Mayen Island, ' and the Arctic Circle. In longitude al\d latitude work, preparations for operating a station near Honolulu were nearly completed. A high-precision astrolabe will be used to detect possible continental drift of lo feet or less, and to provide data on the variation of the earth's rotation axis within the body of the earth. This variation has relation to crustal studies and to precise astronomic observations. A dualrate moon camera will be employed to observe the moon's motion among the stars-a new and advanced method for determining geodetic positions. In oceanography, the bureau made available 10 tide gages to Scripps Institution of Oceanography and the Lamont Geological Observatory for use in the study of sea level changes; The existing tide stations of the bureau on islands and outer coasts will also supply data for this project.
+
+IGY magnetic station operated by C&.GS on the magnetic equator at Koror, Caroline Islands, Western Pacific.
+
+18
+
+The Year's Activities by Functions
+SURVEYS OF COASTAL WATERS
+COASTAL SUR VEYS operations continued in widely scattered parts of our vast area of responsibility in order to meet the requirements of an established charting program. Ten special surveys or investigations were completed in response to stated needs of marine navigation, both public and private, and eight others were in progress at the end of the year. Of special interest are the resurveys of Georges Bank, in support of the New England fishing industry, and a complete resurvey of Tampa Bay in order to facilitate the growing commerce of that port. The requirement for nautical charts of high quality has been increased by the spectacular growth of the pleasure-boat community. Surveys of coastal waters furnish all the fundamental data essential to produce accurate and reliable nautical charts and Const Pilots for the benefit of commerce, navigation, industry, and the national defense. During the year, 17 vessels and 4 field parties conducted surveys in Atlantic, Gulf, Pacific, Alaskan, and Hawaiian waters.
+
+Atlantic and Gulf Coasts
+Along the Atlantic and Gulf Coasts the following hydrographic operations were conducted: The ship Hydrographer completed a series of offshore surveys southward from Sanibel Island to Cape Sable on the west coast of Florida. Revision surveys of Georges Bank, off Cape Cod. Mass., including detailed surveys for an approach chart of Texas Tower No. 2, were begun in April. With the cooperation of the manufacturer, a program of experimentation with Raydist equipment for control of hydrography was initiated. Evaluation of the equipment was still in progress, however, accumulated results show a high order of accuracy and adaptability for control of large-scale surveys at distances up to 200 miles. The ship Cowie completed surveys in Chesapeake Bay in the area north and east of Smith Point Light. Special investigations were made to determine the precise location of the San Marcos wreck and to determine the least depth of two reported groundings on the bank extending southwest from the wreck. Surveys were then resumed in Pocomoke Sound and arc being extended southward along the eastern shore of Chesapeake Bay. Unattended shoran stations are being used in an effort to increase the economy of hydrographic operations.
+19
+
+The ships Wainwright and Hilgard, operating as a unit, continued wire-drag and hydrographic surveys in the vicinities of Swans Island and Long Island, andinFrenchmanBay, Maine. Development of shoals at Port Clyde, Maine, was completed. Special wire-drag investigations were completed of a reported sunken rock near Gangway Rock Light, Long Island Sound, N. Y.; between piers 3 and 4 of the Norfolk and Western Railway at Lambert Point, Norfolk, Va.; and in Swash, Sandy Hook, Gedney, and South Channels at the entrance to New York Harbor. A series of magnetic observations was made in the vicinity of Seguin Island, Maine, for the purpose of investigating a reported magnetic anomaly. The ship Gilbert continued hydrographic surveys in the eastern approaches to Nantucket Sound, in the vicinities of Nantucket Island, Great Round Shoal Channel, Pleasant Bay, and on the outside coast of Monomoy Island. The ships Parker, Bowen, and Stirni, operating as a unit, continued hydrographic and wire-drag investigations of wrecks and obstructions off the coast of North Carolina. New basic hydrographic and wire-drag surveys were completed in the vicinity of Cape Canaveral, Fla. The three ships were decommissioned February 19, 1957, at Great Bridge, Va., and were sold on April 4, 1957, after nearly 11 years of service. The East Coast Field Party completed basic hydrographic surveys of Providence River and a major portion of Narragansett Bay, R. I. During the winter months, some additional work was accomplished in the entrance to St. Helena Sound, S. C. Combined operations on the west coast of Florida were continued by the ship Sosbee. Hydrography was extended offshore to a junction with surveys recently completed by the ship Hydrographer along the coast from Boca Grande to Sanibel Island. Surveys in Boca Grande Channel, the western half of Charlotte Harbor, and part of Myakka River were completed. In April, the Sosbee moved to Tampa, Fla., to begin a new basic survey of Hillsboro Bay, Old Tampa Bay, and Tampa Bay, in response to several urgent requests from maritime interests. The ship Scott continued Coast Pilot inspection of the Gulf coast for a 1957 edition of United States Coast Pilot 13, Gulf Coast, Puerto Rico, and Virgin Islands. Revision work was completed from the Mississippi River to the Rio Grande. Several critical areas were reinspected on the return east. The Scott was in the shipyard for major alterations in the spring. At the end of the year, this unit was preparing to revise the Coast Pilot volume Sandy Hook to Key West. A new ship, the Marmer (former U. S. Public Health Service ship Walter Wyman) was undergoing alterations and repairs. Upon completion of the work, she will be engaged on circulatory current surveys in east coast ports. The vessel is named after the late Harry A. Marmer, former assistant chief, tides and currents division, and a recognized authority in the fields of tides, currents, and related oceanographic subjects.
+20
+
+Pacific Coast, Alaska, and Hawaiian Islands
+Combined operations around Goat Island, southeast Alaska, were continued by the ship Patton. Hydrography was completed in South Pass, triangulation was extended from Hydaburg into Nort.h Pass, and reconnaissance was completed through the latter pass. The party then began a program of field inspection of photographs of Revillagigedo Island from Naha Bay on · the west side through Tongass Narrows to Skirt Point on the east side of the island. In April 1957, the Patton replaced the Lester Jones on surveys in the San Juan Islands, Wash. Hydrography was completed from the International Boundary in Haro Strait eastward to Waldron Island. Two Pacific Coast Pilot Revision Parties began inspection, mostly by land transportation, for a 1958 edition of United States Coast Pilot 14, Pacific Coast and Hawaiian Islands. One party completed the inspection from the Columbia River northward to the Canadian Boundary. The second party began inspection of the California and Oregon coasts. The West Coast Field Party completed hydrographic surveys in Grays Harbor, Wash., and in Bodega and Tomales Bays, Calif., and resumed operations in the Nehalem River, Oreg. The tide gage at Bodega Harbor, Calif., recorded a series of seismic sea waves from earthquakes in the Aleutian Islands, beginning March 9, 1957, reaching a maximum of 2 feet at 5:00 p.m. that day. Surveys on the north side of the Alaska Peninsula were continued by the ship Pathfinder. Photogrammetric and hydrographic surveys were completed in the vicinities of lzembek Bay, Amak Island, and off the approaches to Bechevin Bay. Surveys around Amak Island were made in response to urgent requests by fishermen who use the area as a storm shelter. Assistance was rendered the Air Force by establishment of horizontal control points in the DEW Line extension. Surveys were in progress in Bechevin Bay and Port Heiden. In September, while en route across the North Pacific, a detailed survey was made of the area where the S. S. Washington Mail broke and sank in March 1956 (lat. 53054'N., long. 146°28'W .). Some reports indicate that the ship may have struck an !.tnCharted seamount. The least depth found in the 1,400 square-mile area investigated was 2.2 miles. On the way north in the spring, a hydrographic survey of Patton Bay, Montague Island, was completed. This work had been started previously by the ship Bowie. The ship Explorer continued combined operations in the Andreanof Islands of the Aleutian chain. Offshore hydrography on the south side of the chain was extended eastward from the vicinity of Little Tanaga Island to Atka Pass, and on the north side from Great Sitkin Island to a junction with previous offshore surveys west of Koniuji Island. With the exception of two small areas the offshore hydrography on the north side of the Aleutians is now complete. Inshore photogrammetric and hydrographic surveys were completed from a junction with 1956 surveys at Little Tanaga Island eastward to Fenimore Pass, including all or parts of Little Tanaga, Umak,
+21
+
+Anagaksik, Chugul, Igitkin, and Tagalak Islands. While making a reconnaissance survey on the south side of Atka Island a dangerous sunken rock which breaks in heavy seas, was discovered 3.4 miles off the beach in approximate latitude 51°58'N., longitude 174°52'W. The ship Lester Jones continued on a combined-operations project in Bellingham Bay and San Juan Islands. Triangulation was established through Hale Passage and the cracking tower at the Ferndale Refinery was located. Graphic-control surveys were completed in Hale Passage, on Clark and Barnes Islands, along the northeast coast of Orcas Island, and in East Sound, Orcas Island. Hydrographic surveys were completed in Bellingham Bay, Hale Passage, Lummi Bay, the north end of Rosario Strait, and most of East Sound. A new radar and deep-water echo sounder were installed in the Lester Jones before she began surveys in Clarence Strait, southeast Alaska. At the end of the year considerable progress had been made on surveys in Moira Sound and Clarence Strait. A submarine ridge, approximately 1.5 miles in length, with depth of 150 fathoms was discovered in general depths of 225 fathoms. The ship Hodgson continued combined operations in Sea Otter Sound and El Capitan Passage, Prince of Wales Island, southeast Alaska. Hydrographic surveys were completed in Davidson Inlet, Tokeen Bay, Marble Passage, Tenass Pass, El Capitan Passage, and in the major portion of Sea Otter Sound. Several permanent aids to navigation were located by triangulation. The ship Bowie continued hydrographic surveys in Prince William Sound, Alaska, in the vicinities of Patton Bay, Montague Island, and in Prince of Wales and Bainbridge Passages. A detailed hydrographic and topographic survey was completed in the vicinity of the new Army pier at Whittier. A special hydrographic investigation was completed around the wharves and small-boat harbor at Valdez. The ship Pioneer continued offshore hydrographic surveys in the Pacific Ocean until March 5, 1957, when the ship left San Francisco for the Hawaiian Islands to undertake new basic surveys in that area. Sixty three thousand square nautical miles of hydrography were completed in the area north of the islands. Deep- sea sounding lines were run to and from the working grounds by the ships operating in Alaska as a part of a continuous bureau program of surveying in the North Pacific Ocean and in the Gulf of Alaska. New lines were run from the vicinity of Sanak Island to the vicinity of Swiftsure Lightship; from Cape Spencer across the Gulf of Alaska; from Adak Island to the Swiftsure Lightship; and from the west side of Graham Island to approximate latitude 56°, longitude 141°, where the line was discontinued because of a storm and rough sea with 30-foot waves.
+
+District Offices
+District offices were maintained in Hoston, New York, Baltimore, Norfolk, Tampa, New Orleans, Fort Worth, Kansas City, Los 22
+
+Statistical Summary of Coastal Surveys
+Hydrography Locality Sounding lines Area Wire drag Area
+
+Miles
+Maine to New York .......... Chesapeake Bay ..·..·......... Cape Henry to Florida ·..·.. Gulf of Mexico ................ West Coast and Hawaiian Islands ....................... Alaska ······.····..··...·........ Gulf of Alaska ................. Total. ...................... 8, 181 2,248 7,704 11,308 46,276 11,942 5,511 93,170
+
+·----Square miles
+949 120 783 2,129 147,501 2,419
+
+Miles
+285 89
+
+Square miles
+97 91 14
+
+.............. ..............
+43
+
+.............. .............. .............
+153, 901 417 Triangulation Length of schemes Geographic positions 202
+
+............ ·············· . ............. ..............
+
+Topography Locality Shoreline Area
+
+Area
+
+Maine to New York ......·... Chesapeake Bay ...........·... Cape Henry to Florida ...... Gulf of Mexico ................ West Coast and Hawaiian Islands ....................... Alaska ...·....·...........·...... Gulf of Alaska .........·.··.... Total. ......................
+
+··········· ........... ........... ···········
+
+-------·--
+
+2 .......... ········· .............. 2 2 .............. ········· ......... .............. ·········· ............ 1 ......... .............. .......... 52 ......... 27 10 4 168 20 49 121 16 ··········· ......... ············· .......... ············ ·-·-·-200
+--·---·--·------- ·---
+
+Miles
+
+-- - - - - r - - · Square Square miles miles Miles
+
+Number
+
+72
+
+16
+
+59
+
+127
+
+- - - - - --
+
+~--
+
+-··--- -··-·----------'---------" ---
+
+Angeles, San Francisco, Portland (Oreg.), Seattle, and Honolulu. These provide quarters for the office work and headquarters for the field parties working in the respective districts. They assist parties in obtaining supp 1 i es, personnel, and transportation; furnish information for the correction of charts; maintain liaison with Federal, State, municipal, and industrial organizations, and the general public in order to obtain and furnish surveying data and technical information relating to the bureau's work; make periodic inspection of sales agencies to insure the faithful performance of their contracts; keep the Director informed of conditions and needs for surveys and make recommendations concerning surveys that should be made; conduct such surveys and examinations as may be practicable, to avoid sending special parties to perform the work.
+
+23
+
+In addition to their general duties the offices at Norfolk and Seattle process hydrographic surveys; those at Baltimore, Portland, and Tampa process photogrammetric surveys; and the New York office processes geodetic data.
+
+PHOTOGRAMMETRIC SURVEYS
+PHOTOGRAMMETRY has become universally accepted as the most accurate and economical method for making topographic surveys. The instantaneous delineation of the high- or low-water line by the aerial photograph makes the photogrammetric survey particularly well suited to the problems of nautical chart construction. The nautical chart is continuously revised through the use of individual aerial photographs of areas affected by natural or cultural changes. Complete resurveys are required frequently in important harbor areas where new development renders topographic surveys obsolete in a relatively short time. In addition to their primary function of providing data for the construction of nautical and aeronautical charts, aerial photographs and photogrammetric surveys furnish data for engineering construction, conservation, city and regional planning, and other private and public uses. The development and improvement of cameras and plotting equipment during the 37 years that the bureau has been making photogrammetric surveys have resulted in an efficient and economical system for producing accurate topographic surveys. The primary phases of the photogrammetric mapping process are: aerial photography and laboratory processing; field surveys, including establishment and identification of ground control and inspection and interpretation of photographic details with special emphasis on landmarks, aids to navigation, nomenclature, boundaries, shoreline, and alongshore features; office compilation; field edit; office review and engraving; and registration of the completed map in the bureau archives. The bureau takes its own aerial photographs under a cooperative arrangement with the United States Coast Guard. The latter furnishes the airplane and flight crew, and the former furnishes the photographic equipment, navigator, and photographer. A second smaller airplane is being obtained by the bureau on a lease basis to enable an expanded program in the United States during the better photographic season when the large plane is working in Alaska. This airplane will also be available for immediate hurricane and flood damage assessment. Mapping for nautical charts precedes and furnishes control for inshore hydrographic surveys and provides the basic land information to be shown on the charts. This includes aerial reconnaissance to detect changes, photographing the changes, and the immediate correction of charts from the new photographs. Mapping for aeronautical charts includes: small-scale mapping to provide basic topographic information, particularly for the sectional charts; and large-scale mapping and map revision of
+
+24
+
+airports to provide positions of aids to navigation and airport information for charts, and to provide information for publication and maintenance of the series of airport obstruction plans. Airport obstruction plans are made at a scale of 1:12,000 and show the runways and flight paths for landing and takeoff, together with the positions and elevations of objects near the airport that are potential hazards to air traffic. They are used to determine the maximum safe takeoff and landing gross weight for civil aircraft, and for determining instrument approach and landing procedures at airports. In addition, they provide data for engineering planning relative to removing obstructions and improving facilities at airports. Resurveys and revision of airport plans are essential parts of the program. Topographic support of hydrographic parties and coastal mapping and map revision were in progress along the coasts of the United States and Alaska, as shown in the accompanying table. The revision and maintenance of land information on nautical charts from aerial photographs was continued during the year. Sixty-seven nautical charts and 28 base maps were revised from new aerial photography. The airport program was extended to include the location of aeronautical aids by photogrammetric or ground survey methods whenever these aids exist at or near airports. This is part of the bureau's cooperation with the Civil Aeronautics Administration program to locate aeronautical aids throughout the country. During the year, 60 airports were photographed; field surveys were completed for 48 airports; 9 original airport obstruction plans were published for airports not previously covered; and 38 airport plans were revised. At the end of the year, 521 airport obstruction plans were on issue. Flood Indemnity Administration Project.-Special topographic maps of the low areas of Atlantic City, N. J., and Charleston, S. C., were compiled for the Federal Flood Indemnity Administration from the best available base maps, revised with current aerial photography. A series of shaded contour zones were delineated at an appropriate interval of elevation, according to the flood-water history of the area. The purpose of the maps is to enable the prediction of flood damage to be expected from a given rise of the water level and to aid in the establishment of graduated storm damage insurance rates. A summary of coastal mapping accomplishments is given in the following tabulation:
+
+25
+
+Summary of Coastal Mapping
+Photogr ammetric field surveys Locality Aerial photography Hydrographic support (Sho!"eline) Coastal mapping (Area) Manuscripts completed Hydrographic support (Shoreline) Coastal mapping (Area)
+
+Number
+
+Linear miles
+Maine, New Hampshire, and Massachusetts ..... Rhode Island, Connecticut, New York, and New Jersey ................................................... Delaware, Maryland, Virginia, and North Carolina ................................................ South Carolina, Georgia, and Florida ............. Alabama, Mississippi, Louisiana, and Texas ... California, Oregon, and Washington ..·...·........ Alaska: Southeast Alaska ....................................· Alaska Peninsula ..................................... Aleutian Islands ...................................... 1_3ering Sea. ............................................. Total. .............·...................................
+176
+
+Linear miles
+40 120
+
+..............
+120
+
+Square miles
+
+Linear miles
+85 105
+
+Square miles
+50 120
+
+6
+8
+
+··················
+25 876 1,596
+
+25 3 25 ·············· ······················ 450 34 110 125 50 680 ...................... ............... ············· ...................... 160 182 21 100 65 .................. 472 ............... 37 569 ...................... ·············· 305 8 2,120 ······················ ............... ..................... 175 175 15 .................. ...................... ·············· 1,183 53 19 .................. ······················ .............. 5,362 350 950 1,525 2,150
+
+151
+
+TIDE AND CURRENT SURVEYS
+TIIE COMMERCIAL development of coastal property is giving increased emphasis to the observation and investigation of tides and currents carried out by the Coast and Geodetic Survey. Data obtained from these functions are being utilized to meet the requirements for essential tidal datum planes for surveying and engineering purposes, for annual tide and current tables as aids to marine navigation, for tidal current charts to depict circulation of the waters in important harbors, and for other oceanographic information pertinent to coastal industry and water-borne commerce. Increasing use likewise is being made of the basic observational data and the tide and current predictions for such diverse purposes as the determination of boundaries of tidelands, offshore oil production projects, problems of sewage disposal and water pollution, legal proceedings, investigations of storm water levels, and studies of long period changes in sea level.
+
+Tidal Surveys
+Control tide stations maintained by the bureau provide basic longperiod tide records at sites so selected as to be generally representative of the varying tidal conditions encountered along different sections of the coast. A number of the stations on islands in the western Pacific also serve as wave reporting stations in a seismic sea wave warning system. New stations were established at Providence, R. I.; Texas Tower No. 2 on Georges Bank (temporarily discontinued after short period of operation); Reedy Point, Del.; Myrtle Beach, S. C.; Timbalier Island, La.; and Mokuoloe Island, T. H. Stations were discontinued at Panama City (offshore Gulf Tower), Fla.; Hunters Point and Stockton, Calif.; and Seward, Alaska. The station at Pago Pago, American Samoa, was reactivated. Through cooperative arrangements with the Inter-American Geodetic Survey, tide records were also received from 41 places in Latin America. In connection with hydrographic surveys and other projects, shorter series of tide records were obtained at 78 additional places. The tide stations at Galveston, Newport, Woods Hole, and Baltimore were elevated to protect records and equipment during storm flood stages. To further develop the tidal regime of the Cape Cod Canal area, short-period tide series were obtained at three locations in Buzzards Bay and Cape Cod Canal. To assist in carrying out the field projects and to maintain the accuracy of records, one tide station servicingpartyoperated on the Atlantic and Gulf coasts and another in the Pacific Islands area. Control tide stations on the Pacific coast continued to be serviced by parties operating through the district offices. Alaskan stations were serviced by ship parties. The East Coast tide station servicing party was also engaged in benchmark recovery operations. 27
+
+The demands for tidal information during the year were the greatest on record, due in part to the large quantity of tidal data requested by other Federal agencies for storm surge forecasting, hurricane damage studies, and model basin projects.
+
+Current Surveys
+Tidal .current records were obtained primarily from observations made by hydrographic parties. Thirty-three stations, distributed in the waters of Massachusetts, Chesapeake Bay, Florida, Washington, and Alaska, were occupied to obtain data for navigational purposes. In addition, current observations were continued at two lightships off the coasts of New Jersey and North Carolina. Included with the records were observations from a special 15-day series in the Cape Cod Canal, which have provided the basis for improved daily predictions of the tidal current in the canal. A harmonic analysis also was made of a 15-day series of tidal current observations on the coast of Sumatra.
+
+Predictions
+To provide advance information relative to the rise and fall of the tide and the ebb and flow of the tidal current, required by the mariner and the engineer as well as the fishing industry, four volumes of annual tide tables and two volumes of annual current tables were published. These tables for the year 1958 are on a new format which includes increased page size and a rearrangement of the daily tide and current predictions so that for tides the values are listed in one column in the order of their occurrence each day, rather than in columns of high and low water. For currents, the values are listed in two columns; one for slack water, the other for maximum current. In each column, the items are listed in the order of their occurrence. As a result of an unforeseen heavy demand the supply of the Tide Tables, East Coast, North and South America, 1957, and the Current Tables, Atlantic Coast, North America, 1957, had to be augmented by reprints.
+
+Related Oceanographic Work
+The program of obtaining observations of the temperature and density of sea water along our coasts was continued. At the close of the year, daily observations were being made at 119 stations, of which 78 were in the United States and possessions and 41 were in foreign countries. The results of the observations are presented in a series of four publications, one of which is revised each year. The information is valuable in connection with coastal industrial activities, extraction of minerals from sea water, de-
+
+28
+
+termination of ship flotation ano problems of refrigeration, studies of fog and fisheries, and general oceanographic research. Certain other oceanographic observations such as bathythermograph slides, bottom samples, and serial water temperatures and salinities were obtained in conjunction with hydrographic surveys. Sea Wave Warning System.-Following the disastrous seismic sea wave at Hilo m 1946, the urgency for protecting people in the Hawaiian Islands against such natural catastrophes was forcefully impressed on all. Under this impetus the seismic sea wave warning system was conceived and organized. The system basically requires the quick detection and location of submarine earthquakes which may or may not create such waves. Approximately 9 seismograph stations and 18 tide stations in the Pacific area provide the primary information for detecting and verifying the occurrence of an actual seismic sea wave. Data from all stations are promptly fed by communication facilities of the Department of Defense and the Civil Aeronautics Administration into the central headquarters of the system at the Honolulu magnetic observatory. The Federal Civil Defense Agency at Santa Rosa, Calif.; the state units at Sacramento, Calif., Milwaukie, Oreg., and Olympia, Wash.; and the Coast and Geodetic Survey district office at San Francisco, Calif., are now an integral part of the system, receiving all preliminary notices and alerts issued by the Honolulu observatory. The reception of this information by each agency carries the responsibility of judiciously releasing it to the public to safeguard life along the west coast. In this surveillance system, there is the ever present problem of maintaining adequate vigilance as seismic sea waves are relatively rare occurrences. Fortunately, in 1952 and 1957, when the system was called into emergency service, it functioned with gratifying results. On March 9, 1957, a devastating earthquake occurred in the Andreanof Islands, generating a destructive sea wave that traveled across the entire Pacific Ocean. In the Hawaiian Islands, 9-foot waves ripped coastline structures to the extent of nearly 2 million dollars in the Hanalei District and a quarter million dollars at Waialua. Japan suffered some damage to fishing hamlets. No other areas reported damage but unusual wave heights were recorded along the coasts of North and South America and Asia. Within 1-1/2 hours after the earthquake occurred, the system had alerted Hawaiian authorities of a possible sea wave. An hour later the expected arrival time was announced. As a result of the prompt action, only two lives were lost, neither of which was directly attributable to any inadequacies in the warning system. This is in striking contrast to the 165 lives lost and 163 seriously injured during the tsunami of April 1, 1946, prior to the development of the seismic sea wave warning system. Subsequent to these successful alert actions, the bureau computed travel time charts toNeah Bay, Crescent City, San Francisco, San Pedro breakwater, and La Jolla to facilitate estimates of seismic sea wave arrival times on the west coast. 29
+
+GEOMAGNETIC SURVEYS
+IT IS essential to monitor the intricate changes in the patterns of the earth's magnetic field to meet the continuing demands of air and marine navigation for dependable and timely data on the pointing of the magnetic compass. This, however, is but one of many applications of geomagnetic survey data, the scope of which expands with increasing knowledge. The land surveyor relies upon our stores ot data in the resurvey of old property lines; the exploration geophysicist needs specific information relative to the use of the geomagnetic field in the search for mineral wealth; and the communications engineer is helped in the study of radio propagation, extending also to navigational aids, by knowing about the magnetic changes that occur all the time. Other applications are found in scientific studies of the earth's core, of the outer fringes of the atmosphere, and of solar activity and cosmic rays, as well as in certain specific areas of military instrumentation. The geomagnetic field is not a static phenomenon; it is continually shifting and changing, sometimes following regular patterns and sometimes behaving quite erratically. It is thus important in diverse practical fields, as well as from a scientific viewpoint, that we learn more about these changes and their relations to such geophysical fields of investigation as auroras, sunspots, and even the weather. In the United States and its possessions, the magnetic field has been measured at thousands of stations to determine the pattern of distribution. Additional observations are being made as special needs develop. During the year, magnetic field observations were made at 30 stations distributed in the United States and Alaska. Of these, 4 were "repeat stations" for measurement of secular change rates and 26 were newly established stations. Recent field observations have disclosed a pronounced, unexpected tJhift in the rate of change of magnetic declination affecting the southeastern United States and the Caribbean Sea. This change could not be detected by the two existing observatortes in the continental United States. The changes that are continually taking place are recorded at the Survey' s magnetic observatories located at Fredericksburg, Va.; Tucson, Ariz.; San Juan, P.R.; Honolulu, T. H.; and Sitka, Barrow, and College, Alaska. The observatory records not only furnish basic control for field work, but also give a detailed picture of irregular fluctuations associated with solar activity in relation to its effect on propagation of radio waves over the earth. The bureau is the official agency for collecting geomagnetic data from worldwide sources and for maintaining a central library of such data. These functions have been carriedout through exchange relations with most parts of the world and have played a large role in the world-chart program. The observational data which the bureau obtains are made available to the public by means of magnetic charts and publications. In addition, specific requests from county surveyors and other local users are answered through extensive correspondence. 30
+
+The observatory at Cheltenham, Md., was closed in October 1956 after operations had been transferred to the new one at Fredericksburg, Va. A feature of this new observatory is an array of large coils permitting the duplication of the geomagnetic field at any spot on the globe, useful in testing instruments. Operation of the magnetic observatory at Barrow, Alaska, was resumed on February 1, 1957, after temporary operation by the Geophysical Institute of the University of Alaska.
+
+SEISMOLOGY
+SEISMOLOGICAL investigation has been a bureau function since 1925. The objective is to mitigate loss of life and property in the United States and its Territories through a better understanding of the earthquake phenomena from the time of occurrence until the last of the rubble has been cleared. To carry out this function, a network of seismograph stations is maintained for locating distant earthquakes and for compiling upto-date earthquake maps of the areas. The bureau also cooperates with universities, private institutions, and individuals operating seismograph equipment, and maintains a field office in San Francisco to collect information on earthquakes occurring in the seismically active west coast area. In the Washington office, a staff is maintained for compiling reports, furnishing data to the public, and conducting research. Incidental activities are research investigations sponsored by other Federal agencies, and the measurement of ground vibrations in many parts of the world caused by artificial and natural disturbances. The bureau is presently making a study of and compiling a history of a Navy microseismic project for hurricane detection and tracking. The investigation may indicate the nature and cause of microseisms and how they can be used for storm detection. For seismicity studies a worldwide earthquake-locatingprogram furnishes prompt and accurate information. This program requires an array of efficient seismograph stations. The bureau operates 7 stations and collaborates with 13 others in universities, government agencies, and other institutions. Several hundred independent stations throughout the world promptly report readings to Washington through the communication systems of the military establishments and other Federal agencies. The pertinent data are sent biweekly to all interested persons. During the year, epicenter information was supplied on 1,277 earthquakes; requests were filled for earthquake information for nearly 50 domestic and 15 foreign areas; and several hundred copies of seismograms and special earthquake readings were supplied to research seismologists in the United States, Canada, Holland, Indonesia, Japan, Russia, and elsewhere. Highly sensitive seismographs were inst~lled at Boulder City and Eureka, Nev. At College, Alaska, a new 3-mile cable was laid from the main vault to the outpost station, and at Honolulu, T. H., 31
+
+a new seismometer was installed and an outpost station temporarily established at Kipapa near Schofield Barracks, with a group of high-sensitivity seismographs. A site was tested for a sensitive instrument on Hart Mountain in south central Oregon. The strong-motion program, inaugurated in 1932, continues to provide data on ground motions of destructive earthquakes. Sixtyseven instruments are operated in the states of California, Oregon, Washington, Montana, Nevada, and Utah, and the Canal Zone. In cooperation with foreign governments, similar instruments are operated in 6 Central and South American countries. Result's compiled from these diverse and widely scattered areas furnish fundamental information to seismologists and engineers on the nature of ground motions, foundation factors, and building reactions. Such information is used for compiling building codes and regulations, and for improving the design of buildings to withstand earthquake forces. Another aspect of the strong-motion program is the use of questionnaires for collecting noninstrumental data about earthquakes. Several thousand volunteer reporters supply data on time of occurrence, location, ground and building effects, and personal reactions. For important earthquakes, field investigators collect significant information that an untrained observer might overlook. During the year, many areas from Maine to Kentucky and Alabama in the south, and Oklahoma and California in the west, experienced slight tremors. On March 22, 1957, a movement on the San Andreas fault resulted in a shock in the San Francisco suburban area, causing widespread fear of a possible repetition of the 1906 disaster. Fortunately, the total property damage did not exceed $500,000, most of which occurred in Daly City and along the highway bordering Lake Merced.
+
+GEODETIC CONTROL SURVEYS
+THE primary bases for the charting of the coastal waters and the mapping of the interior of the United States are the geodetic control survey networks. It would be possible to map a few thousand square miles as though the area were on a flat surface and without reference to a geodetic network. However, the continuous mapping of a large continental area, such as the United States, requires an accurate geodetic framework to avoid confusion. Such a framework, consisting of thousands of survey monuments spaced systematically across the country, provides points of known position defined in a horizontal sense by latitude and longitude and in a vertical sense by elevation above mean sea level. Because of the great extent of such a network, observations must be made by well trained personnel employing highly refined instrumental equipment. The computation and adjustment of the observations must take into account the curvature of the earth. 32
+
+....,..__, ,,.(
+
+Triangulation, traverse, and'. ast:fQno~ic observations are the bases \: ~ of horizontal control and precise leveling is the basis for vertical ~· ~~;· control. .; , ~ .Th~-coni.putatioi;i of sµrvey obs.er:vations·on ~:curved .surfac~:i.s a· ~ · \~ rat:her complicated matter .... Fo:r ·~his reas9n, the latituqe~·~n,d ~~ ·,;:.. longitt~des are . cq11verted ,fo .. plan~ . coordinate~ .on systems d~vi.sed, \ -·-· tfor ,e_ach ..s~ate.. ~In; .th,is wa.y ·the local: .engip.~er.ap.d.surveyor ar~.. ) ~ ab~e .. to .tak.e.a.dv~nt.age of the F~deral geocle!~c n.et~ork.wi~J::iout,re._; "-~·:i:.. ~\ cou:r13e ~o complicat~ geod~ti~ . c~mput~~~ons.. .The us~ of .the13e ·; ,\ state, systems -i~. property. bqun<Ulry. de~criptions has bee11 approved· ' ~ by legislative enactment in 26 states. "..:.... '\· ~ Although the chief ·tunction ··of a geodetic control network is to \ t serve as the basis for countrywide charting and mapping, it also'/_<.. ~ serves many other purposes·. Engineering works of great extent:<' . , such as reclamation projects, and highway, transmission line, and ,~· i pipeline construction are generally based ·~n geodetic surveys. '~, .._., Large-scale mapping for urban areas is usually based on a special Y ~~ geodetic survey which is, in turn, connected to the Federal network; , ~~"The spacing of' geodetic monuments is generally dependent· on land ·~. values .. In metropolitan areas and along interstate highway· sys'{ '. terns; the spacing· may be at 1 ·or 2 miles ·and in rural areas of :l '-.4high land· value a spacing of 3 or4 miles may be desirable. A gen\ _,..,, · eral coverage throughout the UnitedStatesofhorizontakontrol·sta'.) tions-spaced·.at about 7 milesisthepresent goal.·· For vertical con- · ~ , · trol'insomeareastheplanisfora 6-mile spacing oflevel lines with \:l benchmarks at an interval .. of · about 1 mile; in other areas, the ~ l. spacing will be somewhat greater. -~-~ Observations· for the intensity of gravity and astronomic: ·latitude and longitude are also a part o~ the geode~ic program. Gravity and v astronomiC opera:dons are a small part of the total effort; but they gj ~ ' are important as an aid in determining the shape and size of the 1 earth-a basic problem in geodesy. · <t
+
+,,~.·~
+
+i1
+
+t
+
+/i ·.
+
+?f
+
+Field Work
+' '
+
+oor·
+
+Field work continued mainly in the United States with some minor surveys accomplished in Alaska and in the West Indies. The main framework of the· triangulation an,d leveling has been accomplished and the operations this year were in.the nature of filling in the areas between the arcs of triangulation and between the basic level lines. In recent years, a part of our leveling program has bee.n tp relevel over old lines along which a la:rge number of monuments have been · · · · · destroyed. Protection and .replacement of geodetic control_ stat~ons is becoming an .inc:h:iasi#gly briponant phase of our operatfons because of th,e c,iestrucdon 'of,-'survey 'moriu,ments due to highway construction ancf ·oi:ller. ~ngirieering p:rojec~s. E.ngineeri;i are ·~uached" to·most' of field ·offiCes ·to j>e:rlorni this work. ·FreqQerttly, fi~l(j parti.es ~r.e called on to move .·.· and reestablish survey monuments; · ·· ·. . .. :- . . . .. . . .. 33
+
+Triangulation
+Triangulation surveys were extended in many parts of the United States, primarily for the control of topographic mapping, although these surveys serve many other purposes. There were on the average throughout the year six parties with about 25 men each engaged on triangulation projects and three parties of about 10 men each engaged on triangulation for the interstate highway program. These smaller parties also observed leveling over the proposed highway routes. Details of work accomplishedareshown in the accompanying tables.
+
+Precise Leveling
+Three main multiple-unit parties completed 100 unit-months of leveling in the Western, Central, and Eastern States. Releveling of old first-order lines was undertaken in Colorado, Florida, Georgia, Illinois, Indiana, Nebraska, Texas, and Wyoming. Leveling was continued in the San Joaquin Valley, Calif., where an extensive study i© being made of changes in elevation. Leveling was undertaken in Oregon, Washington, Nevada, and South Carolina, as part of the interstate highway program. The program of connecting tidal benchmarks to the geodetic level net on Long Island, N. Y., and in New Jersey was continued. Whenever feasible, our main level parties now set benchmarks consisting of copper-coated steel rods at 5-mile intervals aloFJg the lines. These rods are driven with a gasoline hammer to refusal. If refusal is not reached and the driving is difficult at 50 feet, it is considered adequate. Rods have been driven to a depth of 110 feet. The recovery of benchmarks was continued in California, Georgia, Kansas, Kentucky, Mississippi, North Dakota, and Texas. The stamping of adjusted elevations on benchmarks has been discontinued except in Kentucky.
+
+Astronomic Observations
+Astronomic azimuths are observed at regular intervals to cont;rol the direction of triangulation arcs. Astronomic latitudes and longitudes are employed in converting astronomic azimuths to geodetic azimuths and in studies of the size and shape of the earth. Also, certain characteristics of the earth's gravity field are best revealed by a comparison of astronomic and geodetic coordinates at selected stations on the earth's surface. Astronomic operations along the 35th parallel geoid profile were extended about 850 miles during the year, alongwhich 8 first-order and 57 second-order observations were made. In California, 1 first-order astronomic azimuth was observed for determination of crustal movement due to earthquakes. First-order astronomic positions were observed at eight stations
+
+34
+
+in Florida and the West Indies in connection with geodetic development of ihe Patrick Air Force Base Missile Test Range. Astronomic observations for special purposes were also made in other areas. These included one first-order position determination in New York State and three first-order positions and azimuths in Arizona. Second-order positions and azimuths were also observed in Ohio, Maryland, and Alabama, in connection with urgent military requirements.
+
+Gravity Observations
+Gravity intensity observations at suitably spaced points on the earth's surface are essential for various geodetic investigations and in geophysical exploration for oil and minerals. These data are also important in analyzing the effect of the earth's external gravity field on the newly developed inertial navigation and missile guidance systems. Gravity meter surveys covered an area of about 14,000 square miles in Minnesota and adjacent states at an average station spacing of 6 miles. This area is a northward extension of the closely spaced gravity coverage available for determination of a geoid profile from southern Texas to the Canadian boundary. The following three gravity meter traverse~ were measured to develop the basic control network and provide more accurate calibration standards: a connection between the national bases at Washington, D. C., and Ottawa, Canada, with an additional tie to ldlewild Airport, New York City, one of the primary stations in the transatlantic gravity network; the midcontinent gravity calibration line between Beloit, Kans., and Brownsville, Tex.; and between the national base in Washington, D. C., and Key West, Fla., consisting of 35 ~tations, for future gravity control along the east coast. During the lattc;:r operation, .stations previously established in southern Florida were connected to the new network.
+
+Variation of Latitude
+The variation-of-latitude observatories at Ukiah, Calif., and Gaithersburg, Md·,, continued in operation throughout the year. These observatories are a part of the International Latitude Service, and in conjunction with similar ones in Italy, Japan, and Russia, maintain a continuous program for precise observation of polar motion. Variations in polar motion are applied in measurement of exact time at national observatories, in correcting the latitudes and longitudes observed at field astronomic stations, and in studies of the earth's internal rigidity and structure. At Ukiah, 3,644 star pairs were observed on 228 nights with complete observations on 168 nights. At Gaithersburg, 2,022 star pairs were observed on 186 nights with complete observations on 32 nights.
+
+35
+
+/··L·'-· , . .
+/=
+- ,
+
+""
+
+r;
+
+!
+
+-
+
+"lv'""'. . . ~~~ ~ I
+
+fJ
+
+.:?:..
+
+~~
+
+-:.t(..i:..\.""- , ........ .
+
+.
+
+.
+
+,. .: . "."" r·~v
+
+L .......:..~fQ,· t1.1.(0.:i.lt\.. T\ D A specialprojectcompletedfortheRomeAirDevelopin~t Center; . N. Y.,, consisted·Qf a.high-accuracy survey..of an.el~~tronic and optical range in the Rome-Syracuse· area. Space coord:inates based on a t:rue orthogonal system over a distance. of some forty mil~s we~e, r~quircd. Triangulation, geodimeter .measurem~nts, precise leveling, and astronomic observations were employed.. No.t. only was the curvature of the ellipsoid of reference taken into consideration, but also the separationofthe.geoidand the ellipsoid. The final results were expressed in x, y; and z coordinates based on a plane tangent to the ellipsoid at a selected point. The Civil Aeronautics Administration requested the bureau to locate, civer aperiodof2or3years, some BOO· Very High Frequency Omni"."Directim:ial Ranges (VOR). VOR is to become the primary radio facility for guidance of aircraft along the Federal airways. Although high accuracy in position and elevation is not required for these installations, unique methods have been devised to. survey them at a reasonable cost. Photogrammetry is.. used in some instances where ground control is remoteanddifficultto spring from. Operations were started·· during the year at a moderate pace along the east coast and some 50 ·installations were located. . · Other special projects undertaken in coopera.tion with various agencies ·are included under the section of. the· re1>9rt dealing· with . "National and .International Cooperation." · ,l}, :-.-.
+
+~Jf~~_,k.
+
+;JLC.v,;· f.
+
+V<.--~1 ~J··-(~.J
+
+(. .
+
+Special Projec,ts.
+
+.
+
+·
+
+Tabulation of Field Activities
+The field activities during the year, including reimbursable projects, are sum.marized in th~ following tables: .
+Geodimeter BGseline Measurements·
+Locality Length
+Miles
+
+N. Y.............................................................. Tuthill-Master, N. Y........................................................... Parade--Master, N.. v ............................................................ Eagle--Hancock, N. Y............... :........................................... Eagle--Vienna, N. Wirt-Sugar, W. Va............................................................... Co~lins--Weelcs, Kans............................................................ Monroe~~Avery, Iowa ··.··.·····.··..·····.·.·.·.·· :; ··········.·. ;............. · Aft<?ll-,Th.!lyer.· Io.wa......... , .................,....................................... Tolar--Zeigler, Miss ..........·.......... , ...:............ , ..·........·...........
+Tuthill-~Star:r,
+
+8.64 8.49 , · .69 12.32 Y............................................................. · 19.60
+.· ..
+
+~~~~E~:~zi~i:m:;;:;;:i~;:;~i::~:~c::;i:i:~ii:i;:::: · . >·ifi
+Total··...·..·····.·.············.·····.···.·.····.········.···.··..··.··.···.·· 124.94
+
+7.83 10.20 .8.11 · 6.26 .·...
+
+S.46.
+
+36
+
+-Area ...Triangulation-First- and Second-Order
+Locality Number of stations Length of scheme Area
+
+Marked and inte·rsection
+Griffiss Air Force Base, N. Y............. Hetch Hetchy to Mona Lake, Calif........ Petoskey-Rogers City Area. Mich ........ Santa Rosa Area, Calif ...................... Salmon, Idaho, to Sheridan, Mont .. and Dillon to Ovando, Mont ............. ; ..... Buckhannon-Grantsville Area, W. Va.... Nev.-ldaho-Oreg. Boundary and Tuscarora to Owyhee, Nev ................... Moorfield-Elkins Area, W. Va ............ Llano- Fredericksburg Area, Tex, ....... Litchfield Area, Minn ........................ Camptonville Area, Calif ................... Southwest Arizona ............................ Blossom Point, Md ............................ Ritzville to Spokane, Wash ................. Ottumwa to Chariton, Iowa ................. Eglin Field and Vicinity, Fla .............. U. S. Naval Depot, Seal Beach, Calif..... Highway 91, Mesquite to California Boundary, Nev ............................... Emporia Area, Kans ......................... Pocahontas Area, Ark.-Mo ................. Sherman Area, Tex ........................... Troutdale to The Dalles, Oreg ............ Sunflower River Area, Miss ............... Raleigh-Sanford Area, N. C................ Cleveland-Charleston, Miss ............... Middle River Speed Course, Md .......... Arkadelphia-DeQueen, Ark ................. Harrisburg- Metropolis Area, lll.-Ky ... Newberry to Landrum, S.. C ... :"f.\4:.Jo:t.,.I. Winfield-Harper, Kans ... : ................ Canadian River Area, Okla................. Washington, D. C.-Baltimore Area....... Williamson Area, W. Va .................... Cape Canaveral Surveys, Fla............... Eleuthera Island, Bahama Islands ..... : .. Total. ........................................ Reobservations for earthquake investigation
+
+Miles
+
+2S 24 199 24
+96
+
+110 10 15S 60 260
+80
+
+so so
+
+Square miles
+
+280 1,120 3,62S
+
+so
+
+67 113 98 37 292 42 8 1 106 49
+71
+
+'3,450 ... 1.920 3,670 2,290 l,S9S" 4,990 70 29S 3S 42S 770 410 10 410 2,410 98S 1,000 90 1,330 1,6SO 2,320 3_ 2,730 2,700 S20 l,SSO 3,82S 100 1,300 3SS 14S 48,428
+
+60
+80
+
+10 4S 10 120 70 8S 9S 60 70
+
+--·
+
+lS 83 128 S7 46
+89
+
+s
+
+--"-'11'
+
+it--
+
+72 110 173 3 70 132 109 48 188
+10
+
+48 61 7 2,701
+
+55 40 6S 75 2 7S 7S 8S 70 8S 60 80 8S 2S 2,412
+--·
+
+so
+
+Old
+Owens Valley, Calif .......................... San Francisco-Lake Tahoe, Calif ........ Total.........................·.·.·..·.......
+
+New
+
+34 12 46
+
+27 0 27
+
+190 lSO 340
+
+3,SlS 9,000 12,SlS
+
+.. 3.7
+
+·
+
+Reconnaissance ( .. r
+
+/i ... ; t-
+
+(For area triangulation-first- and second-order)
+
+v·;·
+J
+A'ea
+miles
+
+Locality
+
+Iz
+Miles
+
+Square
+1,995 1,790 1,120 280 50 70 5,510 775 2,530 1,650 4,160 295 35 3,300 145 410 6,040 3,825 10 2,600 200 2,940 25 385 1,240 530 320 3,750 1,520 355 410 425 520 90 3
+
+Petoskey-Rogers City Area, Mich ............................. . Litchfield Area, Minn................................................ . Hetch Hetchy to Mono Lake, Calif................................ . Griffiss A.F.B., N. ¥ ................................................ .. Santa Rosa Area, Calif .............................................. . Camptonville Area, Calif ........................................... . Moorfield-Grantsville Area, W. Va............... ~ ............. .. Nev.-Oreg. Boundary, Oreg. and Tuscarora to Owyhee, Nev.·····....·..·.··.....···..········..··.·.·.··.·.·...·.·.·.......·..·. Emporia Area, Kans ................................................. . Culpeper to Sugar Loaf, Md. and Va ............................. . Mille Lacs Area, Minn ............................................. .. Southwest Arizona .................................................... . Blossom Point, Md .................................................... . Hillsboro Area, Ohio.................................................. . Eleuthera Island, Bahama Islands ................................ . Eglin Field and Vicinity, Fla ...................................... . Yazoo City Area, Miss .............................................. . Norman Area, Okla ................................................... . U. S. Naval Depot, Seal Beach, Calif............................ .. Hamilton Area, Kans ................................................. . Washington, D. C. -Baltimore Area.............................. . Wellington Area, Kans .............................................. .. Ft. Belvoir, Va ......................................................... . Vicinity of San Jose, Calif .......................................... . Centerville Area, Ala ................................................ . Detroit Area, Mich .................................................. .. Rowlesburg Area, w. Va ............................................ . Madison Area, Wis ................................................... . Bighorn F(lrest Area, Wyo. -Mont................................. . Cape Canaveral Surveys, Fla ........................ , ·············· Mesquite, Nev. to Calif. Bdy., Highway 91 ..................... . Ritzville to Spokane, Wash ........................................ .. Newberry to Landrum, S. C........................................ . Troutdale to The Dalles, Oreg .................................... . Middle River Speed Course, Md .................................. .
+T o ta l .·..··..·.·..··.··.·····.·····.·····.·········.·····.···....·..··
+
+60 60 50 50 10 10 140
+
+1----1----
+
+95 60 75 75 45 10 65 25 85 165 85 5 65 110 120 10 40 45 70 23 85 65 85 95 120 85 55 2
+
+2,245
+
+49,303
+
+...
+
+First-Order Baseline Measurements
+Locality Length
+Miles
+
+Hancock, N. ¥ ....................................................................... . Warmsprings, Mont ............................................................... . Darwin, Minn ........................................................................ . Sands, N. Mex. (check measurement) ........................................ . Tularosa, N. Mex. (check measurement) .................................... . Crater, N. Mex. (check measurement) ....................................... . Total ......................·.......................................................
+
+1.10 6.15 4.98 20.15 22.87 19.00 74.25
+
+38
+
+Second-Order Baseline Measurements
+Locality Length Miles
+___ 1
+
+Seldovia, Alaska.....................................................................
+
+Huff-Pacific, Wash··································································
+
+0.41
+
+._30_
+
+Total ·····.··..····················.··.····.·······································
+
+0.71
+
+Gravity Determinations
+(Including old stations) Locality Florida ................................. .. Georgia .................................. .
+Kansas ................. , .................. .
+
+Area coverage stations
+
+Base net· station __s._____
+88
+
+Maryland ............................... .
+Minnesota ............................... .
+
+· ··-· · · · · · · · · · · · · · · · · · · · · · t
+
+Missouri .················.·.·....···..·.. New jersey............................. . New York................................. . North Carolina ........................ . Oklahoma .········.········.···.·····.··· Pennsylvania .......................... .. South Carolina ....................... ..
+
+441
+
+6 4 3
+1
+
+. ......................... ,. ........................... . ...........................
+·· !<· . . . . . . . . . . . . . . . . . . . . . . .
+
+4 9
+
+6
+4 9
+
+Texas ..................................... .
+Virginia .................................. . Wisconsin ···...···..··.·..··.····.·.·..· Foreign ................................. .
+
+9
+
+14
+7
+
+67
+508
+
+Total ............................... .
+
+3 167
+
+Astronomic Determinations
+(Including old stations) Locality Alabama .......................... Arizona ........................... Arkansas ......................... California ........................ Florida ............................ Georgia ........................... Maryland ......................... Mississippi ...................... New York......................... North Carolina.................. Ohio ................................ South Carolina .................. Tennessee ........................ British West Indies ............ Total......................... Latitude
+6 3 7
+
+Longit.ude
+
+Azimuth
+
+5 3
+7 7
+
+.................. ...................
+7
+..
+
+........... -......
+1
+
+1
+
+1 1
+
+....... ........... 1 ................... .......................
+~
+
+1 3
+
+1
+1
+
+.. ,.
+
+..
+
+..................
+10
+
+l 11
+
+11
+1
+
+I 26
+1
+
+.......................
+.................... . .................. ....................
+
+....................
+
+..................
+1
+
+l
+
+10
+
+26
+1
+-7~.s-·
+
+7
+
+39
+
+L.eveling
+State Firstorder
+Miles
+
+Secondorder
+Miles
+
+State
+
+-·
+New Mexico ......· New York .......... Ohio ................. Oklahoma .......... Oregon .............. Pennsylvania ...... South Carolina .... Tennessee ......... Texas ............... Washington ........ West Virginia..... Wyoming ........... Total .............
+
+Firstorder
+Miles
+
+Secondorder
+Miles
+
+Arkansas ............ California ........... Colorado............. Florida............... Georgia .............. Illinois ............... Indiana ............... Kansas ............... Kentucky............. Louisiana........·... Mississippi ......... Nebraska ............ Nevada ............... New Jersey ..........
+
+14 l,600 108 336 366 145 31 2 42 4 12 278 38 0
+
+0 600 10 101 111 8 0 154 0 0 48 51 170 35
+
+25 0 7 7
+11
+
+0 0 168 692 61 93 438 4,478
+
+270 159 0 4 70 156 238 77 46 134 651 63 3,156
+
+Summary of Geodetic Work, June 30, 1957
+July l, 1956, to June 30, 1957 Triangulation, first- and second-order, length..of·arc ...............·..·............·..... Leveling, first- and second-order ......·.... First-order baselines ...............·........... Geodimeter length measurements ........... . Second-order baselines ..............·.···...·.. Latitude stations (New) ......................... . Longitude stations (New) .............. , ..... ,, ·. Azimuth stations ................................. . Gravity stations (New) .......................... .
+Miles
+
+Total to June 30, 1957
+Miles
+13~r176
+
+'--2,41i 7 ,634"
+Number
+
+422,178 ·.
+Number
+
+6 14 2 64 65 7 591
+
+450 54 59 1,328 1,141 1,418 11,190
+
+Office Work
+The work in the Washington office consists principally of the computation and adjustment of triangulation, leveling, astronomic, and gravity observations. When the field records are first received, they are reviewed for completeness and conformity to specifications and then processed. Other work includes the editing, typing, and arranging of survey data and descriptive material for reproduction in quantity by lith~graphy. These printed copies are distributed either by standing orders or by special request of engineers or . other interested persons from all over the United States and its possessions. State index diagrams of triangulation and leveling are maintained and the processing of alphabetical lists of triangulation stations by
+
+40
+
+states and counties is continuously being maintained and expanded. Many miscellaneous computations were made during the year, such as for map projections and distances between points in the United States.
+
+Adjustment of Triangulation
+Precise horizontal control surveys are adjusted into the national network upon. the completion of the field work. An adjustment is necessary to distribute the accidental errors of observation through the survey net in a manner which will give consistent results over all elements of the survey. Furthermore, the adjustment must not distort the lengths and azimuths of a new net in order to obtain this consistency. This latter condition requires that a great deal of care be used in establishing the sequence in which adjustments must be made and in selecting the lines to be included in each successive adjustment. Most of the surveys are adjusted as soon as the field records have been received in the Washington office. In some instances, adjustments are deferred until adjacent nets are completed so that more satisfactory results may be obtained. Occasionally surveys are adjusted before the entire network in a locality has been completed so that engineers may use the part of the work which has been completed. Later some revision of the published values may be required. This past year there were two large areas in the Federal net where major readjustments of previously published surveys were made; one involved Contra Costa County and nearby areas in California, and the other most of North Carolina. In both cases new surveys had been made across rather narrow gaps between existing surveys and, if adjusted, excessive corrections would fall on the new lines. By readjusting a portion of the older net with the new survey included, the inconsistency was eliminated. During the year, -S,B2.2_points -w.ex:e. ac:lJYsieQ.Jl!l~~d~~~}.QJhe horizontal control file of the United States and Alaska. These files now contain data for more than 150,000 points.
+
+Adjustment of Leveling
+As of June 30, 1957, the total amount in the level net was 422,178 miles of first- and second-order leveling along which 34S.9~~1 benchmarks had been leveled over. The following computations and adjustments were completed during the year: preliminary computations for 3,287 miles of first-order and 2,366 miles of second-order leveling; 44 leastsquares adjustments comprising 8,197 miles of first-order and 7, 997 miles of second-order leveling; and the distribution of closing errors on 15;196 miles of first-order and 9,395 miles of secondorder leveling.
+41
+
+Astronomic Computations
+Processing of first- and second-order astronomic data was kept nearly current with field observations. A total of 90 latitudes, 90 longitudes, and 6 Laplace azimuths were computed.
+
+Gravity Reductions
+Position, elevation, and anomaly data for 1,400 area gravity stations in Illinois, Iowa, and adjoining states were reduced and tabulated on automatic computing equipment. Processing of other gravity meter data included the calibration of base traverses between southern Texas and the Province of Manitoba and between Washington, D. C., and Ottawa. Isostatic gravity corrections were determined for 50 sea stations in connection with special requirements of other Federal agencies.
+
+New York Computing Office
+The New York computing office has been operating a number of years. Consisting of about 22 employees, this office supplements the Washington office in several phases of the work including the processing of triangulation and leveling observations; maintaining the triangulation diagrams; compiling triangulation station indexes; and editing and typing of geodetic information for reproduction and distribution.
+
+NAUTICAL AND AERONAUTICAL CHARTS
+PRODUCTION and distribution of nautical and aeronautical charts and related publicat~ons continued to be major activities of the bureau. These charts have a direct bearing on the Nation's economic welfare and on its military security. To safeguard the operations of our vast maritime and aviation interests, the bureau publishes charts of the United States, its Territories, and possessions. They form part of the necessary equipment of our Navy, merchant marine, Air Force, and civil aviation, and are in ever increasing demand by vacationing taxpayers who prefer the airways or waterways to the highways. Nautical charts have been published by the Coast and Geodetic Survey for nearly a century and a quarter. They have been improved progressively in form and character through innovations in surv,eying methods and cartographic and lithographic techniques. The modern chart is designed to utilize to best advantage the information furnished by such electronic navigation devices as echo sounding, radar, and loran. Aeronautical charts have been produced by the bureau for the past 30 years. They are published of domestic areas to meet both civil and military needs, when requirements are compatible, 42
+
+and of foreign areas to meet civil needs. Rapidly developing electronic aids to navigation and traffic control procedures and the development of new types of aircraft have necessitated changes in the design and format of aeronautical charts. These changes are constantly going on in order to make the charts responsive to new needs. The volume. of charts produced and distributed during the year was greater than that produced in any other peacetime year in our history. Funds appropriated for chart production have not been increased in proportion to the demands for more and different charts. The bureau has been able to meet the more urgent new demands through improved charting techniques but there is a limit to what can be realized through such improvements. The growing arrearage found in certain phases of chart work can only be met when the expenditures for chart production are more favorably balanced with chart demands.
+
+Nautical Charts
+Nautical charts are important prerequisites for marine navigation in furthering safety of vessels, cargo, and passengers at sea. They furnish accurate and reliable information relative to depths, safe channels, and dangers, as well as shoreline and other topographic features and all established aids to navigation required in safe operation. Nautical charts are compiled principally from basic surveys of the bureau, supplemented by additional information obtained from other government agencies and reliable private sources. To meet the requirements of all mariners, the nautical charts are published in several series, identified as Sailing, General, Coast, Harbor, and Intracoastal Waterway. The original compilation and publication of a nautical chart is only the beginning of the service which the bureau furnishes the mariner for a particular area. Natural and manmade changes necessitate continual revision to provide accurate, up-to-date information. Changes in aids to navigation and in channel depths require frequent revision. Minor changes are applied as hand corrections; major changes necessitate a new printing. During the year, compilation work was accomplished on 4 74 nautical charts. These included 5 new charts, 5 reconstructed charts, 14 new editions, 429 new prints, 17 reprints, and 4 overprints. Seven hundred and seventy-three items regarding dangers which required hand correction, as well as other navigation information, were reported to the Coast Guard and Hydrographic Office for publication in the weekly Notice to Mariners. A total of 807 nautical charts were on issue at the end of the year. To produce the 1,034, 926 copies issued, 460 printings were necessary. This represents a 35 percent increase in issues and a 10 percent increase in printings over fiscal year 1956. 43
+
+The following new unclassified charts were published during the year:
+New Nautical Charts Published
+No. 206 213 554 5598 Title Southwest Harbor and Approaches, Maine....................... Newburyport Harbor and Plum Island Sound, Mass............ Chesapeake Bay, Honga, Nanticoke, and Wicomico Rivers, Md............................................................. Farallon Islands, Calif................................................ Scale 1: 10,000 1:20,000 1:40,000 1:40,000
+
+The following unclassified nautical charts were canceled during the year:
+Nautical Charts Canceled
+No.
+
+Title Newburyport Harbor, Mass ......................................... . Wicomico River, Md .................................................. . Harbors in Southeastern Alaska ................................... . Yukon River-Apoon Mouth to Head of Passes, Alaska .... .. Apoon Mouth .....·........·.........·...·......................·..·. Yukon River-Kwikluak Mouth, Alaska .......................... ..
+
+Scale 1:20,000 1:20,000 Various 1:80,000 1:20,000 1:80,000
+
+- - - - - - - - - - - - - - - - - f----·-
+
+331 567 8120 9372 9373
+
+Coast Pilots
+Ten Coast Pilots are published by the bureau. They furnish descriptive and other information pertinent to the coasts, harbors, and connecting waterways which cannot be shown conveniently on nautical charts and is not readily available elsewhere. This includes landmarks, channels, anchorages, dangers, weather, ice, navigation regulations, and port facilities. New editions are published approximately every 7 years. Supplements containing corrections, changes, and new information are issued annually. During the year supplements were issued for all the Pilots. A plan was developed for reducing the number of Coast Pilots from 10 to 6 by 1961. This will be effected by combining in one volume some of the present separate volumes. For example, Coast Pilot 13 will take in the Gulf coast, Puerto Rico, and the Virgin Islands. There will also be a change in format and in type size.
+
+Aeronautical Charts
+In addition to the routine work necessary to maintain the various series of aeronautical charts, major programmed changes in three of the series were under way during the year. 44
+
+The recompilation of the Sectional series was continued. This series incorporates new concepts of what is needed by the visual flight operator. At the endoftheyear, 5 of the Sectional charts had been published on the new format, 2 were ready for printing, and 16 were in various stages of completion. The program of recompiling the Approach and Landing charts to new specifications, started in 1956, was completed during the past year. Nine hundred and seventy charts were converted from the old specifications to the new, bringing to 1,369 the total number of charts converted in the program. A new Radio Facility chart of Alaska was compiled and published. This new chart, made to the same specifications as the Radio F acility charts of the United States, shows on one piece of paper the information formerly portrayed on 21 different charts or information sheets. The increased installation of navigational aids and controlled airspace made it necessary to replace the present series of 10 Radio Facility charts of the United States with a new series of 18 charts at a larger scale. Six charts of the new series have been published, and 3 charts of the old series have been canceled. The following table is a summary of aeronautical charts published during the year:
+
+Summary of Aeronautical Charts Published
+Number of charts in series, July 1, 1956 43 19 88 4 23 12 54 16 11 1,205 New charts New editions Number of charts in series, June 30, 1957 43 19 88 .4 23 17 68 1 15 1,101
+
+Series
+
+Reprints
+
+U.S. WAC .......... . Alaskan WAC ..... . Sectional ............ . Jet Navigation ..... . Local ................ . U.S. RF ........... .. Terminal Area .... . Alaskan RF ....... .. U. S. RF-VOR .... .. Approach and Landing ......... .. Route ............... .. Planning............ .. Aircraft Position .. Outline Map ......... Isogonic ........·..... Azimuthal .......... . Miscellaneous ..... .
+
+......... . ........ .. ........ .. ......... . ........ .. 8 14 1 7 68
+
+74 6 18 ............ .. 139 18
+
+3 ............ ..
+41 3 75 3 188 2 2 ............ .. 74 3 1,495
+2 4 ............. ............. ............. .............
+
+1,913 1
+..............
+
+11
+2 4 15 11 3 12
+
+11..............
+.......... .......... .......... ..........
+
+11
+2
+4
+
+4 15 .............. 11 .............. 3 .............. 12 >--------~------~- - - - - - t - - - - 1,533 98 2,126 1,953 1,437 Total ........... .
+
+45
+
+Chart Reproduction
+Demands on reproduction services during the year required the production of 56,758,000 copies of the bureau's nautical and aeronautical charts. This represented an increase of 12,885,000 copies over the preceding year. To produce these charts and the necessary related chart data, 79,000,000 press impressions were required,, which is an increase of 6,000,000 over the previous year. This increase is reflected principally in the staadard seri.P1~ of aeronautical charts and in the nautical charts. The number of editions of nautical charts processed and printed continued to increase. There were 460 in 1957 as compared to 415 in 1956 and 322 in 1955. The demand for copies of nauticaJ charts increased 29 percent over 1956, and 50 percent over 1955. The number of copies of standard aeronautical charts printed increased 9 percent over 1956, and 32 percent over 1955.
+
+Chart Distribution
+Nautical charts and related publications as well as aeronautical charts continued to be sold through authorized agents located in principal seaports and airports throughout the United States, Alaska, Hawaii, the West Indies, and Canada. In order to furnish more efficient distribution, chart distribution centers continued to be maintained in New York, Kansas City, and San Francisco, to supply agents and the public in these areas. In addition, charts are also available in the Washington office and in designated bureau district offices. At the close of the year, the bureau was represented by 317 nautical and 470 aeronautical chart agents--an increase of 45 over the previous year. Agents and distribution centers are kept cognizant of changes in charts which render them obsolete. They must then be withheld from public sale. Chart agencies are inspected to promote the standard of distribution desired by the bureau. During the year, 48 percent of the nautical agencies and 53 percent of the aeronautical agencies were inspected. Ninety percent of all agencies inspected were found to be performing their duties in an efficient manner. Nearly 63,000 additional nautical charts and over 770,000 additional aeronautical charts were issued over the previous year. In the distribution of Instrument Approach and Landing chart~ on a subscription basis, a more efficient format was inaugurated. Formerly, five subscriptions to the various procedures were maintained; now two subscriptions, East and West of the Mississippi River, cover all civil procedures. In addition, another subscription is available for military fields of the United States. The program of hand correcting nautical charts to prevent large stocks from becoming obsolete was continued in the Washington office, as well as in the New York and San Francisco district offices. Eight million hand corrections were made.
+
+46
+
+A total of 55 million charts of all types were distributed, an increase of nearly 12 million over the previous year. The distribution of charts and related publications for the past 4 years is shown in the following table:
+
+Charts and Related Publications Issued
+Type of chart or publication Nautical and Tidal Cur rent Charts .............. Standard aeronautical charts ..................... Instrument Flight Charts ..................... Miscellaneous maps and charts ..................... Coast Pilots ................. Tide and Current Tables
+--- -·- ·-·--.~
+
+-------- -·-·
+1955 ----758,040 8,458,575 34,261,779 57,499 10,798 72,638 --1956 762,384 9,562,996 33,086,405 52,859 9,309 72,205 1957 1,034,926 9,891,123 43,720,580 53,771 10,994 73,437
+
+1954 --------642,920 8,624,858 32,408,473 58,160 10,204 70,402
+
+The distribution of nautical and aeronautical charts during the year was as follows:
+
+Distribution of Nautical and Aeronautical Charts
+NAUTICAL Number 456,376 Sales .·..·..·...·...·.·.........·..···.·.··...·...··. Official Distribution: Coast and Geodetic Survey ................ Coast Guard ................................... Other Executive Departments ............ Congressional................................. Foreign Governments ....................... ~scellaneous .·····.··...·..···.....·......·.. Reimbursable: Department of Air Force .................. Department of Army ........................ Department of Navy .........................
+11,655 7,630 17,656 3,850 2,245 1,114 44,150 1,222 1,490 479,810 482,522
+
+Percent
+44.10 1.12 .74 1. 71 .37
+~21
+
+.11
+
+4.26 .12 .14 46.36 46.62 5.02 100.00 1,034,926
+
+Condemned .·....·.............··.·..·............. Total. ..........................................
+---·
+
+51,878 1,034,926
+
+47
+
+Distribution of Nautical and Aeronautical Charts-Con.
+STANDARD AERONAUTICAL
+Number Percent
+
+Sales ··.....................................·........ Official Distribution: Coast and Geodetic Survey ................ Civil Aeronautics Administration ....... Other Executive Departments ............ Congressional. ................................ Foreign Governments ....................... Miscellaneous ................................. Reimbursable: Department of Air Force .................. Department of Army ........................ Department of Navy ......................... Special printings .............................
+
+1,047,591 17,130 115,775 29,015 249 3,243 775 166,187 6,833, 787 1,940 l,440,643 222,673 .__!,499,043
+
+10.59 .17 1.17 .29 .01 .03 .01 1.68 69.09 .02 14.57 2.25 85.93 1.80 100.00 9,891,123
+
+Condemned......................................... Total..........................................
+
+178,302 9,891,123
+
+INSTRUMENT FLIGHT Sales........................................ ·........ Official Distribution: Coast and Geodetic Survey ................ Civil Aeronautics Administration ....... Other Executive Departments ............ Miscellaneous .·.·..·...····...·............·.· 3,104,594 31,645 1,339,563 100,431 3,077 1,474,716 Reimbursable: Department of Air Force .................. 37,492,060 Department of Navy ......................... 70,010 Special printings ............................. 4,000 37,566,070 Condemned.·.·.·................··......·.....·... l,5i5,200 7.10 .07 3.07 .23 .01 3.38 85.75 .16 .01 85.92 3.60 100.00 43, 720,580
+
+Total.......................................... 43, 720,580 AIR FORCE AERONAUTICAL
+
+~~~~~~~~~~~~~
+
+Total issue....................................................................... Grand total ................................................. ,...............
+
+727,156 55, 373, 785
+
+48
+
+IMPROVEMENTS IN INSTRUMENTS, EQUIPMENT, AND TECHNIQUES
+THE varied nature of the bureau's work requires a corresponding variety in the instruments, equipment, and techniques used. Some of these are of commercial origin but the unusual accuracy requirements and rugged conditions of operation in the field frequently introduce problems not contemplated by the commercial instrument maker. The Survey has therefore of necessity designed and built its more precise instruments, or redesigned and modified purchased instruments to adapt them to its needs. To do this, the bureau maintains well-equipped mechanical and electronic laboratories and other research and testing facilities. Improvements were made in instruments and techniques in nearly every branch of the bureau's activities. The more important of these are described in the following paragraphs. Hydrographic Methods and Equipment.--Tests were in progress on a newly developed OM-type (Distance-Measuring) Raydist equipment. This electronic equipment is used to fix the position of a survey ship at distances in excess of 100 miles from the shore ·stations, with sufficient accuracy for surveys at scales as large as 1:10,000. Distance measurements have been received at 176 miles and the limit is not yet reached. The OM Raydist is a modification of the phase-measuring type of electronic positioning. In the regular phase system, the differences in time of arrival of two pairs of signals are determined and plotted as lines of position, which are hyperbolic curves. As this type of curve is difficult to construct and awkward to use, a circular plotting system, such as Raydist, where all lines are distance arcs from given points, is preferred. In this system, the true distance is measured to the first station and the sum of the arrival times of the signals from the first and second stations. The sum information is converted by a built-in mechanical computer into terms of distance from the second station. Raydist has an additional advantage in that only two shore stations and a transmitter on the ship are required as compared to other systems which require three shore stations. The Maritime Administration prepared the design of the new hydrographic surveying ship based on the bureau's preliminary conception and detailed requirements. A 100-foot wrought-iron hull, diesel-propelled vessel was obtained for work on current circulation surveys. A 42-foot launch is being altered, including conversion to diesel propulsion, to be used for offshore surveys on banks and shoals. A launch replace~ent program and a limited procurement of launches and small boats with hulls of plastic laminate fabrication were initiated. Tide, Current, and Oceanographic Instruments. - Eleven tide stations were equipped with remote recording instruments as aids in storm high-water warnings. A remote recording instrument using the variation of resistance principle has been developed which has some advantages over the two types previously used. Its
+
+49
+
+(
+
+chiet asset is the use of dry cell batteries for power instead of regular current, so it is not affected by a general power failure. A synchronous-motor, remote-recording mechanism for measuring the tide was installed on Texas Tower No. 2 on Georges Bank. A new current meter recorder has been constructed, which not only corrects operational difficulties of the older model, but incorporates a more complete monitoring system with greater flexibility in choice of speeds so as to provide longer unattended periods of operation. A transmitter and radio adapter were designed for operation in a more desirable frequency range. The radio adapter includes the equivalent of push-button tuning for individual buoy frequencies and a built-in amplifier for strengthening the radio signal to the chronograph stylus. Considerable progress was made in the design and construction of a mechanism to speed up thetabulationofhourly heights of the tide. Geodetic Instruments.-One Tellurometer, a precise distance measuring device, was purchased and tested during the year. This electronic instrument measures distances up to 20 or 30 miles with an accuracy better than 1 foot. It is being used experimentally by a survey ship to establish horizontal control in the Aleutian Islands. Conventional triangulation methods for establishing this control would be time consuming, expensive, and in some places almost impossible. If this experiment is successful, the problems of surveying along these and similar rugged coastlines will be much less difficult of solution. A second Geodimeter, with three frequencies instead of two, was purchased and put in operation. This electronic-optical distance measuring device has greater weight and bulk than the Tellurometer but greater inherent accuracy. A new method was developed and field tested for second-order astronomic position observations which permits direct coordination of the star paintings with the audible !-second WWV time-signal pulses. A new signal lamp was designed around a new plastic reflector unit. The reflector is of excellent quality, and the complete lamp costs approximately 40 percent of the instrument it replaces. A major change was made in the geodetic computing equipment. A magnetic drum calculator has replaced the two electronic calculators formerly used. The new equipment has a much greater computing capacity and will be used for the processing of geodetic, geophysical, and photogrammetric data. The solution of extensive problems will be speeded up materially. Geomagnetic and Seismological lnstruments.-A universal electromagnetic instrument of the pattern developed by the Geophysical Survey Institute has been purchased for the Fredericksburg magnetic observatory. Preliminary studies have been started for adapting a proton-precession, total-field magnetometer to observe components of the field, and for automatic monitoring of FanselauBraunbeck coils in order to neutralize fluctuations of the geomagnetic field by means of these coils.
+50
+
+A radio telemetering system connecting the se~smic detector and recorder has been placed in continuous operation at the Tucson magnetic observatory, permitting use of an instrument remote from traffic and industrial vibrations. By shaking table analyses, characteristics were determined for a refraction-type seismometer that indicated favorable use as a teleseismic instrument. Several such units were installed and successfully operated at island stations. Photogrammetric Instruments and Teclmiques.-A Wild A-5 stereoscopic plotting instrument was obtained on loan from the Department of the Air Force. This first-order instrument is being used both for aerial triangulation and for map detailing. Aerotriangulation techniques were improved and tested with photographs of a controlled area. These tests resulted in the formulation of an equation for determining or specifying accuracy. A successful test was made in programming the curvilinear adjustment of instrument aerotriangulation for computation by electronic computers. Analytic aerotriangulation is being developed using the method proposed by the Department of the Army, which applies to both nine- and single-lens photography. Cartographic and Reproduction Techniques and Equipment.-A new system of registration is being applied to the reproduction copy of sectional charts which furnishes a positive indication of registration of the several colors. A new plotting device was designed for checking bearings and distances on instrument approach and landing charts which removes the possibility of errors and provides a rapid means of determining these values. Proofs of aeronautical data for sectional charts, formerlypreparedontracing paper, ·are now made on film from glass negatives. This provides a more stable copy for proofreading and correction, and also results in time and money savings. The conversion to photographic type for chart work was accomplished with the installation of a second Fotosetter. The only requirement for metal type remaining is for tabular material which is corrected from standing monotype forms. Procedures have been established for the application of Dystrip to the preparation of gradient tints for aeronautical charts. Significant man-hour savings result from the use of this method. Tests of paper dampener covers for the presses were completed~ The results exceeded expectations and conversion of the bureau's presses is under way. Portable equipment to apply the paper strip to dampener rollers was designed and built in the bureau. This machine has aroused considerable interest bymanufacturersandother Government agencies. Plastic foam was used for raised letters on some displays for exhibits, and an electrically heated wire saw was developed for cutting this material. A formica cement was adapted for holding photographs on panels during rough display usage, and various new types of lighting were used. A method was developed for covering maps with vinylite to allow erasable writing with soft crayon.
+51
+
+Testing Equipment.-An 18-foot, outboard-motor launch having a molded fibreglass and plastic hull and a partially enclosed cockpit was purchased for experimentation and testing of echo-sounding and other marine instruments. This craft will fill a long-felt need.
+
+NATIONAL AND INTERNATIONAL COOPERATION
+TI-IE BUREAU · continued its cooperation with national agencies (both public and private), and with foreign governments and international organizations. On the national level, much of the bureau's work is done for the Department of Defense and for other Federal and non-Federal agencies under various cooperative arrangements. On the international level, cooperation is extended through liaison, exchanges of information, and training of personnel, as provided by existing law.
+
+National Agencies
+Department of Defense
+Department of the Navy.-Basic offshore surveys were completed in the Pacific Ocean off the coasts of Washington and British Columbia. Similar surveys are in progress around the Hawaiian Islands. Assistance was given the Alameda Naval Air Station in locating instrument stations in the vicinity of Tomales Point, Calif. Navy technicians were trained in use and maintenance of electronic equipment. Among the special wire-drag surveys accomplished at the request of various naval .authorities were those at Key West, Fla.-in the Northwest and Southwest Channels, and in a new ferry channel. Hydrographic surveys for a large-scale approach chart to Texas Tower No. 2 on Georges Bank are in progress. The positioning and orientation of minitrack layouts for observing the earth's satellite were completed at Blossom Point, Md., and in the vicinity of San Diego, Calif. One new classified chart was compiled and printed, and 27 similar charts were brought up to date. Thirteen special-purpose charts were maintained. Compilation of 33 special charts was undertaken and 22 were completed. A special tide table for the Arctic was published and tidal data for a number of areas were prepared. The Hydrographic Office was furnished a number of bathythermograph slides obtained by the bureau's ships. Work continued on the special scaling of magnetograms, and on the collection and compilation of data for world magnetic charts to be published by the Hydrographic Office. Advice was given on a vibration problem at the Puget Sound Naval Shipyard, Bremerton, Wash. Earthquake data for the Aleutian Islands were furnished to the 11th Mobile Construction Battalion, San Francisco. A strong-motion seismograph was installed at the Naval Research and Evaluation Laboratory, Port Hueneme, 52
+
+Calif. The Office ofNavalResearchwasfurnished data on propogation of sound in sea water. Work was started on compiling a comprehensive history of the Navy Microseismic Project for hurricane detection and tracking. Department of the Army. -A detailed hydrographic and topographic survey was completed in the vicinity of the Army pier at Whittier, Alaska. Triangulation and astronomic observations were accomplished ·in southwest Arizona for the Engineer Research and Development Laboratories, in connection with setting up a test site for electronic-distance measuring equipment. The location of Nike sites in the Baltimore-Washington area and reconnaissance for those in the Detroit areawereunderway. Astronomic observations were provided for the Redstone Arsenal, Huntsville, Ala. For the Corps of Engineers, the following work was accomplished: wire-drag surveys at the entrance to New York Harbor; special leveling in the San Francisco Bay area; processing tide records and furnishing supplemental tide l:lnd current data for use in model basin projects for San Francisco Bay and New York Harbor; processing Latin American magnetic field records; furnishing seismicity data for Alaska andHawaiianareas; constructing three boat sheets with BPI curves for operations in Lake Superior; and a special photogrammetric survey of Cobscook Bay, Maine, to map the low-tide and half-tide contours forwater power studies, which involved tidal observations and infra-red aerial photography taken at exact tide stages. For the Army Map Service, the following projects were completed or were in hand: aerial photography and topographic mapping of the Aleutian Islands, the Alaska Peninsula, and the coastline of western Alaska, for the publication of military topographic maps (these also, provide topographic information for the Survey' s aeronautical and nautical charts); completion of small-scale topographic mapping in Nevada, Arizona, Idaho, and Montana for the 1:250,000 scale topographic maps; initiation of a long-range program of beach erosion studies which involves the compilation of shoreline and depth-curve changes; application and verification pf hydrography on 16 quadrangles; and review and evaluation of hydrography for application to quadrangles in 8 Alaskan areas. Department of the Air Force.-Precise stationing and alignment for a 35,000-foot supersonic track were accomplished at the Holloman Air Force Base, N. Mex. Triangulation and leveling observations were conducted at Eglin Air Force Base, Fla. At Patrick Air Force Base, Fla., operations conducted in the vicinity of Cape Canaveral and downrange in the West Indies included gravity and astronomic work, geoid data, basic hydrographic and wire-drag surveys, and seismic observations to measure local ground vibrations caused by microseismic and artificial disturbances. Special leveling was run at Air Force bases in Texas and Oklahoma. Assistance was given in establishing horizontal control points in the DEW Line extension. The Aeronautical Chan and Information Center was furnished a special world aeronautical chart covering northwestern United
+
+53
+
+States for use in military maneuvers and for operational evaluation of chart design; reproduction material from sectional aeronautical charts for production of pilotage and low altitude charts; and composite film positive of 42 standard aeronautical charts for use on an Air Force contract project. Other cooperation included: making magnetic observations at southern and western sites for the investigation of magnetic cartographic problems; part-time operation of magnetic observatories in conjunction with airborne work; and taking m'1gnetic observations to test the suitability of compass testing platforms at 82 airfields in the United States, 3 in the Territories, and 1 each in Iceland and Bermuda.
+
+Other Federal Agencies
+Cooperation was extended to a number of Federal agencies other than the Department of Defense, as exemplified by the following: Thirty graphs were provided the Committee of Economic Advisors, Office of the President, together with maps for the President's Office. The project of determining storm effects on water levels at tide stations to assist the Weather Bureau with its hurricane warning project was continued. Close liaison was maintained with that Bureau and the Corps of Engineers in connection with various phases of the hurricane warning and hurricane protection projects. Stage-frequency curves of a number of places where the Coast Survey' s systematic tide observations extend over many years were prepared for the Federal Flood Indemnity Administration. For the Civil Aeronautics Administration, the following was accomplished: A special chart was prepared to show prohibited, restricted, caution, and warning areas as of April 1957, and the 1,200 VOR and VOR TAC installations and the airways involved in its plan for navigation through 1965; charts were compiled and printed showing the current low- and very high-frequency airways, locations of proposed L/MF and VOR high-altitude navigation facilities, and proposed high altitude track routes within the United States; special plotting charts were prepared for use in flight check of VOR/DME facilities, for pilots' examinations, and for training programs for air traffic controllers; and special printings were made of charts for insertion in two books. Other cooperation with the CAA in connection with the location of VOR facilities are included in Special Projects of "Geodetic Control Surveys." The application of hydrography was reviewed and verified on 132 Geological Survey quadrangles. Seismographs for measuring vibrations, instruction in operation of teleseismic instruments for Pacific work, and sea water salinities and temperature data were also furnished the Geological Survey. For the Forest Service, geodetic positions were determined of many points in a concentrated area near Camptonville, Calif., to be used to test the positioning of land corners by photogrammetry.
+
+54
+
+The National Institute of Health was advised on a complex vibration problem affecting sensitive equipment in a 15-sto:r:y structure in Bethesda, Md. A vibration meter owned by the Institute was calibrated. Other cooperation included furnishing the following: sea water salinity and temperature data to the Fish and Wildlife Service and the Department of Agriculture; geomagnetic data to the National Bureau of Standards and to the Central Intelligence Agency; advice on reactor safety in an earthquake area to Atomic Energy Commission and several of its contractors; information on establishing a seismograph station to the Oak Ridge National Laboratory; training of Coast Guard technicians in electronic instrument servicing and maintenance; drafting special maps for the Maritime Administration and the Bureau of Public Roads; certificates and maps of various kinds for the Office of the Secretary and other bureaus in the Department of Commerce; and producing 3 adiabatic charts for the Weather Bureau. Support of the Department's civil defense program included compiling a 10- by 30-foot wall map, drafting 60 target-circle sketches, and designing and constructing a slide rule for assessing bomb damage.
+
+Non-Federal Agencies
+Cooperation was also extended to a number of non-Federal agencies, both public and private, through existing arrangements, or through newly established ones. This included furnishing data and advice on magnetic and oceanographic problems, and giving information on the purchase and construction of seismographs. Among the agencies were The Johns Hopkins University, University of Alaska, Carnegie Institution of Washington, University of Chicago, University of Michigan, University of Virginia, Columbia University, Georgia Institute of Technology, Massachusetts Institute of Technology, Westinghouse Electric Corp., Virginia Electric Power Co., the University of Utah, Nebraska Wesleyan University, Western Washington College of Education, Blair Academy, St. Joseph's College, Vaca Valley Union School District, Woods Hole Oceanographic Institution, Scripps Institution of Oceanography, University of Washington, and the University of Miami. In addition, a 10-second displacement meter was installed in Harvey Auditorium, Bakersfield, Calif. A line oflevelingwasrunfromEgmontKey to Mullet Key, Tampa Bay, Fla., for the Pinellas County Engineers. Special surveys were conducted for an airplane manufacturer to provide geodetic locations at three sites and astronomic azimuths at two of them; astronomic latitude and azimuth were observed for an instrument company; a bureau representative reviewed at the plant of a private mapping firm the results of methods introduced last year; procedures for making and running surface plates were furnished a printing company; and assistance was given the Lithographic Technical Foundation on the development of a new paper hydroscope 55
+
+using moisture sensing elements of the radiosonde type, and the preparation of resolution targets of extreme accuracy for studies in halftone photography. As a result of the Federal Highway Act of 1956, the bureau commenced cooperation projects with Nevada, Oregon, South Carolina, Virginia, and Washington for the purpose ofprovidinggeodetic control along the interstate highway routes. Cooperatively with other Federal agencies, editorial assistance was extended to several professional and scientific societies whose fields of activity are closely related to the Survey' s work. Personnel of the bureau also held offices and important committee posts in these societies. Amongthesewerethe American Congress on Surveying and Mapping, the Society of American Military Engineers, the American Society of Civil Engineers, the American Society of Photogrammetry, the American Geophysical Union, the Seismological Society of America, and the Institute of Navigation.
+
+International Technical Cooperation Program
+The bureau continued its participation in the cooperation programs under the International Cooperation Administration; the fellowship programs of the United Nations Educational, Scientific, and Cultural Organization; the Economic Employment and Development Commission of the United Nations; the International Educational Exchange Service of the Department of State; and under bilateral arrangements made by the Department of State with the participating foreign countries. Operations were carried on under the provisions of Public Law 665, 83d Congress, Mutual Security Act of 1954 and subsequent amendments. The Survey' s participation consisted primarily in training foreign nationals in the methods and techniques employed by the bureau. The curriculum is included in the Prospectus of Training Courses prepared for foreign nationals. Photogrammetry, being a relatively new science, is the only subject in which class instruction and group lecture courses are given. Courses in other subjects consist of personalized instruction in the theoretical aspects and their practical application. The Training. Program.-The value of the technical interchange resulting from the cooperation programs to date has been reflected in the benefits achieved, among which are the following: operation and expansion of broad cartographic programs; personal advancement of training participants; further development of technical goodwill relations; establishment of direct contacts to facilitate future interchange of technical ideas and problems; and purchase of modern scientific equipment, materials, and supplies by the participant or his agency. During the year, 29 trainees, representing the following countries, received grants from the cooperation programs and were given instruction in various phases of the bureau's work: Bolivia (3), Chile (4), Dominican Republic (2), Ethiopia (3), Greece (1), Guatemala (1), Japan (1), Jordan (1), Iraq (1), Norway (1), Phil56
+
+ippines (3), Thailand (6), Venezueia (1), and Yugoslavia (1). Fourteen participants from other training agencies or universities, representing the following countries, also received instruction in the work of the bureau: China (1), Cuba (3), El Salvador (2), Honduras (2), India (2), Mexico (2), Panama (1), and Thailand (1). In addition to the training participants, 75 visitors from the following countries consulted with bureau personnel and observed operations for periods ranging from 1 to 15 days: Argentina (2), Bolivia (1), Brazil (45), Chile (1), Cuba (2), Ethiopia (1), Greece (2), Iran (2), Japan (2), Liberia (1), Norway (2), Panama (4), Peru (2), Spain (1), Thailand (4), Venezuela (2), and Viet-Nam (1). The Ethiopian Project.-ln March 1957, a special service agreement to provide for aid in the establishment of geodetic control in the Blue Nile River Basin, Ethiopia, was completed between the International Cooperation Administration and the Survey. The project is expected to take about 2 years. The development of the natural resources of the Blue Nile River Basin is essential to the economic growth of Ethiopia. In an area of about 112,000 square miles, the geodetic control project will involve the establishment of roughly 80 main scheme triangulation stations, 1,500 miles of first-order leveling, about 6 baselines, and 10 astronomic stations. During the year, the following was completed: general layout of triangulation and leveling planned, cost estimates prepared, supplies ~ontracted for, instruments shipped, and 11 experienced geodetic men transferred from geodetic parties in the United States to Ethiopia to form a nucleus for the operations.
+
+Other International Cooperation
+The Survey continued to cooperate with the Inter-American Geodetic Survey program, the long-range aim of which is to establish a coordinated scheme of geodetic surveys extending from North America through Central America and into South America. Survey participation in this program included the assignment of an officer as technical consultant on geodetic and magnetic surveys, processing tide records and other oceanographic data, and determining tidal datum planes for places in Latin America. As part of the cooperative program for a new first-order world gravity network, the bureau engaged in cooperative gravity meter calibration comparisons with the Dominion Observatory of Canada and in deter mining the gravity difference between Washington and Ottawa by observations with new pendulum equipment. Participation was continued in a program of international exchange of tide predictions with a number of maritime nations. Magnetic instruments of American manufacture were adjusted and standardized for Ireland and Ethiopia. The special series of 13 planimetric maps of Liberia for the Government of Liberia was completed during the year. 57
+
+Other cooperation included furnishing the following types of information or services.: tidal harmonic constants to the International Hydrographic Bureau for publication and dissemination to member nations; periodic magnetic reports to the International Association of Geomagnetism and Aeronomy; technical magnetic advice to agencies in Canada, Ethiopia, Germany, Great Britain, Nigeria, and Japan; earthquake information to seismologists in Japan, Peru, and Southern Rhodesia; sea water temperature data to the Laboratorio National de Pesca, Panama, for a study of upwelling; a report on the oceanographic activities of the Survey, 1953-1957, to the Ninth Pacific Science Congress; and data on electronic methods of measuring ocean depths and distances to the Swedish Navy.
+
+ADMINISTRATION
+Personnel
+AT THE close of the year, the Coast and Geodetic Survey employed 2,030 persons. This figure is 80 less than the 2,110 on the roll on June 30, 1956. Civil service personnel actions included 757 separations, of which 7 were deaths and 22 were retirements, and 672 appomtments. Commissioned personnel actions included 1 separation, 6 resignations, 6 retirements, 2 deaths, and the appointment of 20 deck officers and ensigns.
+
+Special Assignments
+At the close of the fiscal year the following personnel were on special assignments: Capt. Joseph P. Lushene as liaison officer with the Department of Observation, The Artillery and Guided Missile School, Fort Sill, Okla.; Comdr. James C. Tison, Jr., Lt. Comdr. Allen L. Powell, and Lt. Harley D. Nygrenwith the Air Force Missile Test Center, Patrick Air Force Base, Fla.; Comdr. Horace G. Conerly as survey expert with U.S. Army Artillery Board, Fort Sill, Okla.; Comdr. Charles W. Clark with the Inter-American Geodetic Survey in connection with surveying and mapping in Central and South America; Lt. Comdr. Don A. Jones conducting control surveys in the Blue Nile River Basin under the U.S. Operations Mission in Ethiopia; and Lt. Comdr. John R. Plaggmier as liaison officer with the Naval Amphibious Training Unit, Little Creek, Va. Lt. Comdr. Robert C. Darling completed the course at the Armed Forces Staff College, Norfolk, Va., and Lt. Merlyn E. Natto completed training under the U. S. Air Forces (navigation and reconnaissance courses), Mather Air Force Base, Calif. The following personnel were on temporary special assignments during the year:
+Rear Adm. H. A. Karo participated in the annual inspections of the Mississippi River and, together with Capt. C. Pierce, visited Addis Ababa, Ethiopia, to consult with officials on the Ethiopian project; Capt. E. B. Roberts inspected
+
+58
+
+IGY installations in the Pacific areas; R. R. Ross, N. E. Sherron, and A. A. Ferrara assisted the U. S. Lake Survey in the installation and calibration of EPI: G. J. Walker and R.R. Ross installed EPI for the U. S. Navy at Ascension Island; S. Shober assisted the U, S. Navy in the operation of EPI at Argentia, Newfoundland; and G, C. Tewinkel and W, D. Harris received training in aerotriangulation at the Aberdeen Ballistic Research Laboratory.
+
+Conferences, meetings, seminars, ere., of various national and international organizations and associations, were attended by personnel as follows:
+International Hydrographic Conference at Monaco (Rear Adm. R. W. Knox and Capt. S, B. Grenell); IGY conference at Rio de Janeiro (Capt. E. B. Roberts); Radio and Technical Commission for Marine Services (Comdr. K. B. Jeffers and T. J, Hickley ); Committee on Tidal Hydraulics of the Corps of Engineers (L.P. Disney); Hurricane Survey Coordinating Committee (L. P, Disney); International Congress of Photogrammetry at Stockholm(Capt. L. W. Swanson and G. C. Tewinkel); Interdepartmental Council on Radio Propagation and Standards (T. J. Hickley); Very Low Frequency Symposium (R, R. Ross); American Society of Civil Engineers (B. D. Zetler); Delaware Estuary Study Group (B. D. Zetler); Seismological Society of America (Capt. E. B. Roberts and Dr. D. S, Carder); International Cartographic Conference at Stockholm (Capt. L. W. Swanson); International Association of Geomagnetism at Copenhagen (J, H. Nelson); Institute of Radio Engineers (T. J. Hickley and R.R. Ross); Esselte Conference on Applied Cartography, at Stockholm (S. Sachs); Air Transport Association Aeronautical Chart Committee (Comdr. H. F, Garber and F. E. McClung); Air Force Cambridge Research Center Seminar (D, G. Knapp); Photogrammetric Seminar at Munich (G. C. Tewinkel); International Gravity Commission at Paris (D, A. Rice); National Business Aircraft Association (F, E. McClung); National Association of Photo-Lithographers(F. A. Fowler); National Association ofLithoClubs W. A. Fowler); Technical Forum, Lithographic Technical Foundation (A. J. Gheen and U. G. Beale); Susquehannock Power Squadron (W. A. Bruder); EasternSectionof the Seismological Society of America (Dr. D. S. Carder, L. M. Murphy, L. Bailey, R. Brazee, and R. Eppley); International Typographic Composition Association (N. F. Sampogna); Research Committee, Lithographic Technical Foundation (G, B. Littlepage, Jr.).
+
+Awards
+Under the Honor Awards Program of the Department, the following received the Exceptional Service Award of the Department of Commerce (gold medal and citation) "for outstanding contributions to the public service, the Nation, or humanity"·
+Gordon B. Littlepage, Jr. Albert A. Stanley Comdr. Lawrence W, Swanson
+
+The following personnel received the Meritorious Service Award of the Department of Commerce (silver medal and citation) "for service of unusual value ro the Department":
+Lucille Bremmer deMendz Adam M. Legako Frank B. Quirk, Jr. Marguerite P. Wilcox Dr. A. Joseph Wraight
+
+59
+
+Aaron L. Shalowitz and Orlando P. Sutherland received Length of Service insignia for 40 years of service in the Department. Dr. Dean S. Carder was awardedtheColbertMedal by the Society of American Military Engineers.
+
+Retirements
+The following commissioned officers were retired from active duty after the indicated number of years of service in the bureau:
+Rear Adm. Robert W. Knox (34) Capt. Ralph L. Pfau (32) Capt. George A. Nelson (31) Rear Adm. Ira T. Sanders (31) Capt. George R. Shelton (31) Comdr. Robert A. Marshall (29)
+
+The following civil service personnel retired from active duty after the indicated number of years of service in the Government:
+Albert Henderson (48) Martin A. Leibold (39) Samuel N. Davis (37) Harold R. Edmonston (37) Ralph R. Bodle (36) Ralph E. Crosby (36) Claude S. Willis (35) Elmer L. Alley (33) Enoch M. Sawyer (32) James D. Watler (32) Stanley E. Hart (30) Odell Hudgins (30) Gregorio 0. Ygnacia (30) Leslie E. Amlaw (26) Robert C. Moler (25) Edwin G. Yearley (22) Pearl M. Bellamy (15) Louise M. Jackson (14) Lena T. Stevens (13) Robert J. J. Doughten ( 12) Leonard R. Southwick (10) Luther K. Landrus (5)
+
+Finances
+The following funds, from sources indicated, were made available to the bureau during the fiscal year 1957:
+Available Funds Appropriations: Salaries and Expenses ...................................................... $10,900,000 Transfer from National Bureau of Standards for Retired Pay, Commissioned Officers (Authority contained in Third Supplemental Appropriation Act)........................................ 41,000 Construction of a survey ship............................................ 3, 700,000 Total appropriations..................................................... Reimbursements from other agencies.................................... Working Funds received from: Department of State......................................................... Total Working Funds..................................................... Transfer from: International Cooperation Administration............................. 14,641,000 3,876,186 6, 116 6,116 159,700
+
+Total Funds received .................................................... $18,683,002
+
+60
+
+Collections covering miscellaneous receipts, including sales of nautical and aeronautical charts and related publications, totaled $625,683, as compared with $561,306 during the preceding year.
+
+Management Improvement
+Several changes were made during the year in organizational structure that will result in improved coordination of bureau activities and in better long-range planning. Two special units were established within the office of the director-a Special Staff and an Operations Coordination Board. The first provides advice and assistance to the director and assistant director by developing, recommending, and coordinating plans and policies for expediting technical projects and programs through full utilization of bureau resources. It alsodevelops and maintains the bureau's emergency relocation plans. The second, which consists of the assistant directors and division chiefs, meets periodically to discuss the integration and coordination of bureau-wide plans and projects. The electronics laboratory was transferred from the coastal surveys division .to the instrument division in order to centralize responsibility for developing all bureau electronic instruments. Savings will also result through use of common supply and technical facilities. An important change in bureau fiscal matters was the elimination of the assistant disbursing officer system for shore-based parties and the conversion to the agent cashier system. The payrolling function will be accomplished by the Washington office, and miscellaneous disbursements at the party level will be handled through the agent cashiers. This revision will simplify field accounts and relieve field parties of several accounting reports. As a result of a survey of the bureau's warehousing and supply function, ship supplies and repair parts stocked at Washington are being shipped to Norfolk and Seattle. In the future these items will be purchased and stocked by the respective districts, thus avoiding a second handling and saving on packing and shipping costs. Also, the material has been rearranged and obsolete items are being disposed of, which will result in a saving in access time and inventory accomplishment. Other management improvements included the revision of the commissioned officers' pay procedure through elimination of individual vouchers and through the preparation ofdependencycertificates semiannually rather than monthly; and a broadening of the employee training program to increase the versatility of personnel and to develop their supervisory abilities.
+
+Administrative Changes
+Rear Adm. Robert W. Knox, assistant director of the bureau since 1951, retired from active service on June 30, 1957. He served the bureau since 1923. 61
+
+Other administrative changes included the following assignments: Capt. Kenneth G. Crosby as chief, tides and currents division; Capt. Samuel B. Grenell as chief, coastal surveys division; Capt. John Bowie as assistant chief, coastal surveys division; Capt. John H. Brittain as assistant chief, geodesy division; Capt. Charles A. Schanck as chief, chart division; Comdrs. Franklin R. Gossett, Edmund L. Jones, and Edgar F. Hicks, Jr., as assistants to the director; Comdr. Max G. Ricketts as chief, nautical chart branch, chart division; Comdr. Karl B. Jeffers as chief, hydrographic branch, coastal surveys division; Comdr. John C. Bull as assistant chief, photogrammetry division; and Comdr. 'Raymond H. Tryon, Jr., as assistant to the chief, aeronautical chart branch, chart division.
+
+PUBLICATIONS AND INFORMATION
+AN IMPORTANT part of the bureau's work is the dissemination of its technical information in the form of aeronautical charts, nautical charts, printed publications, airport obstruction plans, auxiliar!' maps and charts, and copies of manuscript maps of coastal areas. These are available to the public on a sales basis. In addition, a large volume of technical data is furnished to the public in response to specific requests. Various means are utilized for this purpose, among which are the issuance of new and revised publications describing bureau practices and giving results of field surveys or office compilations; the publication of articles in technical journals on the work and progress of the Survey; the presentation of papers before scientific and engineering societies on specialized subjects; informal talks presented by personnel before professional and civic clubs, military units, and engineering colleges; the preparation of special exhibits for national conferences and conventions; and the issuance of press releases and chart publication notices.
+
+Types of Publications Issued
+The published material issued by the Coast and Geodetic Survey includes the following principal types of publications:
+Nautical Charts and Coast Pilots for use by the Navy, merchant marine, fishing industry, and small-boat owners. Aeronautical Charts for use by the Air Force, Navy, and other Government departments and by commercial carriers and private pilots. Airport Obstruction Plans for use by the Civil Aeronautics Board, by the Civil Aeronautics Administration, and the air carriers to determine the maximum safe takeoff and landing gross weight of civil aircraft. Geodetic Control Data (triangulation, leveling, astronomy, and gravity) for use by Federal, State, and local government agencies
+
+62
+
+and private surveyors in geologic and topographic mapping; in area and regional engineering projects; and in the planning of highway, railroad, and other construction. Tide and Current Publications (Tide Tables, Tidal Current Tables, Tidal Current Charts, and related tidal data) for use in marine navigation; development of coastal areas; studies of storm tides, sewage disposal, and water pollution; fisheries; and tidal boundaries litigation. Temperature and Density Publications (monthly means, annual means, and extremes of sea water temperature and density) for use in science, coastal industry, refrigeration and the loading of ships, and fisheries. Geomagnetic Publications for use in the Federal mapping and charting programs, in air and marine navigation, in retracing property lines, in geophysical prospecting for oil and other minerals, and in the scientific study of radio propagation and other phenomena subject to the effects of solar activity. Earthquake Reports for use in designing earthquake-resistant structures, in conducting geophysical research, and in determining insurance premium rates for earthquake areas. Nautical and aeronautical charts, Coast Pilots, Tide Tables, Tidal Current Tables, and Tidal Current Charts are sold to the public at the Washington office, at district offices, and at authorized agencies established at the principal seaports.and centrally located in various regions of the country. At the Washington office, chart catalogs and certain other related chart publications and processed pamphlets containing the results of field surveys, as well as a List of Publications describing the various technical manuals and special publications of the bureau, are furnished on request. Photographic copies of airport obstruction plans of civil airports and of large.t scale manuscript maps of coastal areas made for the production and maintenance of nautical charts are available on a sales basis. Manuals, pamphlets, and other printed publications of the bureau are sold by the Superintendent of Documents. During the year, new and revised publications were issued or prepared for publication in the following categories:
+
+Nautical Charti11g
+A revised edition of the following publication was issued:
+Nautical Chart Manual, by H. R. Edmonston.
+
+This publication sets forth the policies, procedures, and techniques for the construction of nautical charts.
+
+Geodesy
+The following publications containing Plane Coordinate Intersection Tables (2-1/2 minutes) were printed:
+
+63
+
+Alabama, Publication 65-1, Part 1. Oklahoma, Publication 65-1, Part 34.
+
+Other publications issued during the year:
+Horizontal Control Data, Special Publication No. 227 (Revised 1957).
+
+Tides, Currents, and Oceanography
+Tide and tidal current tables for the year 1958 were prepared as follows:
+Tide Tables, Europe and West Coast of Africa (including the Mediterranean Sea). Tide Tables, East Coast, North and South America (including Greenland). Tide Tables, West Coast, North and South America (including Hawaiian Islands). Tide Tables, Central and Western Pacific Ocean and Indian Ocean. Tidal Current Tables, Atlantic Coast, North America. Tidal Current Tables, Pacific Coast, North America and Asia.
+
+Other publications issued were as follows:
+Special Tide Tables, Selected Places in Greenland, Canada, and Alaska, 1957 (for official use). Tidal Current Charts, New York Harbor (Seventh edition). Special Publication No. 280 (Fifth edition), Surface Water Temperatures at Tide Stations, Pacific Coast, North and South America and Pacific Ocean Islands.
+
+Geomagnetism and Seismology
+The following geomagnetic publications were issued:
+Magnetograms and Hourly Values, Tucson, Arizona, 1952 (MHV-Tu52). Magnetograms and Hourly Values, College, Alaska, 1951 (MHV-CoSl).
+
+Seismological publications issued, or in press, included the following:
+United States Earthquakes, 1955, by L. M. Murphy and W. K. Cloud. The Seismograph and the Seismograph Station by D. S. Carder. Seismological Bulletin--June 1956 through March 1957; Quarterly Engineering Seismology Bulletin-third and fourth quarter 1955 and the first quarter 1956; Abstracts of Earthquake Reports for the Pacific Coast and the Western Mountain Region-four quarters of 1956.
+
+Coast Pilot
+Supplements to the Coast Pilots, containing changes and new information, were issued for 10 volumes. 64
+
+Miscellaneous.
+The following miscellaneous publications were issued:
+The Coast and Geodetic Survey 1807-1957, by A. Joseph Wraight
+
+and Elliott B. Roberts. (A short history of the bureau emphasizing its highlights.)
+United States Coast and Geodetic Survey, Products and Functions.
+
+(An orientation handbook.)
+150 Years of Service. (A pictorial brochure showing various phases of the bureau's work.) These publications were written partly in commemoration of the bureau's sesquicentennial.
+
+Papers Published
+To Probe the Earth and the Sky, Elliott B. Roberts, Americas, July 1956. Geodetic Surveys in Alaska, Charles A. Whitten, The Military Engineer, JulyAugust 1956. Crustal Movements in California and Nevada, Charles A. Whitten, Transactions, American Geophysical Union, August 1956. A comparison of Earthquake Accelerations With Intensity Ratings, John Hershberger, Bulletin of the Seismological Society of America, October 1956. A St~tistical Analysis of Hiran Measurements, J. L. Stearn and Ernest J. Parkin, Transactions, American Geophysical Union, December 1956. One Hundred and Fifty Years of Accuracy, H. Arnold Karo, Public Works, January 1957. Sesquicentennial of Coastal Charting, Albert A. Stanley, The Military Engineer, January-February 1957. Modern Nautical Charts, Wallace A. Bruder, Marine News, February 1957. Coast and Geodetic Survey's Tide Predicting Machine, Kenneth G. Crosby, Marine News, February 1957. Coast and Geodetic Survey, 1807-1957, ElliottB. Roberts, U.S. Naval Institute Proceedings, February 1957. Development and Use of Photogrammetry in the Coast and Geodetic Survey, H. Arnold Karo, Photogrammetric Engintlering, April 1957. Photogrammetric Surveys fo:i; Nautical Charts, B. G. Jones, Photogrammetric Engineering, April 1957. Chart Revisions, H. R. Brooks, Photogrammetric Engineering, April 1957. Photogrammetry and Safety and Regulation of Commercial Aviation, John R. Pates, Photogrammetrlc Engineering, April 1957. The Air Photographic Mission, Alfred C. Holmes, Photogrammetric Engineering, April 1957. Practical Exposure Determination for Aerial Photography, W. D. Harris, Photogrammetric Engineering, April 1957. Control for Photogrammetric Mapping, Charles Theurer, Photogrammetric Engineering, April 1957. Aerotrlangulation Adjustment, G. C. Tewinkel, Photogrammetric Engineering, April 1957. "Leapfrog" Barometric Leveling, H. R. Cn1vat, Photogrammetric Engineering, April 1957. Plastic Scribing, Josef J. Streifler, Photogrammetric Engineering, April 1957. New Maps of Liberia, L. M. Gazik, Photogrammetric Engineering, April 1957. Low-Water Photography in Cobscook Bay, Maine, B. G. Jones, Photogrammetric Engineering, April 1957.
+
+65
+
+Recent Trends in Aeronautical Charting, Frank E. McClung, Surveying and Mapping, April-June 1957. A Formula for the Probable Error in an Inaccessible Base Resection, Erwin Schmid, Surveying and Mapping, April-June 1957. Nautical Charting (1807- 1957), Aaron L. Shalowitz, The Scientific Monthly, June 1957. Where Are Our SeawardBoundaries? AaronL.Shalowitz, U.S. Naval Institute Proceedings, June 1957. Federal Liability for Failure ofNavigationalAids,AatonL. Shalowitz, Marine News, June 1957.
+
+Articles for Reference Books
+A short article on Geomagnetism was prepared for the American Institute of Physics Handbook. Several articles dealing with specialized scientific fields related to the work of the bureau were prepared for publication in encyclopedias and yearbooks. These included entries on Geodesy for the Encyclopedia Americana; Oceans and Ocean Currents andlnland Waterways of the United States for The Children's Encyclopedia; Coastline Measurements and Airline Distances for the Information Please Almanac; Seismology for the New International Year Book, Britannica Book of the Year, and Collier's Year Book; and on Cartography, Terrestrial Magnetism, and Electricity for the Americana Annual. Articles on overall activities of the bureau were also prepared for the Britannica Book of the Year, for the New International Year Book, for the Home University Encyclopedia, and for the Americana Annual. The statistical data in the World Almanac, relating to the work of the bureau, were reviewed and corrected.
+
+Papers Presented
+Hydrographic Application of Photogrammetry in the Coast and Geodetic Survey, G. C. Tewinkel, International Congress on Photogrammetry, Stockholm, Sweden, July 1956. Geodetic and Tidal Control Surveys in Alaska, H. Arnold Karo, Seventh Alaskan Science Conference, September 1956. The International Geophysical Year Program of the Coast and Geodetic Survey, David G. Knapp and Elliott B. Roberts, Seventh Alaskan Science Conference, September 1956. Future Surveys in Alaska, H. Arnold Karo, American Society of Civil Engineers, Alaska, September 1956. Nautical Chart Compilation and Maintenance, Wallace A. Bruder, U. S. Power Squadron, Washington, D. C., October 1956, and Lancaster, Pa., January 1957. Surveying and Mapping in Military Engineering, H. Arnold Karo, Society of American Military Engineers, October 1956. Coast and Geodetic Survey Aeronautical Charting Program, Current and Proposed, Frank E. McClung, National Business Aircraft Association, October 1956. The Effect of Hurricanes on Sea Level at Charleston, Bernard D. Zetler, American Society of Civil Engineers, October 1956.
+
+66
+
+Geodesy in the Geophysical Year, Donald A. Rice, American Institute of Electrical Engineers, December 1956. Geomagnetism in the International Geophysical Year, Elliott B. Roberts, Institute of Aeronautical Sciences, December 1956. The Coast and Geodetic Survey, H. Arnold Karo, University of Nebraska Alum11i, Seattle, Wash., February 1957. Geodetic Control, Charles Pierce, Washington Society of Military Engineers, February 1957. Ethiopian Control Project, Charles Pierce, American Society of Military Engineers, February 1957. The International Geophysical Year, Elliott B. Roberts, Rotary Club, Washington, D. C., February 1957. Coast and Geodetic Survey Geodetic Control, H. Arnold Karo, American Society of Civil Engineers, March 1957. Mobilizing Brainpower for National Security, H. Arnold Karo, Society of American Military Engineers, March 1957. Geodetic Control, Charles Pierce, American Congress on Surveying and Mapping, March 1957. Geodetic Control, Charles Pierce, Society of American Military Engineers, March 1957. Coast and Geodetic Survey Participation in the Highway Program, I. E. Rittenburg, Annual Meeting, American Congress on Surveying and Mapping, March 1957. 150 Years of the Coast and Geodetic Survey, Elliott B. Roberts, Annual Meeting, American Congress on Surveying and Mapping, March 1957. The Geodesic Line, Earl S. Belote, Annual Meeting, American Geophysical Union, April 1957. Location and Distribution of the Recent Swarm of Aleutian Islands Earthquakes, R. J. Brazee, Annual Meeting, American Geophysical Union, April 1957. Baltimore and the Coast and Geodetic Survey, H. Arnold Karo, Sesquicentennial Banquet, Baltimore, Md., April 1957. Operation of Seismic Sea Wave Warning System in March 9, 1957 Earthquake, L. M. Murphy, Annual Meeting, American Geophysical Union, April 1957. Geomagnetism and the International Geophysical Year, Elliott B. Roberts, U.S. Naval Reserve, Compton, Calif., April 1957. Control Surveys in Engineering, Elliott B. Roberts, Long Beach City College, April 1957. A New Timing Method for Second-Order Astronomic Longitude Determination, Eugene A. Taylor, Annual Meeting, American Geophysical Union, April 1957. A Preliminary Report on the Seismic Sea Wave of March 9, 1957, Bernard D. Zetler, Annual Meeting, American Geophysical Union, April 1957. Engineering Research in the Coast and Geodetic Survey, H. Arnold Karo, Annual Meeting, Society of American Military Engineers, May 1957. The International Geophysical Year, Elliott B. Roberts, The Round Table, Washington, D. C., May 1957. Objectives for Society of American Military Engineers and Coast and Geodetic Survey Collaboration, H. Arnold Karo, Society of American Military Engineers, June 1957. Background and Technical Objectives in Geomagnetism, Elliott B. Roberts and David G. Knapp, Meeting of the U.S. National Committee for the International Geophysical Year, June 1957.
+
+67
+
+Requests for T echnica1 Information
+In addition to the distribution of maps, charts, and special publications, the bureau furnished considerable technical information in response to requests from foreign agencies, Federal and State mapping organizations, oil companies, colleges, engineers, lawyers, and the general public. Extensive use is made of the original topographic and hydrographic surveys of the bureau in sedimentation studies, in various phases of oceanography, and in exploration and other problems associated with offshore oil. Major requests for copies of aerial photographs and for photographic copies of surveys came from oil companies operating in the Gulf of Mexico and in areas in Alaska, and from contractors of the Department of Defense working in Alaska. An increase has been noted in the tssue of photographs and maps to the general public for various engineering and planning purposes such as, coastal erosion, property boundaries involving the high-water line, real estate developments, drainage projects in coastal areas, and municipal planning. Three of the district offices have become technical information centers for new techniques in stereoscopic plotting operation and in scribing of map compilations. Numerous legal and engineering firms were furnished information on observational tide and current data for such purposes as marine accidents, hurricane warning and protection projects, model basin studies, boundary disputes, coastal development, and pollution studies. Sea water temperature data were furnished for use in designing condensers for industrial plants. Many advisory opinions were given on a variety of specialized matters falling within the purview of the bureau's activities and related fields. Among these were advice on territorial limits, on interpretation of the early surveys and charts of the bureau, on riparian rights,, on the ownership of submerged lands, on various aspects of seaward boundaries, and on the use of the high-water line on nautical charts.
+
+Other Information Available to the Public
+Map information essential to the various functions of the bureau is also available to the public. Printed copies or photographic reproductions of maps, charts, and related data are provided at cost.
+
+Map Collection
+The bureau's map collection, comprising about 400,000 items, is a vital part of its service to the public. A total of 84, 726 items were received, 66,883 items were issued, and 37,210 items were superseded or eliminated from the files. In addition to the map collection, a file of photographs and lantern slides covering bureau 68
+
+activities is maintained. items.
+
+This file now contains more than 30,000
+
+Library and Archives
+Since 1816, the bureau has been collecting books, pamphlets, and other material relative to its scientific and technical activities. This collection is extensive and is rivaled in few other places for coverage of the fields dealt with. Through exchange and subscription, the bureau receives regularly the most important periodicals and publications of greatest interest to its personnel. At the close of the year, the library contained 112,569 catalogued books and pamphlets, and 331,600 registered field records. The total accessions during the year were as follows: 2,057 books and pamphlets; 5,344 office, field, and observatory records; 760 office and field reports; and 104 hydrographic survey sheets. About 550 books were withdrawn from the collection as obsolete, and 533 cubic feet of records were transferred to the Federal Records Center as records of infrequent use.
+
+Exhibits
+The celebration of the sesquicentennial of the Coast Survey presented an opportunity to effectively use visual aids as a medium of publicizing its products and functions. Pegboard panels were used for the exhibits on which photographs, charts, maps, and other material were arranged in various designs. A series of five panel exhibits were prepared for the open-house programs of the district offices in commemoration of the sesquicentennial. The Office of Field Services, Department of Commerce, made available the facilities of its offices for the placement of 25 special window panels. The excellent response from business establishments resulted in display of these panels at over 75 locations. A number of the office managers have placed the exhibits in as many as 10 selected sites on a rotation basis.
+
+Visitors to Bureau
+The bureau was host during the year to a large number of visitors who observed its activities, processes, and equipment; consulted with bureau personnel; and obtained a variety of specialized technical information. Among them were scientists, engineers, attorneys, and officials from Federal agencies. Foreign visitors included government officials from Belgium, Canada, Chile, China, Cuba, El Salvador, Germany, Greece, Indonesia, Iran, Japan, Korea, Mexico, New Zealand, Norway, Paraguay, Thailand, Turkey, and Viet-Nam. Conducted tours were arranged for foreign trainee groups from other agencies and for a group of seniors from the University of West Virginia.
+5158-U.8.Dept.of Comm-DC-11158
+
+69
+
+

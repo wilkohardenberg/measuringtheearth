@@ -1,0 +1,734 @@
+APPENDIX NO. 11-1897.
+THI<i DUPLEX BASE APPARATUS, AND DIRECTIONS FOR ITS USE IN THE FIELD.
+
+By WILLIA:lr EilllDECK, Assistant.
+
+The Duplex i8 a bimetallic contact-slide apparatus consisting of two bars of precisely similar construction, each 5 metres in length. It was constructed in the instrument shop of the Survey, after plans and specifications submitted by Assistant William Eimbeck. These plans and specifications were originally submitted in 1885, but no action was then taken. On invitation by a circular issued lly the office in 1887, to consider the subject of a new 5-metre primary base apparatus, the original duplex scheme was resubmitted with the suggestion that it be referred for criticism of its merits to expert geodesists and others interested. To this suggestion the office acceded, and subsequently a number of copies of a preliminary report were sent out by the office. Iu reply 8everal interesting and comprehen· sive letters were received, notably from Profs. J.B. Johnson, Charles A. Schott, R. S. Woodward, George Davidson, Simon Newcomb, and Dr. G. B. Gould; also from Gen. 0. B. Comstock and Mr. M. 8. Wheeler, assistant in the United States Corps of Engineers, Prof. J. H. Gore, Dr. Westphal, editor of Instrumentenkunde, et al. On the whole t.he criticisms of these eminent men were in every way encouraging. It was conceded. that the principle was sound, and that if the construction should succeed in securing and maintaining equality in the mean temperatures of the components, the duplex scheme would unquestionably prove fruitful in good results. The test of the principle by actual trial was favored and urged. Accordingly, in 1890, after a thorough inquiry into its merits, Dr. T. C. Mendenhall, then superintendent, authorized tlJe construction of the new apparatus in accordance with the plans and specifications submittf>d as stated. It is proper, however, to remark in this connection that the detail in construction was in part worked out and designed by Mr. E.G. Fischer, chief mechanician of the Survey, to whose ingenuity, professional skill, and interest in the success of the duplex is also due the splendid workmanship in which it is executed. As a matter of office routine, and as far as seemed expedient, every detail of construction was submitted to and passed upon by the lnstrulllent Board of the Survey before execution was authorized. Shortly after completion of the apparatus, early in 1893, it was placed on exhibition at the World's Columbian Exposition at Ohicago and later the Geodetic Conference, which convened at the office of the Survey in January, 1894, examined it and recommended that it be given a thorough and careful trial as soon as practicable. (See Proceedings Geodetic Conference, Appendix No. 9, p. 234, Ooast and Geodetic Survey Report for 1893.) The salient characteristics which distinguish the duplex from other bars are: (1) Its two disconnected tubular components (brass and steel); (2) the rC:1versibility of the components; (3) its double metallic truss tubes, the inner one of which contai11ing the components is reversible on its axis; (4) indication of the accumulated difference of length of the measures from the steel and brass components. Excepting one component, which is of steel, the apparatus is wholly constructed of brass tubing of the smallest dimensions consistent with requisite strength and rigidity. Each one of the bars weighs 118 pounds. The flexure is constant.
+789
+
+740
+
+UNITED STATES COAST A.ND GEODETIC SURVEY.
+
+The object of the introduction of these features of construction, especially the interchange of position of the components by reversal, is to promote uniformity in the distribution of heat, but particularly to insure equality in the mean thermic state of the components. Inasmuch as the length of a metallic rod is at all times the surest index of its thermal condition, the preservation of equality in the mean temperatures of the components is unquestionably the important requisite upon which the efficiency of every bimetallic device mainly depends. The duplex, although a bimetallic apparatus, is not a Borda thermometer. Having its components fixedly connected, the Borda device is a real thermometer, capable of indicating real temperature at all times; the duplex, on the other hand, hiiving disconnected components, is not a thermometer, and does not therefore indicate actual temperatures at any time. Knowledge of the actual temperatures of the components is without importance. The total relative displacement or shift of the components with respect to one another dming a measurement is all that is required for the reduction of the results of measure to the standard. As a composite apparatus the action of the duplex may therefore appropriately be considered without reference to temperatures, either real or inferential. It deals solely with expansions, the mechanically integrated differences in the lengths of its components and their ratio to one another, as more particularly explained further on. Among further advantages which the duplex is assumed to possess over other bars may be mentioned the independence of its duplex and thermometric constants, and the uniformity of the projections of its steel aud brass components from the truss tubes, which latter circumstance insures equality in tl10ir exposure and protection. Unif9rmity in the protection or exposure of the components from end to end is of the utmost importance in every bimetallic apparatus, and must be scrupulously satisfied if equality in their thermic states is to obtain at all times. · l\Ioreover, if simultaneously used as a bimetallic and a thermometric apparatus, as was done in the Salt Lake base measure, the duplex will furnish three practically independent results from a single measure, which must and will agree if the constants experimentally derived from both the field and comparator measures are consistent. These results are: (1) The thermic measure from the steel component; (2) the thermic measure from the brass component (both in connection with the temperatures derived from the mercurial thermometers); (:J) the differential expansions or duplex measure obtained from the steel and brass components conjointly. But the accordance of' the8e three results proves not only the satisfactory behavior of the apparatus, but also the reliability of the execution of the measurcme11t. 'l'he following diagram of the duplex bar shows the arrangement of the cornponents and the principal features of construction:
+Out.er Tru.s:s :I'ul)r.
+St-eel Co urumL;
+
+Out.er Tn<ss
+
+~--------------.....-~
+Roll.er Support
+
+Support:
+
+The parallel components lie side by side in a plane normal transversely to the vertical plane, their centers lk inches or 2·80 centimetres apart. For dimensions and detail of construction of the bars, see plates 3, 4, 5, and G. Each of the components is provided in the usual manner with a contact slide and screw.,, etc.· The components consist respectively of closed steel and brass tubing three.fourths of an inch in diameter, and cross·dimensioned as regards thickness of their walls, with due regard to the
+------·-···-··-----····-,,,
+
+__ ·-· --·--------------
+
+·For full description of the contact slide, aligning telescope, and the trestles, etc., sco account of "Perfected form of Contact-Slide BaRe Apparatus," hy J.E. Hilgard, Appx. 17, Coast and Geodetic Survey Report for 1880, and account of Primary Bo.so Apparatus, l>y C. A. Schott, Appx. 7, CoaHt and Geodet.ic Survey Heport for 1892.
+
+REPO~T
+
+FOR 1897-PART II.
+
+APPENDIX NO. 11.
+
+741
+
+specific heat and conductivity of these metals. Their outer surfaces were nickel-plated in order to insure in each equal power for the absorption and emission of heat. The selection of steel and brass resulted from considerations of economy in construction, the ratio of the expansions of these metals being judged sufficiently sensitive. Tlie particular form of construction of the apparatus out of light brass tubing will, it is believed, insure the requisite degree of equability in its thermic behavior. This is essential to, and in fact necessary for, its complete success as a composite measure. The mercurial thermometers, although entirely unnecessary, were provided for special purposes; for example, the determination of the coefficients of expansion. Each bar contains three symmetrically disposed thermometers, which if regularly used will render the duplex serviceable also as a thermometric measure. The shifts or relative displacements of the components with respect to one another are determinable by, and follow directly from, the successive readings of the bar scales. While one set of scales would have sufficed for this purpose, yet for convenience and symmetry in construction a second set was provided. These are secured respectively near the rear and the front ends of the bars, as shown in the illustration._ To faci1itate the making of the contacts between bars in the reversed as well as in the direct positions, both the upper and the nether faces of the conta~t slides are provided with a set of fiducial lines. The standard lengths of the bars rest upon the coincidence of both of these sets of lines with fixed lines on the bars. When the lines are set to coincidence, the lengths of ·the components are defined by th~ agate tips or terminals, horizontal knife edges at their rear ends, and flat or abutting surfaces of 2·5 millimetres diameter at their forward ends.· As regards field procedure, the duplex differs from other contact bars in no essential particular, Pxcept in that it requires the making of two contacts for every bar laid, namely, the contacts between its double components in the sense "steel to steel" and "brass to brass." The alignment and inclination of the bars is effected and determined in the usual way by means of aligning telescopes and inclination sectors, as shown in the illustrations. The scales for relative shifts of the components require to be read twice, once at beginning and once at conclusion of the measurement of each whole or half section of a base, as the case may be. Scale readings are also required whenever "shift" is made to equalize the projecting ends of the components. During actual measurements it is advantageous to shift the brass and not the steel components, in order to leave the latter undisturbed in the .truss tubes, thus insuring continuity in the measurements with the steel components. Inasmuch as the bar scales relate the two components and determine their relative displacement, it wiJl usually suffice during measurement to refer but one of them to the section or stop marks. The independent reference of both the components, however, will afford a check upon the scale readings. Before referring the components at the start or conclusion of a measurement some advantage is gained by setting their agates even, i. e., tangent to a line normal to the axis of the bars, as in that case the transfer measures will be the same for both. This equality in the projections of the components from the truss tubes is readily aud most accurately accomplished by means of reflections from a plane mirror. Again, during use of the duplex it is convenient, on account of the central position of the aligning telescopes, to keep the axis of the bars in the line of measm:e. Still, unless the normal position of the sector transit is well assured, it is preferable and essential to accuracy in the transfer measures to place the bars slightly eccentric, so as to bring that component which is nearest to the sector in the line of measure. Heversal of the components being a distinctive feature or principle of construction of the duplex, should never be neglected, either in field practice or in comparisons for standardization, if results of the highest attainable precision are sought. Vvithout reversal of the components, especially during exposure of the bars to radiant heat, the equality in the mean temperatures of the components will in part lie sacrificed, and as a com~equence slight discrepancies or "lag" would undoubtedly develop and impair the precision of the measures.
+·For an account of the sta.ndurdizat\on of the duplex hnrs by tho Office of Sta.udard Weights and Meu8nres, see Report by AsHist.aut Andrew Braid in the CouMt uml Geodetic Snrv1iy Heport for 1896.
+
+742
+
+UNITED STATES COAST AND GEODETIC SURVEY .
+
+.A. reversal of the components is equivalent to change of face in the bars. The frequency of reversals will depend upon circumstances, but ordinarily two reversals during a day's work will suffice. It is, however, essential that these reversals be symmetrically disposed with reference to the subdivisions of the base or to each day's measurement. .A.gain, on account of the standardization, the measures of a line or section should always be made in equal extent with the bars in the positions of "face up" and "face down." The scales and verniers, being firmly secured to the components, turn with them 011 reversal, and appear in the windows of the truss tubes provided for the purpose. Through these windows, which are closed with glass planes to intercept the free circulation of .the air, the scales are read. Shutters protect the windows against injury. The legends engraved upon these window shutters designate the position or face of the components within. When in position "face up,'' the steel components of the bars are to the left looking in the direction of the meaBure, whereas when "face down" they will be to the right. In the measurement of the Salt Lake base the components were reversed but twice each day, i. e., once at the middle point of each half-kilometre section, measured respectively in the morning and evening. Inasmuch as during this measurement the duplex was on trial for general efficiency as a. composite apparatus, systematic execution was important. Accordingly the mercurial thermometers were 11lso· regularly read, and the measurement of a section was carried out in strict conformity with the scheme of procedure shown in the following diagram of a kilometre section.·
+
+Fig. 2
+
+Each kilometre section, it will be noticed, was thus measured twice, once forward and once backward, noting in each, also, the measure at the half-kilometre point. The day's field work was restricted to the measurement of a single section in but one direction. It will also be seen that the ad vantage which this particular· arrangement of the field procedure aifords, if methodically pursued, consists in furnishing results for the whole S<'Ction free from the errors due to temperature defects in the components, whereas for the half section it exhibits them, if material, to their full extent, rates of temperature changes assumed to be equal. Measuring them under rising and falling temperatures without regard to t:1ystem or plan, such a.s shown in the above diagram, although in general yielding results free from temperature errors, can furnish no results from which the precision of the measures or the thermic efficiency of the bars may with certainty be inferred. The subjection of an apparatus to a thorough test for thermic efficiency is practicable only through systematic field procedure. The measuring of lines under like or similar temperature conditions will in general be productive of results entirely misleading as regards their accuracy. The length of the Duplex bars is known in terms of the international prototype metre, No. 21\ the standardization having· been eflected by comparisons upon the 50-metre comparator base at the United States Coast and Geodetic Survey Office, through the "Woodward" 5-metre standard bar No. 17, in meltingice.t The ''Duplex constants" were determined independently of the thermometer readiugs, i. e., from the expansions direct, and the .thermometric constants in the customary way.
+·This mode of conducting measurements was proposed by the writer in 1885, twelve years ago, as part of the duplex scheme. I have but very recently noticed that tho remeasurement of tho Bonner base in 1892 was conducted after the same general plan. (See Die Neumessung Der Grnndlinien, Gcodetie Institute, Berlin, 1897.) t See Appx. No. 8, Report 1892, The measurement of the Holton and St. Albaus base lines, by R. S. Wood we.rd et al., and Appx. No. 5, Heport 1894, Heport on the length of the Holton Base, by Assistant C. A. Schott. For purposes of standardization this bar, in ice, is not only uncomll\only convenient but iuvalusble.
+
+REPORT FOR 1897-PART II.
+
+APPENDIX NO. 11.
+
+748
+
+In the matter of speed of measurements trial bas demonstrated that tbe Duplex easily leads all other forms of measuring bars in use to·day. A speed of forty bars an hour, or, what is the same thing, a kilometre in five hours, is easily maintained. Tbe necessity of making an extra contact for every duplex bar laid was found to cause no appreciable delay in the progress of the work. 'l'he maximum speed attained in the Salt Lake base measure was at the rate of seventy bars an hour, which broke all previous records of base measurements with any other apparatus, not excepting the monometallic contact·slide bars of the Survey. The time required in making contacts with the Duplex or any other apparatus is consumed chiefly in aligning and adjusting the bars for height, and not in establishing "coincidence" in the fiducial lines, which, as a rule, is a matter of but a few moments. But, to illustrate the capacity of the Duplex for rapid work more fully, it may further be remarked that nineteen consecutive kilometre isections were measured in nineteen consecutive working days of five hours each, viz, from 10.30 o'clock a. m. to 5 o'clock p. m., with an hour and a half intermission after completion of first half kilometre, for the purpose of insuring rising and falling temperatures. In point of accuracy of the field measures the Duplex exceeded expectations. Computed in the usual manner, from the difference in the two measures for the whole sections, it appears to have easily attained a relative precision of 1-5 000 000 part, both as a duplex and a thermometric apparatus. But, computed from the discrepancies in the measures for the 11alf sections, which measures appear to be slightly affected by systematic error due to "lag," the precision reached makes a less favorable showing. The computations for tbe half sections remain as yet
+~00~~~
+.
+
+The crucial test for efficiency' to which the Duplex was subjected in the Salt Lake base measure proved it to be practically free from "lag" or imperfect .tbermic behavior, although during the operations of the measurement the change of the temperature was at times wide and rapid. Its superiority as an efficient field apparatus was thus satisfactorily established. The selection of metallic tubing in its construction was no mistake. Although tried under adverse field conditions it nevertheless maintamed equality in the mean temperatures of its components with a. surprising degree of precision. Moreover, as regards manipulation it is safe to assert that the Duplex leads all others as a compact and convenient base apparatus, not easily deranged in its adjustments, and calculated to insure satisfactory results with bestowal of but ordinary precaution on the part of the observer. Used only as a duplex, without the thermometers, the bar is simplicity itself. Its great weight insures to it exceptional stability in field work. As of interest also, it may finally be mentioned that, bearing in mind the mechanical con· struction, no accumulation of error results in the case of the Duplex· from interruption or irregularity in the progress of measurements made with it, for the reason that each bar as it is brought into contact faithfully records in scale readings the precise thermfo relations which obtain at the instant in the bar preserving tbe measure. In other forms of base bars this advantage is usually lost because of the impracticability, as a rule, of noting the temperatures of the bars at the instant of establishing contact. But, as before intimated, the judicious adaptation of the field procedure in all cases to the particular needs of a primary apparatus will go far toward the complete elimination of this us well as other defects to which it may be liable. To avoid complication in the constructioµ no compensation is applied to preserve invariability in the distance of the rear end of the components from the fixed knife-edge bearing of the rear trestle. The error in measure which thus results from expansions during ordinary fluctuations of temperatures will usually be found inapprecHtble. In extreme cases, however, requiring correction it is readily computed from the known dimensions, the coefficients of expansion, and the tempera. tures of the bars at beginning and closing of the measurement in question. This correction is wholly independent of time or distance measured. The components are securely held in an unchanging relation by the action of helix springs firmly keyed to the components and the reversing tubes. These springs placed within the component tubes cause the contact screws to bear hard at all times against the headpiece of the truss tubes.
+
+744
+
+UNITED STATES COAST AND GEODETIC SURVEY.
+
+Turning the contact screws moves the components forward or backward by the action of the helix springs. Uniformity in the contact pressure is insured by weak helix springs fitted in the sliding caps, as shown in the cross section of the bar. When properly supported at the quarter points, the axes of the reversing tubes are straight or without "sag," a condition which was effected by tentative adjustments of the diaphragms supporting them. On account of the accurate centering, accomplished by carefully executed, well-ground lathe work, these tubes reverse with perfect freedom of motion. By means of a detent they turn exactly half round, leaving the componflnts always in a horizontal position. CHrefully executed, the reversals will cause no sensible disturbance in the position of the bars. Upon this point, concerning which there seemed to be no find of apprehension in the minds of the hypercritical, the apparatus was thoroughly tested under the powerful microscope-micrometers of the office comparator and found to be absolutely secure against disturbance. 'file diameter of the main truss tubes is 10·2 centimetres. The diameter of the reversing tubes is 6·7 centimetres. The thickness of the walls of these tubes is, respectively, 1·75 millimetres and 0·75 millimetre. The horizontal section i>hown in plate 3 is accurately drawn to scale. The three mercurial thermometers project vertically through the double truss tube and are held in such a position as to place the ceuters of their bull.is midway between the components. The reversing tube is for this purpose pierced on opposite sides. The reversal of tbe components renders the temporary removal of the tllermomt·ters necessary. Though the bulbs of these delicate thermometers do not form immediate contact with the components, they are, nevertheless, supposed, on account of the coustructiou, to accurately indicate the mean temperature common to both of them. The bar scales, graduated to centimetres, read in the direction of the measure. By construction these scales are symmetrically arranged antl fixed with reference to the ends of the steel components, and the verniers, similarly arranged, are firmly attached to the l>rass components. When the components are of equal length aud equally projecting, the four scales read approximately as follows:
+Rear scale, bar No. 15. _·· _.. _·· __ . ______ . ___ . ___ ... ____ ... __ .. __ · _______ . ____ . _____ ... __ . _____ . 5 Frou t scul c, bar No. 15. ____ . _.. __ .. _____ . ________ .. ____ . _. ______ . __________ . _... ___________ . __ . 25 'Rear scale, bar No. 16 ...·.. ·----- ------ ----·- ---- ·----- ·----- ·----- ---- ---· --· .·____ --·--- -----· 45 Front scale, bar No. 16 .··. ---· ---- --·- --·· . _--- . _. __ . ---- --·· ..· --- ·-- --- ___ -- - --- - -- ---- ---- _ 65
+Ctmtimctrcs.
+
+The difference in these readings in the sense: ·
+R. 16 minus R. 15, or F. 16 minus F. 15, hi therefore 40 centimetres;
+
+hence
+H. 16 minus H. 15 = F. Hi minus F. 15.
+
+In other wordR, the differences in the readings of the rear and the front scales of the two bars are necessarily always equal, irrespective of either the relative positions or the thermal condition of the components. The particular difference in the scale rPa<liugs, which corre.spouds to the normal, i. e., the equality state in the lengths of the componeuts, has been designated, for distinction, the "normal scale reading," and which, on account of its importance, is to be regaTded as an auxiliary constant of the apparatus. As at present adjusted, the llormal readings differ slightly from the above values, being, respectively, 40·04 centimetres for the rear scales and 40·11 centimetres for the front scales. This slight discrepancy in the identity of the two readings, the result of imperfect adjustment of tile verniers, is, howeve1·, without significa11ce and can easily be removed uy perfecting of the vernier adjustments. These scale readings, though determinable in various way.:, are readily ascertained from reading·s made when the components have equal length, i.e., when at the temperature of +250·5 O, as indicated by the thermometers. Again, since on account of the symmetrical arrangement the distances between the zeros of the scales or the zeros of the verniers (approximately 5 metres), though constantly varyi11g in couformity with thermic changes, are uecessarily always equivalent, respectively, to tile lengths of the
+
+HEPORT FOR 1897-PART II.
+
+APPENDIX NO. 11.
+
+745
+
+steel and brass components, it is evident that, no matter what the thermic state of the bars may be, the following relations obtain: R. 16 minus R. 15 = 40·04 centimetres+ the difference, brass minus steel components; F. 16 minus F. 15 = 40·11 centimetres+ the difference, brass minus steel components; where 40·04 and 40·11 centimetres are the present normal scale readings above referred to. These two relations, it will be seen, are mainly useful in affording the means of ascertaining at any time the difference in the lengths of the steel and brass components. Though it suffices for all ordinary purposes to depend upon the readings of either the rear or the front scales alone, yet in standa.rdizatioi1 measures, or when the greatest attainable precision is sought, it will be preferable to read both. For, since the rear and front scales must agree, the readings of both will not only furnish an excellent check, but it will enhance also the accuracy and trustworthiness of the differences. In further explanation of the mode of action of the components, it may be pertinent to remark that during measurement with the duplex, "brass" will advance and will continue to advance upon "steel," temperatures rising or falling, so long as it.remains longer than "steel." Inversely, "brass" will recede and will continue to recede upon '' 1:1teel," temperatures rising or falling, so long as it remains shorter than "steel." That is to say, the scale readings during the advance of a measurement will
+
+(~~~~::::~, temperatures rising
+
+or falling so long as "brass" is
+
+(~~~;:)) than
+(~i~u:i) when
+
+"steel." The di1forence in the two measures, in the sense (B- S), will, therefore, be
+
+the measure from "brass" is (~g~;;:j) than that from "steel." No change whatever in relative position or scale readings will take place so loug as both the components maintain equal lengths. From this mode of action of the duplex it is also evident that the difference iu the two continuous measures from its components is determined by the first and last scale readings, corrected for intermediate shifts of the brass components. A verification of this all-important difference may be secured through the independent reference of the steel and brass components to the ground marks. For it is clear that the difference in the sums of the "set-ups" and ''set-backs," corrected in the case of "brass" for intermediate shifts, is equivalent to the diflerence in the two measures found for each half or whole section of the base. The duplex constants above alluded to are: (1) The length of the components in standard measure, when they are of equal length, and (2) the duplex coefficients, which depend upon the ratio of the expansions of brass aud steel. .Assuming that these two constants, together with the difference in the measures from brass and steel (B - S) are known, and disregarding the corrections for inclination, etc., the total length L for the n double bar lengths in standard measure may be computed by means of the following simple expression: .L = nl + ao (B,- S) in which a 0 denotes the duplex coefficient for steel, l the duplex or equality length of the components in standard measure, and (B - S), as before explained, the difference of first minus last scale reading of a measurement, corrected for the "set:ups" and "set-backs,"' and such other relative shifts of brass as were made for the purpose of equalizing the ends of the components. The equations which express the lengths of tht} measures from the steel or the brass components in terms of their respective thermometric constants are, of course, of the usual form. Hence the four equations expressive of the lengths .L for n double bars measured with the duplex as a composite bar may, therefore, be written: duplex method from steel duplex method from brass L = n io ll + ds (t - r 0)l thermometric method from steel m L = n 10 [l +db (t - r 1)] thermometric method from brass
+L = nl + a 0 (B - S) .L = nl + a 1 (B - S)
+(1)
+
+(2) (3) (4)
+
+and where a 0 and a 1 in equations (1) and (2) denote respectively the duplex coefficients for steel and brass, and ds, db, and r 0, r 1, and t in equations (3) and (4) the co~fficients of expansion, the
+
+746
+
+UNITED STATES COAST AND GEODETIC SURVEY.
+
+standard temperatures and the observed mean thermometric temperatures respectively of the steel and brass components. The thermometric standard length of the components of bars Nos. 15 + 16 is 10 metres. Since equations (1) and (2) reduce simultaneously to L = nl, when B - S becomes zero (i.e., when the measures from brass and steel happen to be of equal length), it is evident that unless l oe known in standard measure an additional corrective term would be requisite, which would render the computation of L by the duplex method unnecessarily complex. For this reason l is properly chosen a constant of the duplex. It is directly determinable from the expansions themselves, without regard to the thermometric temperatures of the bars . .Again, if in a measure obtained by the duplex B - 8 turns out to be zero no correction whatever fqr temperature applies, since the length nl found is at once the true length in standard measure. The lengths of bars Nos. 1~ and 16 are sensibly identical, viz, 5 metres. Though the duplex coefficients (a0 and a 1) are easily derived by elimination of t - r from equations (3) and (4), it seemed nevertheless simpler and more appropriate to exclude the notion of temperatures entirely and to deduce them directly from the ratio of the expansions. To this end let l denote, as before, th&normal length of the components when of equal length, L1s and L1b the total expansions respectively of steel and brass for equal thermic conditions, then bearing in mind that these expansions vanish or change sign simultaneously, the length of the steel measure i~ obviously expressed by
+nl+ L1s = S
+(5)
+
+and the length of the brass measure by
+
+nl+ L1b= B
+Subtracting (5) from (6) we have
+L1b - L1s = B - S
+
+(6)
+
+(7)
+
+the symbolic relation which subsists between the differences in the total expansions and the lengths in the two measures from brass and steel. That is to say, the difference in tbe total expansions and the difference in the lengths of the two measures are always equal. Now this difference B - S, as before explained, is always known, being directly obtained from the scale readings of the apparatus, etc. Therefore, since in addition to this also the ratio of the expansions of the components ~~is known, it is plain that the total expansions of either steel or brass measures themselves may be found from the relations:
+L1b - L1s =a
+-=m
+
+(8)
+(9)
+
+L1b
+
+L18
+
+which are necessarily true whatever the thermal condition of the apparatus or lengths of line measured with it may be. Therefore, solving with respect to .ds we have: .ds (m -1) = o and
+
+.
+
+1 L1B.= 0 - - = OlX 0 m-1
+
+(10)
+
+and with respect to Lib
+(11)
+
+These two coefficients a 0 and a 1 differ always by a unit irrespective of the metals of the components. The latter is therefore of but little practical significance, except for the purposes of verification. The coefficient, a 0 , for steel, however, on account of its importance, is properly regarded a constant of the duplex apparatus, and for convenience of distinction it has been called the "duplex coefficient." Substituting B - 8 for o the preceding corrections reduce to the form as given in the equations (1) and (2) on page 745.
+
+REPORT FOR 1897-PART II.
+
+APPENDIX NO. 11.
+
+747
+·
+
+Inasmuch as the ratio of the expansions ~bis constant ~nd independent of the length, it is
+.<..18
+
+obviously determinable from two or more measures of one or more fixed distances of unknown length, whereas the ratio of the thermometric coefficients of expansion, ddb, although also equal to
+8
+
+m, is determinable only from two or more measures of one or more fixed distances of lcnown length. This noteworthy distinction results fropi the fact that db and ds are already related to a thermometric scale and a linear unit. Iu practice, therefore, especially if using the bar simply as a duplex measure, we may even dispense with the determination of the coefficients of expansion in the ordinary way entirely, and
+
+instead determine
+
+th~ ratio of
+
+the
+
+expansions~~ from the differences
+
+in the two measures of the
+
+sections of a base line. The coefficients thus deduced would unquestionably lead to a better agreement between the separate measures than those found in the usual way. Hence, whenever such double measures as are suitable for the accurate determination of (m) are available, the standardization or recomparison of the duplex may be confined to the determination of the particular lengths of the components which they possess when of equal length. In order to be perfectly consistent, the constauts of length and the coefficients of expansion, independently determined from thermometric and differential expansion measures, must satisfy the relations: l = lOm + (10" li,) «o and
+1 -
+
+ds db-ds
+
+= L1b-L1s =
+
+L1 s
+
+«o
+
+which, from a practical point of view, affords a most convenient and rigorous verification of their trustworthiness. lb represents the length of brass at the standard temperature ( r 0 ) of steel. A further noteworthy fact concerning the duplex which it will be well to point out is, that on account of the difference in the expansions of its components unequal wear of the agate knives from "contact friction" will necessarily affect somewhat differently their duplex and their thermometric lengths. If, however, the wear of the knives of the steel and brass components chances to be proportional to their respective expansions, it will not change at all the duplex length. Lastly, it may be stated that inasmuch as slight accidental errors of observations, other than those resulting from defective temperatures, necessarily affect the factor B-S, it is plain that the differential expansion results from the duplex measures can not in general be as accordant a,s the corresponding thermometric results from each component separately, provided the errors due to defective temperatures are properly eliminated in both systems. Hence, if in any composite apparatus thermically as perfect as the duplex the mercurial thermometers be assumed to give the mean temperatures of the components as accurately as the bimetallic device, then barring the existence of systematic temperature errors, the thermometrical result from each component singly will in general agree better than the results from the differential expansion method. The inclination sectors are graduated and adjusted so as to read 200 when the components are horizontal. Error in the inclination from eccentricity in the sectors is provided against by two diametrically opposite verniers. The diameter of the sectors is 8 inches.
+DIRECTIONS ON TIIE USE OF THE DUPLEX .A.PP.A.R.A.'l'US IN THE FIELD.
+
+The use of the duplex in the field does not differ from that of other types of contact bars, except in so far as it requires the making of two contacts for every bar laid, namely, the contacts between its double components iu the sense "steel" to "steel" and "brass" to "brass." In every other respect its manipulation is practically the same as that of the subsidiary monometallic apparatus in use on the Survey. The manner of reading tlie bar scales is a matter so simple as to require no special explanation. The adjustments required by the duplex aud the manner in which they may be perfected will be found fully set forth in Appendix No. 12 of this Report, Coast and Geodetic Survey, 1897, report on the Salt Lake base measure.
+
+748
+
+UNITED STA.TES COAST A.ND GEODETIC SURVEY.
+
+On starting a measurement, place the first bar upon the trestles, roughly align it and turn its CQmponents into position, "face up."· Next, set the contact slides to fiducial zero and make the agate knives normal to each other, i.e., normal to the axis of the bar, by means of tha plane mirror provided for the purpose. Next, align the bar accurately and shift it at the same time so that its steel component will fall nearly vertically over the initial ground mark and in the line of measure. Next, transfer the knife edge of steel to "ground'' in the usual way by means of the sector transit and the centimetre scale. Brass having qeen previously i:;et normal to steel, is necessarily related to ground the same as steel and need not therefore be referred, Next, read the thermometers, if required, the inclination sector and the bar scales. This will complete the laying of the first bar.t Next, place the second bar on the trestle a.nd roughly align it; turn the components "face up" and slide the bar backward into approximate contact with the rear bar. Next, adjust rear end for height by raising (or lowering) the cradle bar of the rear trestle by means of the sliding wedge provided for the purpose and securely clamp it. Next, establish the preliminary contact by bodily sliding the bar backward, relieving it at the same time of its full weight in order to diminish the friction upon the rear trestle. Next, align the bar accurately by lateral shift upon the forward trestles until the aligning telescope bisects the line fiag at the next section post ahead. Lastly, establish the final contact between the components as quickly as possible by means of the contact screws, and at the same time read the mercurial thermometers, the inclination sectors, and the bar scales, which will complete the laying of the second bar. Next, launch the rear bar, carry it forward, and place it into proper contact with the second bar, which uow preserves the measure. ' Next, read the thermometers and the inclination sectors, but not the scales, since readings of the latter are no longer required. Next, launch the rear (Recond) bar and carry it forward, and place it into contact with the third bar, and again read the thermometers and the sectors as before. Next, launch the (third) bar, etc., and proceed as before explained to the end of the measure. The inclination sectors and the thermometers must be read for every bar laid. At the conclusion of the measure it will be necessary to again read the scales of the last two bars laid, and transfer "front agate'' of "steel" to ''ground" in the same manner followed at the start, and to shift'' brass" until the "front agates" of both the components are relatively even or normal. The shifts of "brass" thus occasioned must be determined by additional scale readings. Since the rever:;al of the components in nowise affects the continuity of the measure, verifications by scale readings may be disregarded. Scale readings taken at the heginuiug and closing of measurement will suffice, and will be all that is required to complete the measurement. In establishing the preliminary contact by bodily sliding the bar backward or forward, which after some little practice is usually accomplished with surprising rapidity and precision, the utmost care and precaution should be observed to protect the ::i.gate knives against injury. For the transference of the components to "ground," place the centimetre scale horizontal, and reading in the direction of the measure, which, if its graduation be numbered from left to right, as is usually the case, will expose tlle face toward the left, looking in tlte direction of the measure. Hence, face the scale by setting the transit sector to the left, normal to the end of the bar to be referred, and about 25 or 30 feet distant from it. By placing it at the same time, also, at half the height of the bar above the ground, equality in distance and in definition of the sector telescope will be insured. A short-legged tripod, if available, will conveniently serve this latter purpose. Never fail to check the transfer measures by pointings with the sector in both the direct and reversed positions. As usually employed, a "set-up" is a quantity additive to and a "set-back" a quantity subtractive from the measure as obtained by the apparatus.
+
+----
+
+- -·--·-------·----.
+
+"The duplex bnre are in the position designated" face up" when the steel component is to the leftward, looking in the direction of measure, and "face down" when steel is to the right. t In executing the transference of the components to tho gronud marks, always place the Rector transit on the same side of the line, the centimetre scale l10rizootal upon the section posts and parullel to tho line of base. The graduated face of the scale Hhonld be placed so as to retul in the 1lircction of the measure.
+
+REPORT FOR 1897-PART II.
+
+APPENDIX NO. 11.
+
+749
+
+Equalization· of the projecting components, if required, should invariably be effected by shifting "brass," never "steel." Shifts of the steel components during operation would interrupt the continuity of the measure, and should therefore be scrupulously avoided. On account of unavoidable shifts, the measures from "brass" are usually discontinuous and hence require to be corrected accordingly. Shift of the brass components must, therefore, be accompanied by scale readings. The records regarding these shifts should always be explicit and complete, so as to leave no question as to what was done. General observations.-If, at the beginning or closing of a. measurement, the precaution is taken to set the components of the first and last bars normal to each other, the reference of either one of them to the" ground" will suffice. If, however, it ii:! found impracticable to set them normal, the components must be reversed and separately referred. To this end reverse the components (after having first removed the mercurial thermometers) to position "face up" or ''face down," as may be required, in order to place each of them consecutively in the line of measure. These reversals should always be made with dispatch, and the thermometers quickly restored to their respective sockets in order to prevent changes in their indications from exposure. Again, respecting the transference of the components to the "ground," if the last bar of the preceding measure is permitted to remain undisturbed upon its trestles-an advisable procedureit will be found advantageous on resuming the measurement to refer its blunt front agates to "ground," and then to continue by bringing the agate knives of the initia.l bar of the contemplated measure into contact with it. Moreover, if instead of referring the last bar of a preceding measure in the usual way, it be shifted and set vertically over "ground," the reference measure for both the components will be the same, and zero. This mode of ~esuming the measurements was adopted and uniformly followed in the Salt Lake base as soon as its advantages were recognized and folly established. It saves the setting and clamping of the contact slides at tlleir fiducial zeros, and preserves the uniformity in their adjustments. T4e placing of the components accurately into the vertical of "ground" is most readily accomplished through the contact screw micrometers. To this end point upon "ground" with the transit and shift component into tangency with its spider line by means of the contact screw and note the micrometer. Iiepeat this with the sector in the reversed position and again note the reading of the micrometer. Next, set the contact screw to the mean of the micrometer readings, which will place the component vertically over "ground." This method of adjusting the components into the vertical through "ground" is convenient, expeditious, and very accurate. As a matter of convenience in the "set-up" and "set-back" measures it is well, before attempting the transterence of the components to "ground,'' to set them normal. Should alteration in the relative relation of the components become necessary at any time during tl111 operation of measure, I?e particular to effect this by shifting " brnss," never " steel." 'l.'he reading of the scales may be restricted to the rear set of the bars alone. The front scales if simultaneously read will, however, serve as a check upon the former. In the Salt Lake baso measure, both the rear and front scales were regularly read. When shifting "brass," with reference to " steel," determine its amount by scale readings. The frequency of reversal of the components will depend upon circumstances. Two reversals during a day, one each at the middle points of the morning and afternoon measures, will, as a rule, suffice. Begin each measure of the half sections in position "face up" and conclude with "face down," reversing the components at the middle of the measures. To prevent undue or irregular heating of tlle projecting components while adjusting position or establishing contacts, wear a snita,ble glove with the tips of the fingers clipped off. To obviate the necessity of frequent shifts of "brass" during measure under extreme temperature conditions, it is suggested to set "brass" ahead or back of" steel" one-ltaif the amount it is likely to recede or advance. Au approximate temperature will suffice for this. To reallily lay off the normal directions required for setting the sector transits when plumbing to the "ground," a parallel ruler of suitable dimensions laid flat upon the projecting components and gently pressed against the headpiece of the truss tube will prove convenient. For, since these headpieces are accurately fitted by lathe work, the edges of the ruler, if placed as set
+
+750
+
+UNITED STATES COAST AND GEODETIC SURVEY.
+
+forth, will point in a direction normal to the axis of the trui;s tubes. Hence; tilting the ruler downward a little, the setting up of the sector in the range of the outer edge of the ruler at the required distance will insure to it a position normally opposite the end of the components. The trestles.-In setting the trestles endeavor to secure a uniform g-rade parallel to ground, without reference to the inclination of the preceding bar. Effect this whenever the nature of the ground permits by adjusting the cradle bars so that on sighting over the tops, respectively, of the rollers and knife edges they coincide with a line touching the distant horiz6n. Adherence to this mode of setting the trestles will insure not only nearly uniform, but also the least, inclinations consistent with the profile of the ground. To Sf'cure the proper spacing for setting the rear trestles, measure the required distance, not from the preceding front trestles, but from the black band which marks the point of support at the forward end of the measuring bar. The position of the forward trestle hi then readily and accurately located by measuring from the knife edge of the rear trestle, if placed as explained. Their firm and stable setting upon hard ground is materially expedited by providing their legs with suitable cleats for forcing them well into the ground by aid of the foot. Always clamp the trestles and cradle bars securely as soon as the bars are approximately aligned and properly
+~mted~hci~t~d~conta~
+
+Be careful not to break or shear off the bulbs of the mercurial thermometers during reversals of the components. Always remove them, therefore, before reversal and restore them to their respective sockets as quickly as possible thereafter. To reduce the" set-up" and "set-back" measures to a minimum, which is of some advantage, it is suggested to subdivide the base line into regular sections by a tape measure or chain standardized to the same temperature as the base apparatus, disregarding the corrections for either temperature or grades of the site. ('l'he duplex is of standard length at the temperature of 2,:;0.3 Centigrade, very nearly. The components are practically of equal length when at 25°·5 Centigrade, as indicated by the three-bar thermometers.) As a valuable auxiliary in the preparation of a base, set and accurately align stakes 2 by 4 inches in size at every 50 metres. They will prove conve11ie11 t in many ways, particularly in affording a control of the alignment, as well as of the progress of the measure. In the Salt Lake base measure these stakes contributed very materially toward maintaining the temper and spirit of the operatives throughout the day. In setting the section and half-section ·posts, be particular to place their tops level as well as flush with the ground, and their outer edges parallel to the direction of the base. Through the centers of the bolts which define the sections draw a heavy pencil line in the direction of the ba1:1e. Attention to these details, though seemingly unimportant, 'will be found of much assistance in quickly orienting and adjusting the centimetre scales for the transferrences during the measure· ment, or in accurately flagging out the base for the alignment of the apparatus. In ranging out the line, place short flags at the half section and long flagR at the whole section stones, to the end that the tops of the latter may be seen projecting over the tops of the former if the si'te be sufficiently plane. Set the flags truly vertical, and secure them by appropriate bracing. By using slender flags the accurate alignment of the bars may be easily maintained during measure by closely keeping in their range without regard to the state of the adjustment of the aligning telescopes. On account of the great weight of the duplex bars (118 pounds each) which insures to them exceptional stability,even under exposure to a high wind, it was found necessary, for greater security and safety in establishing the preliminary contacts, to somewhat check the free and easy gliding tendency of the strongly inclining bars by slightly clamping the roller of the front trestles.· The making of the preliminary contacts is at best hazardous, requiring constant care and precaution to shield and protect the agates against damage and the bars against displacement. To this end the contact slides should be held back with the forefinger in such a way as to take up a sudden lurch, should it inadvertently occur, in order to protect the agates from injury. At all events this method of making the preliminary contacts, which was successfully practiced in the Salt Lake base measure, proved very effective, in proof of which it may be stated that although 4 IJOO bars were laid and 9 200 single contacts made, not a single mishap occurred that resulted in injury to the agates.
+·To be able to elide the bare at all it ia necessary, while ma.king the preliminary contacui, to diminish the friction upon the knife-edge bearings by lifting the rear ends of the bare.
+
+REPORT FOR 1897-PAR1' II.
+
+APPENDIX NO. 11.
+
+751
+
+:I.he measurement.-If practicable, measure always a kilometre section a day in the same direction; the first half during the morning hours, under rising temperature, and the second half during the afternoon hours, under falling temperature. To satisfactorily secure this end it is suggested to take up the measurement as late as possible · in the morning and to continue it to as late an hour as practicable in the afternoon. If a measurement be carried forward at a speed of 40 bars an hour, a speed which, after some little practice, is easily maintained, the measure of each half kilometre section will seldom require more than two hours and a half. Hence, the hour of commencing the day's measurement may therefore be conveniently set at 11 o'clock a. m., and continued until 5.30 p. m., with an hour and a half intermission after completion of the first half kilometre. The complete and systematic measurement of a base by half kilometr.e sections, as explained, affords many advantages. It simplifies the operations, insures similarity and symmetry in the measures of each whole section, and obviates the necessity of frequent settings of as well as transferences to special stop marks. The trestles, if used for the support of the apparatus during measurement, should be portable and convenient of manipulation while setting and adjusting them to grade. They should easily adapt themselves to peculiarities of the ground and at the same time afford ample stability. The trestles used in the Salt Lake measurement filled these requisites satisfacto,rily, except as regards their stability, in which particular they proved deficient on account of the fiexibility of the cradle standards under the horizontal thrust caused by the contact pressure b~tween the double components of the duplex apparatus.· Since it was apprellended that the errors in tlle section measures which thus resulted from the displacements of the bars through contact pressure might prove large enough to require correction, the flexure in the cradle uprights was subsequently carefully determined at Washington under the powerful microscopes of the office comparator base. Although it may be conceded, in view of the experience so far had with the duplex, that its construction out of light brass tubing qualifies it for accurate measurement, without further protection save the ordinary felt jacketing which covel'S its truss tubes at present, it is nevertheless recommended that whenever practicable additional shelter be provided. The shelter sled used in the Salt Lake base-a simple frame structure covered with canvas, and traveling on runners-proved very effective aud convenient. Being light in weight, it was easily dr.awn over the ground by a pair of horses, and thus enabled the party to pursue its work without interruption in spite of rain and high winds. Not an hour's time was lost from either unfavorable weather or undue exposure of the operatives to the burning sun of the desert during the whole term of the work. Olosed down and securely guyed to the ground it served to protect the apparatus during nights and on Sundays, and permitted the bars to remain on the trestles in position ready to continue the measure on the following day. Although for primary geodetic work-i. e., in connection with triangulation of superior fundamental character-it will be advisable and, indeed, necessary always to measure a base line twice, once in each direction, even if for no other purpose than to find the precision of the final measure, it is nevertheless confidently believed, in view of the exceptional degree of precision of the duplex (viz, one five-millionth part), that if simultaneously used as a thermometric and a bimetallic measure the three (independent) results from a single carefully executed measurement will insure a precision quite sufficient for trigonometric work of a subsidiary character, such as is requisite for a trigonometric survey of a limited locality, as, for example, a State. Judged by the results obtained in the case of the Salt Lake base this belief seems well borne out, for the results from the two measurements of that base do not differ more than 2 millimetres, indicating a precision of the single measure hardly attainable by any other apparatus hitherto employed, even from a double measurement of a base, and surpassing the limit of accuracy usually reached in the determination of the constants of the apparatus of the Qrdinary construction at present in use. The necessity of conscientious verification of every measure or. observation appertaining to and calculated in any way to contribute toward the reliability of the msasurement or the completeness of the record thereof will readily suggest itself to the careful and responsible observer. Under favorable circumstances the cost of making a single measurement with the duplex, after the
+~These
+
+trestles were never designed for the duplex, but belong to the monometallio bare Noe. 13 and 14.
+
+752
+
+UNITED STATES COAST AND GEODETIC SURVEY.
+
+manner pursued in the Salt Lake base, will probably not exceed a hundred dollars ($100) per kilometre, inclusive of the necessary expenses for preliminary preparations. That is to say, in consideration of its simplicity, convenience, and speed in ~anipulation, measuring with the duplex will cost neither more nor less than will measuring with the present monometallic apparatus of the Survey. The field party employed in the Salt Lake base measure, including an extra driver and a men's mess cook, consisted of nineteen persons, with six horses and two wagons. It lived in camp, and was organized with the view of providing against interruption of the measurement from sickness, etc. For diagrams illustrating the plan of measurement, as well as for forms of record and computations, etc., see Appendix No.12, Report on the Salt Lake Base Measure, 1897. The mode of the standardization of the duplex apparatus, together with special investigations concerning the flexure instability of the trestles, will be found explained in Appendix No. 121 Coast and Geodetic Survey Report, 1897, entitled Report on the Salt Lake Base Measure. These trestles, it should be borne in mind, belonging to the monometallic contact bari; Nos. 13 and 14 of the Survey, were never intended for the duplex. They were used only because no other more rigid and· suitable trestles were available at the ti me.
+
+..;
+
+z
+
+ci
+
+..:
+
+U . S. Coast and Geodetic Survey Report for 1897 .
+
+App endix No. 11.
+
+No. 4.
+
+VIEW OF DUPLEX BARS, WITH ALIGNING TELESCOPE SIGHTING IN DIRECTION OF MEASUREMENT .
+
+u;
+uJ
+
+t;
+uJ 0::
+
+..J
+
+f-
+
+"' t:
+0
+
+z
+0
+
+z
+
+0::
+
+"' x
+..J
+uJ
+
+~
+
+a.
+0
+
+:>
+
+r
+
+oasl and Geodetic Survey R eport of1897. Appendix :1.Vo. }/
+
+No.6
+
+THE D U PLEX B ASE APPARATUS
+D es 1gn ed
+by \~P.!.' £imb eck,
+
+Ass istant
+G
+
+End View
+K
+
+J
+<ll
+
+S te e 1
+
+Bi· ass
+K
+A am:l C Cont:a.ct Slides B . S Bruss IC Steel Compon ents
+
+p::: ''° id ~
+K
+
+§
+
+Without CornponenLs
+
+D .
+F
+
+E Contact, Screws
+Truss 7'uhe.!Uad. 1russ TulJe Revel'si11g TuJ,e Head &ve,.s;119 lidJe P""" 1 Reversi'n9 Tu.be CollnJ' D uipltT'Ogms support.ll1 g Rever~uw Tube Guide J)iaphr<~91ns !01· llie Components ·
+
+Horizontal Sec t i o n of Bar
+I n che s .
+0
+10
+~
+
+G H
+K M
+
+,,
+
+6
+
+~
+
+ll
+mm m1115r==JTI!'!!M'J[=:=n tt11!!11·· ,.'..,' "
+
+ob
+
+11119
+
+.£ ' " ··
+
+I
+
+"'"
+
+"" '
+
+I
+
+~.'u
+
+1111
+
+··
+
+~.~n·t1 t:1e.~,1·es. " " I
+
+I
+
+~..
+
+!!!ii
+
+" ' ""
+
+.L
+
+!i!i!!i
+
+"'"'"
+
+I
+
+" "'"
+
+J
+
+f
+
+~o
+
+N
+
+0
+
+TU L N OH P15
+
+,.ltT~RS CO., PHOTO..l.I THO .· W ll !!Hlll'IOTOH, O . C.
+
+APPENDIX NO. 12, 1897.
+
+llEPORT ON THE llEASUREMENT
+
+or~
+
+THE SALT LAKE BASE LINE, IN UTAH.
+
+By WILLIAM EIMBECK, Assistant.
+
+(j;)85-48
+
+7;;3
+
+Blank page retained for pagination
+
+APPENDIX NO. 12-1897.
+H.EPORT ON THE MEASUH.EMENT OF THE SALT LAKE BASE LIN.E, IN UTAH.
+
+By
+
+\VII.LIAM EIMDECJC,
+
+Assistant.
+
+The ·question of the location of a primary base of verification within the thirty-ninth parallel triangulation in Utah had received much attention in connection with the development and execution of that triangulation through eastern Nevada and Utah. Tbe extent and scope of the geometric figures of- this triangulation are exceptional and without a, precedent in practical geodesy. Mea~mred along the central parallel, for example, the main chain lying between the Yolo and EI Paso base lines is approximately 1,680 kilometres in extent, and is composed of but eight dis· tinct trigonometric figures, containing uot less (ban 10 lines of 230 kilometres average length. The longest one of these, stretching eastwardly from "Ellen Peak" across the delta of the Green River to" Un1,;ompahgre Peak," is nearly 300 kilometres in extent. As regards heights, the triangulation is no leRs remarkable. Traversing the mountains at an average elevation of' about 11 000 feet, it culminates, on crossing the Uontinental Divide, in central Colorado, at an elevation of 14 300 feet above the sea. Though executed in every phase or feature with the utmost care and the very best of instru· mental appliances, yet, on account of its unprecedented scale and the consequent problematical character of its final results, the measurement of a fundamental base near its middle meridian was deemed desirable, and, indeed, necessary, and was therefore decided upon as far back as 1883. For the location of such a base the broad and open valleys of central Utah afforded special advantages. Their easy accessibility and their settled condition or state of cultural development adapted them most admirably for the measurement. Accordingly, with that object in view, the preliminary examination of these valleys was begun in 1884 in the vicinity of Mount Nebo. It was thence carried into the Juab and Sanpete valleys and the open plains about Oasis and Deseret. Later on, in 1887 and 1888, the reconnaissance was extended into the basin of Utah Lake, and thence northward to the valley of the Jordan River and Great Salt Lake. The immediate outcome of this exhaustive reconnaissance was the discovery of many highly favorable base-line sites, notably those situated in the Juab, Sanpete, and Salt Lake valJpy;;. A few of these sites, though favorable for measurement, bad to be abandoned on account of the inelegance and inadequacy of the expansions of the trigonometric nets necessary to connect them with the main scheme. But the verification and support of the linear element of the thirty-ninth parallel triangulation was not the only object it was sought to accomplish through tl1e location of tliis base. The conucction of the astronomical lougitudes at Salt Lake and Ogden cities was also to be considered. These two important astronomical stations, which had served also as principal points of departure in the geographical exploration surveys within the mountains of the West, required intimate con· nection with the ma.in work of the parallel. Again, the height of the base above the level of the ocean was another quest.ion of moment, which claimed consideration. In a geodetic work of the precision and general refinement of the Rocky Mountain and Nevada sections oft he tran;;continental arc, it seemed manifestly inexpedient to depend for the elevation of one of its fundamental bases upon the trigonometrically determined
+755
+
+756
+
+UXITED STATES COAST AND GEODETIC SURVEY.
+
+heights without verification by reliable spirit levels, especially in view of the circumstance that the heights of the Utah stations, largely derived from lines of 1mcommon leugth, were uronght over a thousand kilometres from the ocean. In view of this it was obviously much to be questioned whether the heights could be regarded as possessed of that degree of precision deemed needful for the reduction of the proposed Salt Lake base. On the other hand, the transcontinental levels of the Union and Central Pacific, and other railways centering at Ogden, brought over from the seas, were the only lines of spirit levels at present available. 'fhe connection of the base site by spirit levels with the elevation of the railway crossing at Ogden was, therefore, regarded as necessary. Iu consideration of the above and the desirability also of an extension of the tria11g-ulation in Utah along the 112th meridian, as a link essential to a comprehensive trigonometric survey oft.he United States/ the main chain was subsequently expanded over the basin of the Great Salt Lake by a single quadrilateral. 'l'his elegant figure hinging upon the line" N ebo-Ibepah" is the largest quadrilateral m the whole work, ancl covers an area of nearly 10 300 square miles. 'l'he central station "Deseret" was introduced in order to facilitate the geodetic connection of the astronomical stations referred to, as well as the base line situatecl between Ogclen and Salt Lake City. For the convenient and effective connection of tllese latter points, ancl particularly for the extension of the triangulation to the northward into Jclaho, this 1p1aclrilateral figure will prove of much yalue. Upon thorough consideration of the merits and demerits of the several sites from time to time reported, it was finally decided, in view of the reasous above set forth, to adopt and measure the uase line situatccl upon the shores of the lake, near Hooper, unquestionably the most eligible and satisfactory site found that seemed well suited for economical connection and measurement, notwithstancling the fact that its connecting uet extends in large part over the waters of Great Salt La.kc. For illustration of the hase net see pl. 1. General location.-As will be seen from the accompanying triangulation sketclies, the base line is situated upon the flat lands extending along the eastern shore of the Great Salt Lake, from the mouth of the \Veber Hiver to Farmington. Its northern encl is located upon the grounds of Mr. Cato Love, at South Hooper, and its southern encl opposite Kaysville, within school section HI, township 3 north, range 2 west of the Salt Lake principal meridian of the Utah land surveys. 'l'he approximate length of this base is 11·~ kilometres. The site is smooth ancl nearly level, excepting a slight swell near its miclclle at Bearcl's Point. The principal constituent of the soil is sand intermixed with loam. 'l'he southern half is alkaline, and being coverecl in part with a salt grass, a111l Hage urush iH used for pasturage purposes throughout the year. 'l'he three llOrthern kilometres Of the line pass through well irrigated, cultivated lields. During the dry season (summer a))(l fall) the ground is harcl ancl admirably aclaptecl for baseline measurement with apparatus supported by trestles. There are some farm improvements at various points along the site, but a slight change in loc~{tion resulted in clearing it of every consequential obstruction, excepting at the staekyard of Mr. Beard, where a couple of grain stacks had to be removed to make passageway for the shelter-sled. Among the minor obstruetious which coulcl not be avoided may be mentioned twt'nty-eight barbed-wire fences, a railroacl embankment, it turnpike embankment, some deep furrows, and nnmerous water ditches. The two largest of the latter had to be bridged over. Ead1 of the twenty-eight wire i'ences had to be taken down and replaced 011ce in each measurement. '!'hough the provisional location ancl trace Clf' this site had been mad~ and decided upon before I entered upon the occupation of" \Vacldoup" and "Antelope" triangulation stations, to Assistant .J ··J. <iilhert is due the credit for final location. Uncler my direction Assistant Gilbert prepared the site for measurement, perpetuated its terminals uy substantial stone and brick monuments, and execntecl a complete topogmphical survey. The brick piers at south aud uorth base-that is, the permanent surface monuments which mark the position of the base-we1·e built with the view to serve also as peclestals for the :miud1 theoclolite used in observing the triangulation net. These piers were earriecl to a height of U feet in order to lift the instrument abo\'e the stratum of superheated and boiling atmospl1ere, a conclition that seemed to prevail over the barren tint lands of the Salt Lake Valley at nearly all hom·s on sunny days.
+'See Proceedings of Geodetic Conference, App. Xo. !I, Heport. 18m, p. 360. ment of Arcs. lfrport, Committee
+011
+
+the Mea8nre-
+
+Coast arul Gwdet.io Survey Report of 1897, Appendix No 12
+
+No.l
+
+S a.lt Lake Base Net, Utah, 1896.
+
+N
+
+t
+
+JO
+I 0
+
+I
+
+20
+10
+
+I
+
+~o
+
+(0
+
+~o
+
+itO
+~
+~
+
+1o
+
+lo
+
+9~
+
+s.
+~o
+
+it
+
+!
+
+zo
+Sea.le
+
+;/()
+i
+
+so
+
+ooo ooo
+
+Ibepah
+
+HEPOl:{T FOR 1897-PAlfl' II.
+
+APPENDIX NO. 1:!.
+
+757
+
+The base, divided iuto eleven sections, was accurately traced by stakes set firmly i11 the ground. At every kilometre from south base a prismoidal stone 20 inches in length Wf\S firmly planted by packing the ground solidly around it. 1n the centers of these stones, dressed dow11 to 5 by 5 inches square, were inserted g-inch copper bolts secured in place by sulphur. Fine cross lines ( +) cut normal to the direction of the base defined the exact section points. Half-kilometre posts were subsequently provided for the exclusive purpose, as will itppear farther on, of subjecting the Duplex to a thorough test with respect to its behavior as a thermically perfect field measure. These posts consh>t of 4 by 4 Oregon fir .20 inches in length firmly planted in the ground. Ordinary 2-inch wood screws, with 11otch set normal to the base, mark the ex:{ct division points. 'l'he faces of all these posts and stones were placed accurately lew~l, aud flush with the ground. Heavy pencil lines drawn across the tops of these posts aud kilometre stones in the line of the base served to accurately fiag out the base in advance of the measnrement, and to orient the centimetre scales for the "set-up" and "set-back" measures. The base was ranged out by 2 by 2 inch !lag poles 7 and 10 feet in length, marked at their tops by a black au<l white band, set true to line, and secured in a vertical position by appropriate bracing. The shorter 7-foot flags were set up at the half.kilometre posts and the projecting 10-foot flags at the kilometre stones. The "range" thus established altordcd a convenient means of controlling the direction of tlie measure without the aid of <uljusted aligning telescopes. No grading of the line wl1atever was required. Although slightly rough in places, the clearing away of sage and grease brush and of some suntlowers was all that was needed to put the site in condition for measurement. Some little plowing and ditching was also necessary in order to drain off pools of water that had accumulated in places from tiowiug wells or overtlowing irrigation ditches. The convexity in the profile of the base necessitated the erection of 70-foot scaffold signals at its terminals in order to establish intervisibility between north and south base. The brick piers, on account of their dimensions and finish, it was found impracticable to carry higher than originally bnilt. Height of the base.-To determine the pro tile of the base, Assistant Gilbert ran a simultaneous double line of spirit-levels from south to north base, and after the completion of the base measurement the connection with tide water was completed by runniug similar levels to "bench mark'' Hooper, situated 4 miles to the westward on the eastern shore of the Great Salt Lake. The height of this bench mark was determined in 1887 by lines of levels run in opposite directions from the crossing of the Union Pacific and v·tah Southern l~ailways at Ogden, Utah. The "Hooper" bench is the northern one of a pair of benches established in 1887, by means of which the transcontinental railway levels at Ogden were carried across the'waters of the Great Salt Lake to the "Graut!wille" bencll, thence by reciprocal zenith distances to the summit of Deserct peak, the central station of the great quadrilateral which spans the basin of Great Salt Lake. A verification of the height of the base above the ocean, thus found from the railway levels, is assured through the hypsometric work of the transcontinental triangulation which rests npon a very complete and comprehensive series of zenith distances directly connecting with the mean tide water at the Straits of Karqnines, California, and the height of Colorado Springs, in Colorado, as derived from the Coast Survey lines of precise levels.
+:IIEASt:HEillE:N'l' OF 1'IIE HASE.
+
+Having given in the above a brief account of the preliminary preparations, before passing to a description of the measurement of the base, it is deemed expedient for the convenience of the reader to preface it with the following condensed description of the Duplex apparatus:
+llASE APPARATUS."
+
+The Duplex.-On the suney the duplex is known as " Base Bars Xos. 15 and 16." It is a bimetallic cont.act-slide apparatus, consisting of two precisely similar bars wholly constructed of metallic tubing of the smallest dimensio11R consistent wit.It requisite stn·11gtlt and rigidity. · 'file important characteristics which distinguish it from other forms of bars arc: (1) Its two disconnected tubular components; (2) the reversibility of these components; (3) its double metallic
+·For 1letailed account of the duplex base apparatus, seo Appendix ::s'o. 11.
+
+758
+
+UNITED STATES COAST AND GEODETIC
+
+~URVEY.
+
+truss-tubes, the inner one of which carrying the components is reversible on its axis; (4) the summation, during use, of the minute differences of length of its components and the indication of the sum total of the:se differences. The components consist respectively of steel and brass tubing of ~-inch outer diameter, with walls proportioned in thickness to the specific heat and conductivity of these metals. Their surfaces are nickel-plated in order to insure to them equal power for absorption and emission of heat. The object of the adoption of the tubular form of construction, and the principle of reversal of t.he components, is to secure uniformity in the distribution of temperature, or more particularly equality in the mean temperatures of the components, the important requisite upon which the success of every bimetallic scheme unquestionably chiefly depends. Each bar, 5 metres in length, is protected by light jacketing against sudden changes of temperature, and weighs 118 pounds. The flexure of the bars is constant. The components are provided in the usual manner with three mercurial thermometers each. These theremometers mainly serve to convert the apparatus into a thermometric measure. Their bulbs are placed centrally between the components without, however, forming a metallic contact wit!J t!Jem. To facilitate the making of the contacts.in either of the reversed or the direct positions of the components, both the upper and nether faces of the contact slides are provided with a set of fiducial lines. The lengths of the components, as defined by these lines, are sensibly the same for both faces. The reversal of the components is equivalent to a change of face. The relative displacement of the components, and the shifts of "brass" during a measurement, for equalization of their projections, are determined as to amount by the successive readings of the bar-scales. For this purpose each bar is provided with two sets of scales and verniers. The scales are firmly attached to the steel component:,;, and the verniers to the brass components. The scales are 12 ceutimetres in length, and read directly to tenths of a millimetre. Being sym metrically placed with respect to the agate terminals of the components, the distance between the zeros of corresponding scales, or of corresponding verniers, is always the same respectively as the leugths of the steel and brass components. Hence, the difforences in the readings of the two rear and the two front scales, diminished by their "normal readings,'' will be equal to the difference in the lengths of the steel and brass components. · '.rhe "normal scale reading" is that which obtains when the components have equal lengths, i. e., when at a temperature of approximately 250.5 0. This normal scale reading, 40·075 centimetres, may be regarded as an auxiliary constant of the duplex, by means of which the accumulated scale differences may be corrected, if necessary, for one or two extra bar lengths. A further advantage of the duplex consists in the independence of its principal constants, namely, the standard lengths of its steel and brass components, the thermometric coeflicients of expansions of these components, and the so-called differential bimetallic or " duplex coefiicient." This latter coefficient being dependent solely on the ratio of tlte expansions of brass and steel, without reference to either temperature or definite lengths, is obviously deducible either from adequate measures made in the field or special standardization experiments upon the comparator base. In certain favorable contingencies preference should be given to the determination of this coefficient from suitable field measures. In general, therefore, no special series of observations will be requisite for the determination of this important coefficient. If simultaneously used both as a bimetallic and a thermometric apparatus, the duplex will furnish three practically independent results from a single operation of measure, which must and will agree if the constants refeLTed to are consistent. These are the two thermometric results, one each from the steel and brass components, and the duplex or differential expansion measure from both the components conjointly. In the matter of manipulation in the field the duplex dilfors fr.om the ordinary monometallic har iu nothing, except that it requires the making of two contacts for every bar laid, i. e., the contacts between its double components in the sense " steel to steel," "brass to brass." On account of compactness of construction the duplex proved in this first trial to be not only a portable but also a most convenient field measure, not easily deranged in its adjustments. If used only as a duplex without thermometers, the apparatus is simplicity itself. Interruption or irregularity in the progress of measurement in 110 way affects its results. Manipulated with but ordinary precaution, it is certain t-0 furnish satisfactory results.
+
+REPORT FOR 1897-PART II.
+
+APPENDIX NO. 12.
+
+7Ci9
+
+Standardiza.tion.-Before bei11g shipped to the field, in June, 1896, the new bars were standardized under authority of the Office of Standard \Veights and Measures, and their priucipal consta11ts were determined from a series of 32 comparative measures with tlie \Voo<lward 5-metrn standard bar No. 17, in melting ice, upon the 50-metre comparator line recently established in the grouuds of the Coast and Geodetic Survey Office in \Vashington, D. C.· Later in the year, after completiou of the base measure and the return of the duplex to tl1e office in November, it was again compared with the Woodward standard through 32 similar measures upon the office comparator. 'l'his recomparison, undertaken mainly with the view of ascertaining whether the lengths of the bars bad sustained change from wear of the agates, was couducted by the writer under iiistructions from the Superintendent, in strict conformity with the mode of procedure followed in the base measure. Accordingly, the thirty-two comparative measures were made in four groups of eight symmetrically arranged measures each. In each group the eight measures were made with the components alternately in the positions "face up" and "face down," the change of face being effected by a reversal of the components after completion of each forward anG. backward measure. On completion of the second group of eight measures, executed as regards position of the faces in the obverse order, the duplex bars were turned end for end and the remaining sixtBen measures, arranged in two groups of similar measures, were executed by measuring in the reversed direction Throughout this restandardization the duplex itpparatus was haudle4 with the utmost care, and the cornpone11ts were accurately aligned and, after completion of each forward a11d backward measure, were systematically reversed. The thermometers and the scales were also carefully read and verified by two observers, and in order to secure the most favorable temperat.ure conditions each of the four groups was executed during the afternoon hours of the day. For standard lengths these experiments were regular1y preceded each day by a doubl~ measurement of the comparator base with the standard bar :N'o. 17, in melting ice. The minute expansions in the truss tubes, for which 110 compensation is provided iu the construction, were eliminated by executing every return measure backward; that is, without turning the duplex bars end for end. ln order to properly relate the two s'eries of comparative measures between the duplex and the office standard No. 17 through the ground marks which define the terminals of the comparator base, the end microscope-micrometers, before being pointed upon the duplex components, were invariably first referred to these marks by means of the Hepsold cut-off cylinder. Such cut-oft' references were required at every reversal of the components and the microscope-micrometers were poi11ted directly either upon the well-focused agate knives or centrally between the direct and reflected images of spider lines stretched for the purpose across the plane-faced front agates. The necessary illumination for these micrometric pointings was effected through reflections from the metallic scale of the Repsold cut-off" cylinder in horizontal position. On completion of the restandardization of the duplex, an exhaustive investigation was undertaken to determine the flexure relations of the trestles. It had been noticed while in the field. that the cradle arms of these trestles were much too slender and flexible to effectually withstand the push or thrust caused by the double contact pressure of the duplex without sensibly . yielding to it, and that an investigation of the matter was, therefore, desirable. \Vith this object in view the bars, supported by the trestles in the usual manner, were placed under the comparator microscopes and the flexure of the cradle arms carefully measured for thrusts of various intensities and lengths of arms. The thrusts by weights were applied and measured in both directions. As was to be expected, the results of this novel and somewhat comprehensive series of experiments show: (1) That the flexure at any length of arm is proportional to the intensity of the thrust; (2) that with respect to length of arm above the base of the cradle, the observed flexure proved to be approximately proportional to the square of the length of arm. Thus it was found, for example, that while the elastic yield at the head of the trestles was always nil, at a point three-fifths of the length up the arms of the cradle, i. e., the estimated average height at which the bars were &npported in the field, the flexure due to contact pressure was five microns. Supported at the tops of the cradle arms, the flexure from the same pressnre proved to be equi val en t to tweu ty microns.
+··See Report Office of Standard \Voights and lllcnsuros, by Audrow Bruid, AHsistant, pug-e 2, Const and Gcodetio Survey Report for 1896. The length of this staudar<l bar is vor~· u.ccnratcly known iu terms of tho Internntional Prototype :Metro No. 21.
+
+760
+
+GNITED STATES COAST AND GEODETIC SURVEY.
+
+For verification the tension of the helix springs of the contact slides was subsequently determined by means of a delicate spring balance. Thus determined, the flexures from contact pressure and the ftexures caused by weights were found to agree. The weights applied in these experiments by means of a pulley and cord were one-half, one, and two kilogrammes. It must be conceded that the magnitude of the observ:ed tlexures exceeded expectation and that they could 11ot be disregarded. It was made evideut, also, that the duplex apparatus, in consequence of its double contact pressure, required supports of greater stability than is afforded by the trestles used-trestles, by the way, which belong to the monometallic subsidiary bars of the Survey, aial were never intended for the duplex. :Next, investigations were also made relative to the uncertainty of makiug contacts and transferring the components to the ground marks. From eighty contacts noted, twenty for each of the four components, it was found that the probable error of estimating a coincidence of the fiducial lines is ::!: 2i.<·8. From twenty measures for transferring the agate knives to ground, using the same centimetre scale and sector transit employed in the field, the probable error of a single transferrence was found to be ::!: 85 microns. These investigations were very materially simplified by the use of the contact screw micrometers with which the components of the duplex apparatus are provided. '.l'he division value of these micrometers is directly derivable from ten or more revolutions of the screw heads measured upon the bar scales." 'l'hese special investigations of the duplex were concluded finally by observatious for· tlie determination of the wear of the agate knives from contact friction. That the knife edges had become somewhat blunted was plainly discemible. The average amount of wear as computed from carefully measured widths of the contact .rn1faccs, togetlier with angles of the knife edges, was found to be 8i.<·O. In other words, assuming the knife edges to have been perfect when issued from the shop, it seemed established that the combined length of the two bars (Nos. 15 and Hi) had shortened by about 16 microns during use. Including the standardization experiments 2G·3 kilometres bad iu all been measured with tbe duplex. In the computation of the corrections for this wear it was assumed that it was proportional to the area of contact surface, or, which is the same thing, that the volume lost by wear was directly proportional to the number of contacts. Hence, the 2 -L- part of the whole cubical contents lost was worn away during the measurement of each kilometre. Adjustments.-Like other contact-slide measures the duplex requires two principal adjustments: (1) That of the inclination sectors; (2) that of the aligning telescopes. The inclination scetors.-The sector arcs are divided from oo to 40° and read to 10" by two <liametrically opposite verniers. Properly adjusted, the veruiers read exactly 200 wl1en the corupo11c11ts are horizo11tal. This adjustment is convei1ie11tly made by means of au ordinary W.)'e level placed at a point about 25 metres distant fro111, and nearly at right angles t-0, the centre of the bar and at the same elevation. When the bars have thus been placed in a truly horizontal position the sectors, whose verniers have previous!.)' ueeu set to the proper readiug, are adjusted so that their level bubbles assume a central position. This adjustment should be frequently verified. The aligning telcscopes.-The adjustment of the aligning teles<:opes consists chiefly iu making their sight lines parallel to the axis of the reversing tube. lu the absence of more conve11ient means this adjustment may ue effected as follows: Select an even and nparly level piece of ground, and after having placed the bars upon the trestles adjust the aligning telescopes for collimation; uext, with the aid of the sector transit, range out, in a straight and approximately level line on the ground or upon posts, three nails, viz, one near each end of the apparatus awl tlte third about 75 metres distant ahead upon a fence post or other convenient object; next, stretch a cord between tlie two near nails, which cord, if proper care has been takeu, will be accurately in the line fixed by the three nails; next, having set the knives and rollers of the trestles level and to proper elevation, shift the axes of the bars accurately into the vertical plane through the strctche1l eorcl by means of suitable plummets; next, set the axes of 'the aligning telescopes horizontal and,
+'The hea<ls of these micrometers are clivide<l into twenty-five divisions. From a series of meusm·es of full turns upou the bar Heal es the value of one divisiou was found= 251"'1.
+
+REPORT FOR 18U7-PART II.
+
+APPENDIX NO. 12.
+
+761
+
+without disturbing anything, adjust them in azimuth until they bisect the distant uail. This, if properly done, completes the adjustment, autl will insure parallelism l>etween the sight lines of the aligning telescopes and the axes of rotation of the reversing tubes. The lathe centres in tbtl headpiece;; of the truss tulles will serve the lmrpose of placing the !Jars in the vertical plane througll the stretched cord. Although it was found that this adjustment, as well as tl.iat of the inclination sectors, proved to be uncommonly permanent during the Salt Lake base measure, they were, nevertheless, tested a uumuer of times and kept under control by the range afforded by the line ttags at the section posts. It :;i.hot1ld also be remarked that inasmuch as the plane of collimation of the telescopes falls centrally between the two parallel components, iu oi·der to keep either one of them in the line of measure it is necessary to point the aligning telescope a little out of the centre. In the base measure, steel, when "face up," was kept in the line of measure, which was accomplished by directing the pointiugs five-eighths inch to the right of centres of the line flag poles.· Sector transit.-The sector transit used in referring the components to the ground marks was always set up on tlle left side of the line, looking in the direction 01' the measurement. This required the centimetre scales to ue placed so as to read in the direction of the measure, which is desiraule. 'l'he sector transit was, of course, always placed normal to the end of the bar to be refr·rred, approximately 30 feet distant from it, and, to insure equal definition, at about half the elerntion of the bar above the ground. Tbi8 latter condition was accomplished by means of a short-leg·ged tripod provided for the purpose. The adjustments for collimation and horizoutality aud verticality of the axes of the sector were accurately mm1e and controlled throughout the measurement. The pointings upon the agates of the component8 and the centimetre scales were alwa.ys twice made, i.e., once in the direct and once in the reversed position of the transit. The normal direction of the transit was determined in the following simple manner: A par111lel ruler, 2~ inches in width and about 10 inches in length, was placed flat upon the projecting components and gently pressed against the end face of the trus;; tubes. 'filting the ruler sligl1tly 1lownward and sighting along its outer edge, tlie center of the sector tripod was ranged into this line and set up at the desired distance. It should be reniarked that inasmuch as the headpieces of the truss tubes were fitted by lathe work, their faces are necessarily normal to the axis of the truss tubes. Pointed upon with tbe sectors placed as al>ove explained, reversnls of the compo11e11ts, when set to normal position by the mirror, brought out 110 perceptible discrepancies. This 11Jethod of placing the sector transit at a normal direction, which is peculiar only to the duplex, was found to be so convenient and expeditious that it was exclusively employed as soon as recognized. "Set-ups" an<l "sct-bncks."-In reforring the agates of the components t.o t,he ground marks, a "set-up" is a quantity additive to, and a "set-back" a quantity subtractive from, the measure ohtai11ed uy means of the base apparatus. The shifts of brass upon steel for the pnrpose of equalizing the ends of the components belong to the same category. They affect the measure from brass in either the additive or the subtractive way, according as the readings of the scales are thereuy increased or decrease11. 'l'he "set-ups" and "set-backs" were measured by means of 10.centimctre scale, Coast and Geodetic Survey, No. UlO, the graduations of which on investigation hy the Office bad bee11 found to be free from appreciable error. Placed horizontally upon tlle section bolts and parallel to tlie line of measure, the scale faces the sector transit and the g-raduations increase in the direction of the measurement. This latter circumstance proved an excellent safeguard against confusion or mistakes in noting the "set-ups" and "set-backs," which were made with the utmost care and were verified in every instauct~ to obviate possible mistakes. Scales and scale readings. -As before explained, the scales of t}.te duplex are centimetre scales, firmly attached to the steel components, whereas the verniers, which are adjustable, are secure1l to and carried by the brass components. 'l'hese scales, etc., of which each bar ha:-; two sets, are graduated to millimetres and reacl directly to tenths. The hundredths are determinable by estimation. The scales are 12 centimetres in length, and to avoid confusion in the readings are differently numbered. 'l'hus, for example, when the rear scale of bar No. 15 reads
+·If the 8ector transit bo always Rot nccnrat.Ply normal to the lino of measure, wllich is easily done in tho caso of the duplox, it will be simpler and prtoforablo to keep the 1·entrcs or axes of the l>u.1·s iu the lino of uuiusurc.
+
+762
+
+UNITED STATES COAST AND GEODETIC SURVEY.
+
+5 centimetres the rear scale of bar No. 16 reads 45 centimetres, etc. The graduation of the scales increases from rear toward front, or, which is the same thing, in the direction of the measurement. Hence, if during measurement "brass" advances upon the "steel" the scale readings
+
+· "f' ' b rass " rece d es tiie sealeread"mgs d ecrease. B rass o b v10us · Iy w1 ·11{advance} rncrease; 1 recede upon steel so long as it is { ~~~~~r} than steel. The difference in the scale readings of successive bars, diminished by the normal difference, is equivalent to the difference in the lengths of the steel and brass components. The lengths of the two bars 15 and lG are sensibly equal, viz, 5 metres each. For the reduction of the scale differences from 9!) t-0 100 bars, or from 1 to 2 bars, as the case may be, a knowledge of the normnl difference in scale readings is required. This anxilial"y co11stant is determinable in various ways, as, for example, from the scale readings when the brass and steel components are of equal length. The components of the two bars (15 + 16) have equal length wheu at the mean temperature+ 250 ..:; U., as indicated by the mercurial thermometers. 'fhe normal difforence:> in the scale readings depend upon the adjustment of the verniers. This adjustment may be made very secure and practically invariable. As at present ac~justed these differential reading-s are for the rear scales R 1G - H rn = 40·04 centimetres and for the front scales F lG - F 15 = 40·11 centimetres.* 'l'!tc plane mirror.-For the convenient and expeditious reference of the components to the ground marks, it is essential that they pr~ject normally from the truss tubes. A simple means by which they may be made normal is an ordinary plane mirror. If held in a vertical podtiou and gently pressed against the agates of the components their ends will obviously be norlllal to each other when tlley, and their reflected images, appear in straight lines, i. e., as proloug-ations of eaclI other. Therefore, if upon trial it ue found that they appear at an angle, shift "brass" (never ''steel"), by means of the contact screw, until they do appear straight, which may be accurately judged, in the absence of special provision, by the pr~jecting stems of the thermometers. 'l'he entire reliability of this process was abundantly tested and establh;hed by pointings with the sector transit, at a normal position, and reversals of the components. Uefiections repeated after reverRal of the components also afford an accurate check. T!te trcstles.-The wooden trestles which were used in the Salt Lake base measure belong to subsidiary monometallic hars, Coast aud Geodetic Survey, Nos. 13 and 14. The foot plates, provided to give greater stability to the trestles when crossing soft or yielding ground, were 1wt used, as the ground along the Salt Lake base site, being thoroughly sunbaked, afforded all needful stability without them. The setting of a continuous series of trestles is a task beset by many trials and difficulties, requiring close and unremitting attention to secure the proper conditions of alignment, distance, grade, and stability, all of which are essential and requisite, aud must always be promptly and satisfactorily secured if neither speed nor the accuracy of the measure is to be sacrificed. 'fhe line of the trestles is maintained by the range of the bars themselves; their distance or position is fixed by measures, not from the last trestle set but from the black bands around the barR. Jn order to insure at once the most advantageous gradients compatible with tile protile of the site, clamp the cradle bars at an elevation such that their bearing edges coincide with or touch the horizontal line defined (or fixed) uy sighting tangent to the roller or knife edges of the preceding trestles and the dista11t horizon line in the direction of the base. Jn other words, set each successive trestle to an average u11iform gradient irrespective of the incidental inclination of the preceding bar. For, so set, the bars on bei~ig placed upon them will also be parallel to the ground and in position ready for approximate contact. The rapid and stable setting of the trestles was greatly facilitated by providing each trestle leg with a cleat, bolted to it just above the iron ferrule at its foot. To adjust, bring the cradle bearings to a horizontal position by means of a carpenter's level,
+·The cffoct of reversal of the components upon the moa.u ecnle re:ulrnge is but trilling and may usually be disregarded. From a series of readings made for the purpose the dieerepan~y was found to be for bar 15, "facenp,"-" face-down,"=+ o·0024 millimetres, and for bar 16, "face-up," - "face-down," =-0·0084 millimetres.
+
+REPORT FOR 1897-PART II.
+
+APPENDIX NO 12.
+
+763
+
+or similar instrument, clamp securely, and, with a screwdriver, loosen one end of the block carryi11g the embedded level, bring the bubble to the center, aucl tighten screw. Heverse and correct to true center. When arranged in a line and set horizontal with the small spirit levels embedded in cradle bars, the top edges of the knives and rollers should be parallel. Test this by glancing over the tops of them. If on so doing it appears that one or more of tlie rollers or knives are materially out of parallelism, correct them by approximately raising (or lowering) the particular bars, and then adjust the levels accordingly. Although it is desirable, when set by means of these levels, that the cradle bearings be horizontal, it is not essential that they be accurately so. It will imflice if they are parallel among themselves. Also oil all screw bolts so as to clamp easily, and firmly secure the cradle arms by tightening the screws underneath the head pieces of the trestles, etc. Field Procedure.-On the morning of the third day of September, after a careful adjustment of the inclination sectors and the aligning telescopes, at camp, the duplex was hauled to North Base on the laps of six men appropriately seated in an ordinary freight wagon, and the first measurement of the base began there in the afternoon. The entire measurement of the base was carried out with the bars supported and maintained in position by the ordinary field trestles above described. For the protection of the apparatus and party during the measurement, a light canvas-covered sled, a movable structure traveling on runners, was provided.* 'l'he base line was measured twice, once in each direction. It was divided into eleven sections, each a kilometre in length, excepting the eleventh, which has a length of l·'.! kilometres. Each section, therefore, contained an even number of bar lengths. They are consecutively numbered from I to XI. To obviate the inconvenience of referring the measuring bars to the permanent end marks of the base inclosed in the hollow brick piers, two posts 5 inches in qiameter and 3 foet long were placed in the line of the base, just outside of the piers, or approximately 0·8 metre distant from the permanent surface monuments. The exact line poi11ts were marked by copper bolts provide1l with fine cross lines. 'fhese subsections, designated "A" and "B," were directly measured with a :3 meter fractional bar, once at the start and again at the finish, respectively, of the first and second measurement of the base with the apparatus. The modus operandi pursued in the measurement was the following: The trestles having been previously arranged in appropriate position and securely clamped, the first bar (No. Hl in this instance) was placed upon them, and accurately aligned in such a manner that the steel component foll in the line of measure, its rear end approximately vertical over the ground mark at "B." Next, a transit sector was placed to the eastward of '' B," about thirty feet distant and at right angles to the line of measure, and the agate knife-edge of "steel," set to fiducial zero, plumbed down in the usual manner by noting the scale readings for both the knife-edge and the ground mark; next, the bar scales and the mercurial thermometers were read, the latter quickly lifted from their scats, and the components reversed. This reversal brought the brass component into the line of measure. On setting the contact slide of "brass" to coincidence of its fiducial lines, its knife was immediately referred to "ground" in precisely the same manner was the steel component. Next, the scales and the thermometers were provisionally read, the latter removed, and the components reversed back. This restored the bar to its direct or first position, and a final reading of the inclination sectors, the scales, and the thermometers, completed the laying of the first duplex bar in the Salt Lake base measure. ~ext, the trestles having been arranged and set to grade beforehand, the sec~md bar, 15 in this instance, was placed in approximate alignment and its rear end adjusted to proper height by means of the wedges, and the trestles firmly clamped. Next an approximate contact was effected by a backward sliding of the whole bar upon the trestles and the final alignment of its forward end by lateral shifting and telescope pointings upon the line flags ahead. Next, the contacts between the components,·" steel to steel" and "brass to brass," were made perfect by means of the contact screws, and the laying of this second bar was completed by noting the readings of its
+
+as
+
+"For det1tiled description uncl illustrations see further on.
+
+764
+
+UNITED STATES COAST AND GEODETIC SURVEY.
+
+scales, thermometers, and its inclination sectors. Next, on command "ready launch," the first rear !Jar (16) was withdrawn, carried forward by two men, and, under guidance of the proper oflicers,· was placed upon the next pair of trestles and approximately aligned. Next, after haviug accurately adjusted its rear end for height by the wedges of the cradle, the bar was again bodily slid backward into approximate contact, which, after final alignment by telescope poiutings, was properly perfected in the usual way by means of the contact screws. The readings of the inclination seetor and the thermometers, simultaueously with making the final contacts, completed tlte laying of the third bar. Next, at command as uefore, the second !Jar (15) was launched, carried forward and placed upon the trestles, etc., as uefore explained. .At the same time the shelter sled was drawn forward a bar's length by a pair of horses, in order to keep the apparatus and party well sheltered from tlw burning sun. Inasmuch as during this first measurement the duplex was on trial for general efficiency as a composite apparatus, neither care nor precaution were spared to insure precision in the execution of every <letail essential to the operation. Thus the thermometers of the bars were' regularly read as soou a8 each was successively laid. 'l'he scale readings, however, as being of no further importance, were discontinued after the laying of the second bar. At the beginning of a measurement the scale readings of the first two bars laid, together with the" set-up" or "set-back" measures for the brass and steel components at the 8tarting point, are all that is required in addition to their temperatures and inclinations, for the three indepeudent results it. was the aim to secure in this measurement. The general plan of measurement which was methodically pursued in the base measure is illustrated in tlw following diagram of a kilometre section: t
+
+Fig. 2
+
+Each kilometre 8ection, it will be seen, was measured twice, once forward and once backward, as uefore explained. Each measurement was executed in a day, during partieular hours in the moniiug and evening. The half-kilometre points were introduced into the measure for the exclusive purpose of testing the new apparatus for thermal l>ehayior. Being at the middle of each section, they al8o served conveniently for the midday stops. 'fhe daily measures were regularly referred to these points, and caused no extra work or delay whatever in the adopted routine duty of the work. For testing the behavior of base apparatus under field conditions, the series of half-kilometre mea~mrcs, arranged and executed as shown, affords peculiar advantages, chiefly on account of reversal of the second measure in direction, that each half section is thus measured once in the morning under rising temperatures and again in the afternoon under falling temperatures, or vice· versa, as the case may be, wl1ile the whole sections are measured under as similar temperature conditions as obtain during the same llours of the two different days. This was the plan of measurement followed and the object sought. Unquestionably the plan is thorough, and if methodically pursued under favorable weather conditions is bound to bring to light the tl1errnie faults of a bar, however insignificant they may be. 'fhe difference in the measures thus obtained under favorable weather conditions will be nil
+·The ofllcer making the contacts in th(l meantime remained ut hii; place or poHit.ion, in order to protect the roar trestle and bar from being struck or uccidentally di11turbcd in any wo.y by the men while carrying the bar uud trestles forwurd. , t Thh1 method of conducting the measurements of base lines was proposed by m·i in 1885, aB part of the duplex schmnc, for the express purpose of testing tho thormal efficiency of baso apparatU!!Cf!, Only very recently I have noticed that the remeasurement of the "Bonner Base" in 1892 was executo1! after the same general plan. See "Die Neumcssung dcr Grundliuieu, etc.," by the Prussian Geodetic Ini;titute, Berlin, 1897.
+
+REPORT 1''0R
+
+l~fli-PAR'f
+
+II.
+
+APPENDIX NO. 12.
+
+765
+
+for the whole (daily) sections, no matter what the character of the apparatus, whereas for the lialf sections they will be of appreciable magnitude and of a systematic nature, i. e., their algebraic signs will regularly alternate, uuless the apparatus used chances to be thermically perfect., i11 which case the differences in question would obviously also be zero. Hence, the differences in the measures for the half sections, if appreciable and alternating in their signs, will be systematic in character, and on that account will be mainly significant in so far as they exhibit or serve to determine the thermal characteristics of the apparatus employed; for example, in the case of the duplex, whether it be equally efficient as a bimetallic and as a thermometric apparatus. On the otht>r hand, the daily results from the whole sections can contribute nothing toward a satisfactory solution as regards the question of either the thermal perfection of the apparatus or the reliability of the results in "normal" measure . .Tlte movable shelter.-'I'his valuable adjunct, which was used in the base measure for the protection of both the party and the apparatus, consisted, as before stated, of a large canvas-covered sled traveling on runners. It was a "double-ender," ;)Ci feet in length, 12 feet in width, and ti feet in height at the ridge line of its arched roof. Framed out of Oregon fir of the lightest permissible dimensions, it was bolted together into a rectangular-shaped open truss in such a manner as to convert its posts and diagonals, respectively, into ties and struts. By this means the framework of the truss was sufficiently strengthened to retain its shape, no matter whether supported at the mid1lle, as when crossing a dike or embankment, or at the two ends, as when crossing a broad ditch or sharp depression in the ground. During the measurement this sled was drawn along over the undisturbed natural ground by two horses. Weighing not over 3,UOO pounds, it glided easily over ditch, furrow, or railway embankment, answering its purpose admirably. It occasioned no delays, and as for simplicity, convenience, and cheapness it would be diflicnlt to construct a movable shelter more effective or complete. The cost of the material used in its construction, as lumber, carriage bolts, nails, and canvas covering, did not exceed $65. During measurement the two ends of the sled were always kept open. The side curtains were usually so regulated by reefing as to prevent the sun's rays from striking the apparatus, but not to interfere with the free circulation of the air. During hours when the wind was too strong the side curtains were lowered enough to prevent it from striking the apparatus. In short, the sled afforded every desirable protection against the burning heat of the desert, etc., and so enabled the party to pursue the measurement of the base uninterrupt~dly at all times. Only on one occasion, during very high wind, did it become necessary to discontinue the work on account of the danger of overturning the sled. Its utility and beneficent effects, not only upon the results of measure but upon the health and temper of the party, can not be easily overestimated. It is much to be doubted whether without the comforts and protection which this sled afforded the party would have been able to measure nineteen kilometre sections in nineteen consecutive working days, as it actually did. Not less than two days' time were saved on account of rainy weather. It more than saved its cost in time alone. 'fhe advantages that are secured through the employment of such a sled are so many and so pronounced that no important base measurement should be executed without a similar movnble shelter. 'l'he first measurement of tbe Salt Lake base was brought to a finish on the 17th clay of September. 'l'he return measurement was started next clay and concluded on the 3d of October. General .mmmary.-In the beginning or the measurements the transferences of the r<·ar ends of the bars were effected by clamping the contact slides of the components to the fiducial zeros. Each component was indepe1ule11tly referred to "ground," i. e., without p1·ior attempt at e11ualization of their projections from the trnss tubes by means of the mirror. 'l'he sector transit was always set up on the left, looking in the direction of the measure, uormal to the end of the 1Ja1· and ahont 30 feet distant from it. The poiutings upon the agates of the components were always made double, i. e., once with the transit in the direct and once in the reversed positions, each accurately levele1l. 'l'he graduations of the scales, placed always so as to increase in the direction of the measure, served admirably to prevent confusion in the "set-up" and "set-back" measures. Except for the "set-ups" nml ''set backs," the measures of the sections from "steel" are continuous. 'l'he e11ualization of the proje<;ting components was effected, whenever necessary, by
+
+766
+
+UNI'l'ED STATES COAST AND GEODETIC SURVEY.
+
+shifting of ''brass." "Steel'' was never changed. Tlle measures from tlle brass components are therefore not continuous, but require correction for" shifts." As to amount, these "sllifts" are equal, of course, to the differences of the accompanying scale readings. To obviate as mucll as was practicable the "shifts" occasioned by excessive relative displacement, "brass" was always set ahead or back of ''steel" one-half the quantity it was· likely to lose or gain on "steel" in any contemplateu measure. Close attention to this useful expedient resulted largely, if not wholly, in the prevention of the "shifts," excepting tlle few measures that were made during the extremes of the temperatures of the field season, where it was unavoidable. The extra "shifts" required in the Salt Lake base measure were but few. Throughout the measurement of the base the steel and brass components were independently referred to the seetion posts. Tllis was judged desirable in order to render the individual results from steel and brass as independent as possible. Ordinarily the reference of steel alone suffices. A preliminary measurement of t.he northern fraction of section XI was made with the view of affording the operatives of the party an opportunity to familiarize themselves with tlleir respective duties, and to gain practice iu the manipulation of the new apparatus. Naturally during tllis first attempt at measuring with the new apparatus progress was slow. The party lacked traiuing a11d familiarity with the working of the mechanical details of the bars, and the mode of the field procedure bad uot yet been sufliciently developed and systematized. This practice measurement was not used in determining the final length of the base. '!'hough during nights the thermometers were taken from tlleir sockets and securely packed away i11 a box lined with cotton batting, the bars themselves were left on the trestles in order to keep them out of the chilly or frosty air that usually collects upon the flat lands about the Great Salt Lake during the early morning hours in quiet bright weather. For the better protection of the apparatus during nights, before quitting the field of work the canvas curtains of the shelter sled were dropped and tied to the runners, and the sled well secured to the ground by stakes and guys. Tllewatchman who was left in charge was permitted to swing his hammock and live within the sled thus closed down. Each morning, after having replaced tho mercurial thermometers in their regular order and tested the adjustments of the inclination sectors, the measurement was resumed by accurately aligning bar 16, the first bar of the contemplated measure, and by placing the knife-edge of its steel component, set to fiducial zero, in the vertical line passing through the "night stone," and then proceeding iu the same manner as before described. In order to preserve regularity in the methods of execution, the measurements of the half sections were invariably begun with the components in po8ition "face up," i.e., "steel" in the lino· of measure. The principle of reversal of the duplex: components was regularly observed by turning the components once at the middle point of each measure or at the quarter-section points. 'rhough the uniform practice in the Salt Lake base measure was to always read the bar scales in connection with the reversals, it is, nevertheless, obvious that it was entirely unnecessary to do so, for 011 account of construction aud precision iu workmansliip, reversals of the compone11ts in nowise affect the continuity of their measures. Simultaneously with these reversals occasion was taken, whenever required on account of the temperature of the day, to equalize the projecting components by shifting" brass" by means of the contact screws. The magnitudes of these shifts were determinecl by a special set of scale readings. On completion of the measurement of the third kilometre, sufficient training and experience in the handling of the new apparatus had been acquired by the party to easily measure at the rate of 40 bars an hour, or a kilometre section in five hours. Moreover, as the real needs of the new apparatus, calculated to insure dispatch and accuracy, were being better understood, some modifications in the methods of procedure wen\ introduced. For example, in order to strictly conform to the adopted plan of measurement, and to save the time and labor required to establish temporary line points, the first half of every kilometre section was completely measured in the morning a111l the second lialf in the afternoon of' each day. A further modification which was adopted consisted in regularly equalizing the ends of the components of the first and last bars
+
+REPOR'l' FOlt 1897-PART II.
+
+APPENDIX NO. 12.
+
+767
+
+of the half-kilometre measures by the mirror before attempting their transference to the ground marks. '£his, it will be seen, saved the independent reference of the brass component to" ground;" that is to say, on finishing the measure of a half section, ''brass" was shifted forward or back ward until normal with front of "steel." Reference of either "steel" or "brass'; to ground was then made in the usual manner. For a check, the components were occasionally rnversed and "steel" tested by transit paintings. But it should be remarked in this connection that on acconnt of reversal of the components midway of the half-kilometre measures they are always in the reverse position at its end, i. e., "face down," and "brass" in the line of measure. Ou resuming the measurement after the noon rest or in the momiug, the components having previously been turned to the position ''face up" and "steel" placed in tlie line of rnea!'mre, the front end of "steel" of bar 15, the last bar of the preceding measure," was always placed vertically over "ground" by means of the contact screw micrometer. To this end "ground" was picked up by transit paintings and ;, steel" brought into contact with vertical spider lines by means of the contact screw. A satisfactory contact having thus been e1lected, the reading of the contact screw micrometer was noted. Next the transit was reversed, leveled, and "ground" again picked up and brought to the height of "steel." If this second pointing proved imperfoct, as was usually the case, on account of axis inclination, "steel" was again moved by the contact screw until in apparent tangency with the spider line of the· transit and the micrometer reading noted the second·time. Next the micrometer was set to the mean reading and" steel" assumed to be truly vertical over "ground." Next, by application of the plane mirror pressed gently against" steel," "brass" was shifted forward or backward until the direct and reflected images of the bar seemed in the straight line, and the front agates of the components were then assumed to be normal to the axis of the bar. The knife agates of bar No. Hi, the first bar of the proposed new measure, were then brought into contact in the usual way with "front" of bar No.15, placed as above explained, and the clamping of the contact slides to zero and the separate plumbing· of" brass" to ''ground" were thus obviated. In this first position bar No. HJ merely served to start the measure. The scale readings required at this juncture are those of the next two bars, i. e., Nos. 16 and 15, or the first two bars of the new measure. With regard to ascertaining the total "shift" of ''brass" for each half or whole section, i, e., for each 100 or 200 bars, from the scahi readings direct aud without necessity of reduction, it is suggested to carry the measure of each half section one bar beyond the section posts, or, better still, to read the scales of bar No. 15 after having been placed in position as just above explained for the beginning of a new measurement, as it will save the time of laying the extra bar. These expedients were practiced in the Siilt Lake base measurn with much success. Should either of these prove at any time impracticable, as is not unlikely, then the r~lative total shift of "brass" upon "steel," as derived from the first and last scale readings for everyl00-1=99 bars, may be reduced to 100 bars by applying as a correction the difforence between the actual scale readings of the last two bats laid and the corresponding "normal dij!erence," namely, 40·075 centimeters, as before explaine1l. In order to insure ease and freedom in the lougitudinal sliding of the bars, the "creases" in the rear bearing plates of the bars and the knifo edges of the r('ar trestle were removed. The friction due to the great weight of the bars insures to them ample stability against sl!p on account of inclination without the former. As beforn stated, there is nothing in the whole operation which promotes speed of measurement so effectively as does rapidity iu ee.tablishing the preliminary contilct by the sliding of the bars bodily upon the trest16s. During progress of the base measurement the shelter sled, drawn by a pair of horses, was rn~ularly hauled forward simultaneously with the launching of the rear bar, aud while it and its trestle!:! were being carried forward by the men. After a few <lays of training the sled moved along with remarkable prechiiou and ste.-tdines!', starting at the i11sta11t of launching tlie rear bar, aud stopping usually within a foot of the desired position at the ringing of a bell.
+·In the Sult. Lake base the mcasuremout of eu<:h whole 01· hulf section commenced with bur No. 16 and tiniBho1l with No. 15. The setting of the Ulnnt front cuds of the components normal to one another br nrnunA of the mirror h1 a matt-Or mueh more readily accomplishe<l thun the 11etti11g of thll contract slides to fiducial ~.llro. In fact, thi11 metho<l was fonml to bo 110 convenient, ur.cur1ite, and expeditious that its u.doption and practice in conucetiou with the duplex is recommended.
+
+768
+
+UNITED STATES COAST AND GEom;Trc SURVEY.
+
+The distribution of the operatives who p;trticipated in the Salt Lake base measure, together with the positions of the trestles and the bars under the sled during measurement, is shown in Plate No. 3. The sled, as before stated, proved a most admirable and valuable adjunct in the base measurement. On account of the numerous furrows and water ditches which crossed the base line, a shelter mounted on wheels could not have answered nearly as well. The organization of the party, as given under the bead of "Personnel of the party," exactly suited the needs of effective and uninterrupted handling of the duplex in the progress of the base measure. After thorough training its movements were characterized by a swing and precision of actio11 more complete and more rhythmical than were perhaps ever before attained, certainly never exeelled~ by a l>ase·measuring party. To fully appreciate this it must be borne i11 mind that the pal'ty broke all previous records by carrying the measure forward (by means of the ordinary field trestles) at the unprecedented rate of 70 bars per hour. As of interest also, in conveying a clear conception of the magnitude of the work acl'Olll· plished in the Salt Lake base measure, it may be remarked that 9,400 trestles were set on the natural ground and 4,700 bars laid. The trestles used certainly possess considerable range of adaptability to peculiarities of the grou11d, but the cradle arms were found to be too weak and flexible for the double contact pressure of the duplex, notwithstanding they were always· thoroughly clamped. The setting of the trestles during an accurate and rapidly progressing measurement is a matter of munh consequence. There is considerable knack, good judgment, and unbounded perseverance associated with it. To set a series of trestles at once to a uniform grade and with the needful stability is a task, if well performed, worthy of the highest recognition and acknowledgment. In Hetting these 9,400 trestles of the base measure a creditable work was done. .Judged by the grade corrections, which do not average as much as :3 centimetres per kiJometre, it is very much to be questioned whether a better or more uniform series were ever before set than the series of 9,400 trestles of the Salt Lake base measure; in view of which it seems but fair to state that this creditable performance is due to the perseverance, the skill, aud good judgment of Assistant H. P. mtter of the f:Jurvey, and C. S. Wilkes, a civil engineer acting as foreman of the party. The range of free motion in the contact slides, about 8 millimetres, practically rernlers the making of the approximate contacts largely a matter of chance. That is to say, 011 placing a new bar by sliding it bodily it is as likely that it will be laid too close as not close enough to the preceding one in position. The secret of rapid measurement-that is, the knack by which perfect contact is most readily efl'ected-wa'> found to consist i 11 fir:'\t establishing an approximate contact between the consecutive bars by sliding the bars bodily upon the trestles (partially relieved of their full hearing upon the rear trestles in order to diminish friction), after which "final contact' is quickly effected by a tum or two of the contact screws. But the. utmost c:ire must be exercised in thus bringing about the approximate contact to shield tlle agate knives against injury, which is perhaps most easily effected b;}' pushing tlie contact slides back and placing tlrn forefinger of the left hand in front of them. A sudden lurch or slip of the bar, should it inadvertently occur, may thus result in a "gentle squeeze" of the finger, but it will protect and save the agates from injury. In the base measure this expedient was steadily practiced, and after some little experience had been gaine1l final. contact between the bars was established with surprising rapidity. It became quite evident, in fact, that the time required for bringing a bar into position is expended not in effecting precision of contact but in aligning the bars and adjusting their rear ends to proper height. .'fo perfect tl1e coincidence in the fiducial lines by means of the contact screws is, as a rule, a matter of but a few moments. The necessity of having to make two contacts for every bar placed thus proved to be neither an inconvenience n1Jr a drawback as regarded the Rpeed of measure with the duplex. For the purpose of studying the behavior of the duplex with reference to the fluctuations of the temperatures of the air, three thermometers were regulariy read every half lwur during the measurement. For protection against radiant heat, etc., these were suspended 011 the shady
+
+Coast and, Geodetir, Survey Report af'l897, Appendi,.r, No.12
+
+No.3
+
+The Salt Lake Base Measure, Utah, 1896
+Diagram showing the Disposit,ion of the Party and the Apparatus, during Measurement, under the Shelter Sled
+
+.
+06
+
+Runner of Shelter Sled
+
+.i.1r Thermo.
+
+]
+St-ctor
+
+.... ...
+
+.."
+
+~+
+
+c;?
+9
+
+· -BmoiS
+
+~ffii=~..,6
+,8
+1
+
+~
+
+s
+
+,
+
+05
+
+Air Thermo.
+
+Air Thermo.
+
+I
+I
+I I
+
+~EU"l&-
+
+oz
+
+~
+
+03
+
+l
+
+3>
+
+I
+
+13
+
+I
+
+0
+
+0
+
+7
+
+~-~-·
+
+"' ,_,
+
+~ It::
+
+,_
+I~
+
+.... "' I
+I I
+
+]~
+
+\-
+
+I
+
+0 10
+
+0 11
+56 Ftlrt
+
+Runner of Shelter Sled
+lilll!>IHl----------.lJirection. ofMeasurement----------~
+
+I I I I
+
+- - - - - - - - - - - - - - -->
+
+Personnel of the
+No. 1 2 3 4. 5 Eimheck, Conla.cts. Gilbert, I11clw. Sectors & Therm-0's. Welker, .Ab.gni.n.g 1 Tkenrw's; Scalu-. Ritter, Spactng & A lf&nms Trest.le.·. Yates, Rcccrder /<..Recar.is 6 Lync,h;, Air Thtcrnto's &: Co-ruiu.ctar of Sled 7 Wilkes. }'orem.a:rr, & Rear Trestle.>·.
+
+Par~.
+
+No. 8 Ha:rul, Lau.nchiTl[f and, carry,-l'lfl the Ba;r·s forwariL 9 10 Carrying rel.eased,,:17-estles f'orward, ek l1. 12 Aiding in-slllin(J A: a.4JustV1f! Trestles
+J,3 l'r ])river of' the Shelter Sl,ed,.
+
+L5 Hand, .utting aligning-fla&s .!: opening wire-Fence.s. The Rear Bar wa.s lau.nche~ th~ Trestks pidced up anti aZJ,clzrried,fOnoiard. Si.m.uftaneouso/ wiJlr,. sta.rtingup the Sldl Q..Jul T1U)v1ft9 it -forwa.rd S Ket.res.
+
+,.. c lot()fl.""'"·'('"co
+
+~<H').l·THO.ww.u·
+
+.,rn..
+
+o c
+
+REPORT FOR 1897-PAR1' II.
+
+APPENDIX NO. 12.
+
+769
+
+side, within the shelter sled, about 6~ feet above the ground. A comparative examination of these temperatures demonstrated that the bar temperatures followed the fluctuatious of the air te!llperatures very closely, seldom deviating therefrom by more than a couple of degrees, even duriug periods of rapid change. Thus the differences in the mean temperatures of the air and apparatus for each one of the two measurements of the base, for example, did not exceed 0°.4 C., the mean air temperature being the lo'wer in both cases. Since the reversal of the components requires the temporary removal of the thermometers from the bars, in order to prevent material change in their indications from exposure to the open air between times, the reversals were usually executed with dispatch and the thermometers immediately restored to tk\ir respective sockets. . The entire reliability of every observation-as the shifts of the brass comvonents, scale readings, or "set-up" measure, etc.-which in any way entered into or affected the base measurement, was the subject of constant concern, and was accomplished, it is believed, through persistent watchfulness and independent verification, as far as necessary, by different observers. Nothing, in short, was left undone that in any manner seemed calculated to contribute to the completeness and the accuracy of the measurement or the record thereof. 'l'he relative shifts of the brass components, affecting as they do the continuity of the. measure, were noted and controlled with especial care. Inasmuch as a speed of 40 bars an hour easily admits of measuring a kilometre section in five hours, the time for daily measurement may. be so chosen as to iusure, in general, both rising and falling temperatures every day. In the Salt Lake base the daily measurements were therefore taken up as a rule at 10.30 in the morning and concluded at about 5 o'clock in the afternoon. By reducing the midday stop for rest to an hour, from 2 until 3 o'clock, the resumption of the measurement in the morning may safely be deferred until 11.30 and the afternoon measures may be continued until 5.30. There can be no question that the practicability of so timing and conducting the operations in the field as to insure measures for each of the half sections of the base under falling as well as rising tempera.tures bas been fully established. It may finally be remarked that measuring bars, whether thermically perfect or imperfect, will each give results entirely consisteut in themselves, whether used under constant or variable temperature _conditions, provided the latter be not too dissimilar. A mere agreement of the results of measure is therefore not to be accepted as positive proof of their reliability. In all such cases the question as to the normal lengths of a measure, or of the thermal efficiency of the apparatus, is liable to remain wholly obscure and indeterminatt'. In other words, the precision as well as the reliability of the results of measure, and the thermal perfection of the bar with which obtained, is satisfactorily determinable only by a mode of measuring either the same as or similar to that followed in the Salt Lake base measure. Measuring a base line to an equal extent under rising and falling temperatures without regard to any such particular plan or method, while it will probably yield a true length for a. whole base, can furnish no data from which the precision of the resulting measure may be with certainty inferred. As the practical outcome of or the experience gained in the Salt I~nke base measure, it may be safely asserted that, assuming a settled mode of field procedure and ordinary familiarity with the principles of its construction and action, the duplex will be found so simple and reliable an apparatus that if' manipulated with but ordinary care its employment is bound to insure results of exceptional precision and reliability. Heferring now to the provisional results of this carefully measured base line, as given below, it will be seen that, in so far as t.heir agreement seems qualified to bear out the preceding observations or to establish the thermic characteristics of the duplex apparatus, they leave no question as to its uncommon perfection both as a bimetallic and thermometric apparatus. The small differences in the measures for half sections, although not yet fully reduced and investigated, prove this beyond a reasonable doubt. As computed from the results for the whole sections, both from the duplex and thermometric mea~mres, the average relative precision attained is 1-5,000,000th part, which is as great as that obtainable by tile Woodward 5-metre bar No. 17 in melting ice, and greater than that yet attained by any other field apparatus liitherto constructed and tri<'d, either in this country or abroad.
+Gii84--4!l
+
+770
+
+UNITED STATES COAST AND GEODETIC SURVEY.
+
+Although the cost of measuring with the duplex can not l>e definitely estimated, being as :t rule largely contingent on circumstances beyond control, it will nevertheless be useful to i11dicate that, owing to simplicity of its construction, portability, ease, and rapidity of manipulation, it can neither be essentially greater nor less than the cost of measuring with the monometallic apparatus of the Survey or metallic tapes and thermometers. Thus, for example, in the present case, in which, as we have seen, fully 23 kilometres were measured. in twenty-three working days, i. e., within thirty days, inclusive of Sundays and days lost on account of unfavorable weather, etc., the total cost of the measurement of the base, including preparations, signals, marking, etc., but excluding pay and transportation of the five regular Ooast Survey officers, was at the rate of al>out $100 per kilometre, single measure. The personnel of the base-measuring party included the following officers: William Eimbeck, Assistant and chief of party. Contacts between the duplex comp0111mts and scale readings. J. J. Gilbert, Assistant, rear bar alignments, inclination sectors, thermometers, transferences, and field computations; P.A. Welker, Assistant, front bar alignments, thermometers, sector transit, inclination sectors, and verification of bar scales; IJ. P. Ritter, Assistant, front trestles and transference of the bars to the ground 111arks; Charles C. Yates, Assistant, keeper of the records and assisting in the field computations; Buford Lynch, air thermometers and miscellaneous; 0. S. Wilkes, civil engineer, rear trestles an<l adjustment of the inclination sectors; Oertainly, in view of the exceptional success achieved in the Salt Lake base measure, ete., credit is due to these gentlemen for their able and untiring support. In the restandardization of tire duplex at \Vashiugton, I had the valuable assistance of the following officers, namely: P.A. Welker, "\V. I. Vinal, G. R. Putnam, KL. Faris, ~nd Ohas. C. Yates, Assistants, and L.A. Fischer, Adjuster of the office of Standard Weigllts and Measures, and E. G. Fischer, Chief Mechanician of the Coast and Geodetic Survey. The shelter sled referred to on page 765 was constructed by Assistant J. J. Gilbert in conformity with general suggestious made by the writer. 'l'he substitution of the ordiuary sled runners for wheels, such as were used on the Yolo shelter carriage, prove1l in every way a success. The actual execution of the measurement of the base under the protection of this sled required fifteen persons. The practicability of constructing equally efficient measuring bars, in conformity with either the thermometric or the bimetallic type, seems fully "demonstrated by the remarkable accordance of the results obtained in this measurement. l\foreover, if it be borne in mind that the Duplex yields from every single measurement three separate results, whose degree of concordance establishes not only their entire trustworthiness but throws also much light upon the tllermal behavior of the apparatus and the care with which it was manipulateu during the measurement, it would seem to be warranteu to assign to it first place among the accepted base aPimratus of the day. No other bars hitherto use1l in geodetic work can lay claim, in my judgment, to so trnique :ind practically signitlcant a distinction.
+
+
